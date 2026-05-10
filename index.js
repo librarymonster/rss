@@ -20,6 +20,30 @@ const byPublishedDate = (a, b) => (new Date(b.published) - new Date(a.published)
 const getEntries = (site) => site.entries
   .map((entry) => ({...entry, site}))
 
+const dreamwidthWordCount = 400
+
+const truncateWords = (text, maxWords) => {
+  const words = text.split(/\s+/).filter(Boolean)
+
+  if (words.length <= maxWords) {
+    return text
+  }
+
+  return words.slice(0, maxWords).join(' ') + '...'
+}
+
+const dreamwidthHtmlToMarkdown = (html) => html
+  .replace(/<a\s+href="([^"]+)"[^>]*>(.*?)<\/a>/gi, '[$2]($1)')
+  .replace(/<br\s*\/?>/gi, '\n\n')
+  .replace(/<ul[^>]*>/gi, '\n')
+  .replace(/<\/ul>/gi, '\n')
+  .replace(/<li[^>]*>/gi, '\n- ')
+  .replace(/<\/li>/gi, '\n')
+  .replace(/<img[^>]*>/gi, '')
+  .replace(/<[^>]+>/g, '')
+  .replace(/\n{3,}/g, '\n\n')
+  .trim()
+
 const formatAsMarkdown = ({title, description, rawDescription, link, published, site}) => {
   const isDreamwidth = link.includes("librarymonster.dreamwidth.org")
 
