@@ -12,7 +12,29 @@ New blog post is out! I talk about my recent trip to #NYC https://librarymonster
 
 LibraryMonster.io - 5/10/2026
 
-Dear Reader, I recently visited New York City and I loooved it (as always). I was there for a medley of Mother's Day and my mums' birthday celebrations with my sisters, C and O, and my mom, E. We stayed at The Conrad in Battery Park City. The suites were roomy and clean, Leonessa was the rooftop bar and it was super charming but our heater was broken so we had to peace out a little earlier than planned. We did a lot of walking on this trip, first stopping at Brookfield Place for coffee and brekkies and memory lane (right after my sister had her kiddo, my mom and I tripped over to help and we'd take him in his stroller, spend hours in Brookfield Place talking &amp; looking at stuff). Then we'd walk along the water either down to the Financial district where O lives or, one morning we headed up to the West Village for a stationary crawl. The Stationary Crawl - [Pink Olive West Village](https://pinkolive.com/): super cute but small corner shop of stationary, stickers, well-curated gifts for people of all ages. - We visited my sister's old apartment building when she lived in the West Village in the 2000s/aughts (and I would come stay the weekends while I was in college&nbsp;:p - [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp; - [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for stationary briefcase](https://www.stickiiclub.com/collections/bao/products/bao-pro-pink-copy-copy) was in one of their displays.&nbsp; We then wandered into a giant Murray's Cheese and made a killing with cheeses, spreads, some salami (that's me; I always treat myself to cheese &amp; salami when I travel) but weirdly the winner was this product,&nbsp;[Green Tea Milk Spread](https://a.co/d/02OxxZ8A). Shockingly delicious, wow. We also hit the High&nbsp;Line and Chelsea Market, but that was on a Saturday so not ideal; just too many people. The Best Restaurants included&nbsp;[A. Pasta Bar](https://apastabar.com/)&nbsp;which was fresh, handmade pasta dishes; tasted amazing. And&nbsp;[La Grande Boucherie](https://www.boucherieus.com/), a hidden gem because it's in an atrium that pops up on...
+Dear Reader,
+
+I recently visited New York City and I loooved it (as always). I was there for a medley of Mother's Day and my mums' birthday celebrations with my sisters, C and O, and my mom, E.
+
+We stayed at The Conrad in Battery Park City. The suites were roomy and clean, Leonessa was the rooftop bar and it was super charming but our heater was broken so we had to peace out a little earlier than planned. 
+
+We did a lot of walking on this trip, first stopping at Brookfield Place for coffee and brekkies and memory lane (right after my sister had her kiddo, my mom and I tripped over to help and we'd take him in his stroller, spend hours in Brookfield Place talking &amp; looking at stuff). Then we'd walk along the water either down to the Financial district where O lives or, one morning we headed up to the West Village for a stationary crawl.
+
+The Stationary Crawl
+
+- [Pink Olive West Village](https://pinkolive.com/): super cute but small corner shop of stationary, stickers, well-curated gifts for people of all ages.
+
+- We visited my sister's old apartment building when she lived in the West Village in the 2000s/aughts (and I would come stay the weekends while I was in college&nbsp;:p
+
+- [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp;
+
+- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for stationary briefcase](https://www.stickiiclub.com/collections/bao/products/bao-pro-pink-copy-copy) was in one of their displays.&nbsp;
+
+We then wandered into a giant Murray's Cheese and made a killing with cheeses, spreads, some salami (that's me; I always treat myself to cheese &amp; salami when I travel) but weirdly the winner was this product,&nbsp;[Green Tea Milk Spread](https://a.co/d/02OxxZ8A). Shockingly delicious, wow.
+
+We also hit the High&nbsp;Line and Chelsea Market, but that was on a Saturday so not ideal; just too many people.
+
+The Best Restaurants included&nbsp;[A. Pasta Bar](https://apastabar.com/)&nbsp;which was fresh, handmade pasta dishes; tasted amazing. And&nbsp;[La Grande Boucherie](https://www.boucherieus.com/), a hidden gem because it's in an atrium that pops up on...
 
 
 [](https://glammr.us/@librarymonster/116547535611108240)
@@ -364,7 +386,23 @@ Love this tool; really easy & beautiful layout configuration capabilities.
 
 LibraryMonster.io - 4/20/2026
 
-Dear Reader, My name is Linn&eacute;a, aka Library Monster, and I'm so happy to finally have a blog platform. I know Dreamwidth has been here since LJ, but I was shopping around for a long time. I kept coming back to DW, so here I am! Finally! Can't wait to have a blogging home, and also join and contribute to this space as an online community. To introduce myself, I'm going to go through the [eight dimensions of wellness](https://pmc.ncbi.nlm.nih.gov/articles/PMC5508938/table/t1-cvj_08_861/) because I think that could be interesting. Physical health - I attribute entirely to my dogs, two of whom I rescued on a chilly Saturday morning this past February. From left (foreground) to right, that is Tiberius (nicknamed Tank), Persephone (nicknamed Phe), and Tavish. Tank &amp; Phe are our most recent additions; Tavish is a bit older and shy, but the babes are all adjusting. Intellectual health has a few points to mention! I suppose this is where I share my love for indie tech (probably doesn't come as a surprise since I've chosen DW) and art in all its forms. My website, [LibraryMonster.io](https://librarymonster.io/), features my designs and works with 3D printing, digital art, traditional &amp; mixed media art, videography, stationary/papercraft, photography, etc. I refuse to be locked down to a medium as an artist! And then my indie web &amp; tech brain is all about finding cyberpunk dystopias cool, but really solarpunk's the goal. I just installed Linux on 3 different aging laptops of mine &amp; it's going awesome. Next step is to make one of them a media server... Of course I'm a fandom person. Horror, fantasy, and scifi are my jam. I am picky about what actually hijacks my brain and has me creating fanworks though. In something like chronological order, my fannish mind has fixated on X-Files, Supernatural, Our Flag Means Death, Good Omens, Murderbot (not the TV show), Marvel (Steve &amp; Bucky forever) and Severance. Emotional/Social health - I&rsquo;m horrified by US politics, warfare, &amp; genocide emerging as a thing people don&rsquo;t wholesale condemn as a society anymore. I'm Pro Palestine, Ukraine, and /*checks notes*/ Iran. Also, learning &amp; experiencing a lot with AI &amp; wondering if we&rsquo;re all gonna die&nbsp; 😂🥂🤣 Environmental health - credit to my canine babes again! Also, I&rsquo;m a witch &amp; celebrating nature &amp; its archetypes - spiritual health - is entwined with this dimension. Getting up at dawn to experience...
+Dear Reader,
+
+My name is Linn&eacute;a, aka Library Monster, and I'm so happy to finally have a blog platform. I know Dreamwidth has been here since LJ, but I was shopping around for a long time. I kept coming back to DW, so here I am! Finally! Can't wait to have a blogging home, and also join and contribute to this space as an online community.
+
+To introduce myself, I'm going to go through the [eight dimensions of wellness](https://pmc.ncbi.nlm.nih.gov/articles/PMC5508938/table/t1-cvj_08_861/) because I think that could be interesting.
+
+Physical health - I attribute entirely to my dogs, two of whom I rescued on a chilly Saturday morning this past February. From left (foreground) to right, that is Tiberius (nicknamed Tank), Persephone (nicknamed Phe), and Tavish. Tank &amp; Phe are our most recent additions; Tavish is a bit older and shy, but the babes are all adjusting.
+
+Intellectual health has a few points to mention!
+
+I suppose this is where I share my love for indie tech (probably doesn't come as a surprise since I've chosen DW) and art in all its forms. My website, [LibraryMonster.io](https://librarymonster.io/), features my designs and works with 3D printing, digital art, traditional &amp; mixed media art, videography, stationary/papercraft, photography, etc. I refuse to be locked down to a medium as an artist!
+
+And then my indie web &amp; tech brain is all about finding cyberpunk dystopias cool, but really solarpunk's the goal. I just installed Linux on 3 different aging laptops of mine &amp; it's going awesome. Next step is to make one of them a media server...
+
+Of course I'm a fandom person. Horror, fantasy, and scifi are my jam. I am picky about what actually hijacks my brain and has me creating fanworks though. In something like chronological order, my fannish mind has fixated on X-Files, Supernatural, Our Flag Means Death, Good Omens, Murderbot (not the TV show), Marvel (Steve &amp; Bucky forever) and Severance. Emotional/Social health - I&rsquo;m horrified by US politics, warfare, &amp; genocide emerging as a thing people don&rsquo;t wholesale condemn as a society anymore. I'm Pro Palestine, Ukraine, and /*checks notes*/ Iran. Also, learning &amp; experiencing a lot with AI &amp; wondering if we&rsquo;re all gonna die&nbsp; 😂🥂🤣
+
+Environmental health - credit to my canine babes again! Also, I&rsquo;m a witch &amp; celebrating nature &amp; its archetypes - spiritual health - is entwined with this dimension. Getting up at dawn to experience...
 
 
 [Popverse](https://www.thepopverse.com/)
