@@ -6,7 +6,7 @@ import readline from 'readline';
 // extract a RSS
 const sites = []
 
-const descriptionCharacterCount = 1000
+const descriptionCharacterCount = 2400
 const articlesCount = 100
 
 
@@ -24,7 +24,7 @@ const formatAsMarkdown = ({title, description, link, published, site}) => `
 [${title}](${link})
 ---
 
-${site.title} --- ${new Date(published).toLocaleDateString()}
+${site.title} - ${new Date(published).toLocaleDateString()}
 
 ${description.slice(0, descriptionCharacterCount)}
 `
