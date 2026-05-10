@@ -46,12 +46,65 @@ const dreamwidthHtmlToMarkdown = (html) => html
   .replace(/\n{3,}/g, '\n\n')
   .trim()
 
-const formatAsMarkdown = ({title, description, rawDescription, link, published, site}) => {
+const raindropBaseUrl = 'https://librarymonster.raindrop.page/lm-io-collection-69723429'
+
+const normalizeCategories = (category) => {
+  if (!category) return []
+  return Array.isArray(category) ? category : [category]
+}
+
+const raindropTagUrl = (tag) => {
+  const query = /[\s:\/]/.test(tag) ? `#"${tag}"` : `#${tag}`
+  return `${raindropBaseUrl}/view/search=${encodeURIComponent(query)}`
+}
+
+const mastodonTagUrl = (tag) =>
+  `https://glammr.us/tags/${encodeURIComponent(tag.replace(/^#/, ''))}`
+
+const formatTags = (tags, type) => {
+  if (!tags.length) return ''
+
+  const links = tags.map((tag) => {
+    const cleanTag = String(tag).trim()
+    const label = `#${cleanTag}`
+
+    if (type === 'raindrop') {
+      return `[${label}](${raindropTagUrl(cleanTag)})`
+    }
+
+    if (type === 'mastodon') {
+      return `[${label}](${mastodonTagUrl(cleanTag)})`
+    }
+
+    return label
+  })
+
+  return `\n\nTags: ${links.join(' ')}`
+}
+
+const linkFediverseHashtags = (text) =>
+  text.replace(/(^|\s)#([A-Za-z0-9_]+)/g, (match, prefix, tag) =>
+    `${prefix}[#${tag}](${mastodonTagUrl(tag)})`
+  )
+
+const formatAsMarkdown = ({title, description, rawDescription, category, link, published, site}) => {
   const isDreamwidth = link.includes("librarymonster.dreamwidth.org")
+  const isRaindrop = site.title.includes("LM.io Collection")
+  const isMastodon = link.includes("glammr.us/@librarymonster")
+
+  const tags = normalizeCategories(category)
 
   const body = isDreamwidth && rawDescription
     ? truncateWords(dreamwidthHtmlToMarkdown(rawDescription), dreamwidthWordCount)
-    : description.slice(0, descriptionCharacterCount)
+    : isMastodon
+      ? linkFediverseHashtags(description.slice(0, descriptionCharacterCount))
+      : description.slice(0, descriptionCharacterCount)
+
+  const tagLine = isRaindrop
+    ? formatTags(tags, 'raindrop')
+    : isMastodon
+      ? formatTags(tags, 'mastodon')
+      : ''
 
   return `
 [${title}](${link})
@@ -59,10 +112,10 @@ const formatAsMarkdown = ({title, description, rawDescription, link, published, 
 
 ${site.title} - ${new Date(published).toLocaleDateString()}
 
-${body}
+${body}${tagLine}
 `
 }
-const rl = readline.createInterface({
+  const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
@@ -77,9 +130,10 @@ rl.on('close', () => {
   Promise.allSettled(
   sites.map((site) => extract(site, {
     descriptionMaxLen: 0,
-    getExtraEntryFields: (feedEntry) => ({
-      rawDescription: feedEntry.description || ''
-    })
+getExtraEntryFields: (feedEntry) => ({
+  rawDescription: feedEntry.description || '',
+  category: feedEntry.category || []
+})  
   }))
 )
     .then((results) => 
