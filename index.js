@@ -20,14 +20,19 @@ const byPublishedDate = (a, b) => (new Date(b.published) - new Date(a.published)
 const getEntries = (site) => site.entries
   .map((entry) => ({...entry, site}))
 
-const formatAsMarkdown = ({title, description, link, published, site}) => `
+const formatAsMarkdown = ({title, description, rawDescription, link, published, site}) => {
+  const isDreamwidth = link.includes("librarymonster.dreamwidth.org")
+  const body = isDreamwidth && rawDescription ? rawDescription : description
+
+  return `
 [${title}](${link})
 ---
 
 ${site.title} - ${new Date(published).toLocaleDateString()}
 
-${description.slice(0, descriptionCharacterCount)}
+${body.slice(0, descriptionCharacterCount)}
 `
+}
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -42,7 +47,12 @@ rl.on('line', (line) => {
 
 rl.on('close', () => {
   Promise.allSettled(
-  sites.map((site) => extract(site, { descriptionMaxLen: 0 }))
+  sites.map((site) => extract(site, {
+    descriptionMaxLen: 0,
+    getExtraEntryFields: (feedEntry) => ({
+      rawDescription: feedEntry.description || ''
+    })
+  }))
 )
     .then((results) => 
       results
