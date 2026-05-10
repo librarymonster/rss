@@ -41,7 +41,9 @@ rl.on('line', (line) => {
 });
 
 rl.on('close', () => {
-  Promise.allSettled(sites.map(extract))
+  Promise.allSettled(
+  sites.map((site) => extract(site, { descriptionMaxLen: 0 }))
+)
     .then((results) => 
       results
         .flatMap((result, i) => {
