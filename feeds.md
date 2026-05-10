@@ -76,7 +76,7 @@ LM.io Collection - 5/4/2026
 
 Lovely little webapp for storm sounds (and a few other profiles like coffee shop, bookstore, etc)
 
-Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fweb%20app%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Audio) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Media%20Player%20Software%22)
+Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Media%20Player%20Software%22)
 
 
 [No Trace Project](https://www.notrace.how/)
@@ -86,7 +86,7 @@ LM.io Collection - 4/27/2026
 
 For *rebels* ¯\_(ツ)_/¯
 
-Tags: [#Privacy](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Privacy) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Guide)
+Tags: [#Privacy](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Privacy) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Guide)
 
 
 [Choosing a Password Manager](https://ssd.eff.org/module/choosing-the-password-manager-that-s-right-for-you)
@@ -96,7 +96,7 @@ LM.io Collection - 4/26/2026
 
 Really helpful for my program in the fall during October 2026's Cybersecurity Month
 
-Tags: [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Pro%20LIS%22) [#Cybersecurity](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Cybersecurity) [#Privacy](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Privacy) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Guide)
+Tags: [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Pro%20LIS%22) [#Cybersecurity](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Cybersecurity) [#Privacy](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Privacy) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Guide)
 
 
 [Current Accessibility Tools – Accessible IT Group](https://accessibleit.disability.illinois.edu/tools/overview/)
@@ -106,7 +106,7 @@ LM.io Collection - 4/26/2026
 
 Additional accessibility tools created by UIUC
 
-Tags: [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Accessibility) [#WebDev](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23WebDev) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22)
+Tags: [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Accessibility) [#WebDev](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23WebDev) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
 
 
 [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/)
@@ -116,7 +116,7 @@ LM.io Collection - 4/26/2026
 
 W3C a list of tools to assist webdevs in making sure they're compliant.
 
-Tags: [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Accessibility) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#WebDev](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23WebDev)
+Tags: [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Accessibility) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#WebDev](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23WebDev)
 
 
 [Prison Library Support Network](https://campsite.bio/plsn)
@@ -126,7 +126,7 @@ LM.io Collection - 4/26/2026
 
 An abolitionist, information-based collective that aims to build resource networks that support incarcerated people.
 
-Tags: [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Online%20Community%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Pro%20LIS%22)
+Tags: [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Pro%20LIS%22)
 
 
 [NetGalley Home](https://www.netgalley.com/)
@@ -136,7 +136,7 @@ LM.io Collection - 4/26/2026
 
 ARCs 👀
 
-Tags: [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Reading) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23eBooks) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22)
+Tags: [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23eBooks) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
 
 
 [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
@@ -146,7 +146,7 @@ LM.io Collection - 4/26/2026
 
 Bookmarklets : Highlight accessibility features of web pages
 
-Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Access: website/extension](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fextension%22) [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Accessibility)
+Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Access: website/extension](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fextension%22) [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Accessibility)
 
 
 [](https://glammr.us/@librarymonster/116471627023499499)
@@ -174,7 +174,7 @@ LM.io Collection - 4/25/2026
 
 The nostalgia of winamp in your browser, webamp.
 
-Tags: [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Nostalgia) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fweb%20app%22) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Media%20Player%20Software%22)
+Tags: [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Media%20Player%20Software%22)
 
 
 [We oppose DRM. | Defective by Design](https://www.defectivebydesign.org/)
@@ -184,7 +184,7 @@ LM.io Collection - 4/25/2026
 
 
 
-Tags: [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23DRM-free) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Guide)
+Tags: [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Guide)
 
 
 [7digital United States | High quality DRM-free MP3 music downloads](https://us.7digital.com/)
@@ -194,7 +194,7 @@ LM.io Collection - 4/25/2026
 
 Based in London, UK (hence the us.7digital link), this company offers a lot of DRM-free popular music.
 
-Tags: [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23DRM-free) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fweb%20app%22) [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Audio)
+Tags: [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio)
 
 
 [Bandcamp](https://bandcamp.com/)
@@ -204,7 +204,7 @@ LM.io Collection - 4/25/2026
 
 "All of the files you download on Bandcamp are 100% DRM-free." 👀 #DownWithDRM HQ is London, UK.
 
-Tags: [#Access: website/web app & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fweb%20app%20%26%20mobile%20app%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Audio) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23DRM-free)
+Tags: [#Access: website/web app & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%20%26%20mobile%20app%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free)
 
 
 [AudiobooksNow](https://www.audiobooksnow.com/)
@@ -214,7 +214,7 @@ LM.io Collection - 4/25/2026
 
 Apparently, only 2% of this site's audiobooks are DRM protected; everything else is on the promise that your purchase is for personal, noncommercial use. Love this! Its own type of physical media (data is an infinitesimal piece of rock but it exists!). HQ is in Virginia, US.
 
-Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23DRM-free)
+Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free)
 
 
 [Rome2Rio](https://www.rome2rio.com/)
@@ -224,7 +224,7 @@ LM.io Collection - 4/25/2026
 
 Rome2Rio is questionable on local or state-wide stuff in the U.S. midwest, but fantastic (read: better than Google Maps) for international traveling. Based in Australia, so perhaps their regional stuff in Australia is on point (that would make sense).
 
-Tags: [#Travel](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Travel) [#Access: website & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%20%26%20mobile%20app%22)
+Tags: [#Travel](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Travel) [#Access: website & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%20%26%20mobile%20app%22)
 
 
 [Ye Olde Blogroll - Because blogs are the soul of the web](https://blogroll.org/)
@@ -234,7 +234,7 @@ LM.io Collection - 4/23/2026
 
 😍 A treasure trove / rabbit hole of the independent Internet 🫶
 
-Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Treasure%20Trove%22) [#IndieWeb](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23IndieWeb) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22)
+Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#IndieWeb](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23IndieWeb) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
 
 
 [Databases](https://guides.library.illinois.edu/az/databases)
@@ -244,7 +244,7 @@ LM.io Collection - 4/23/2026
 
 UIUC databases A-Z, my favorite reference point as an MSLIS student right now.
 
-Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Pro%20LIS%22)
+Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Pro%20LIS%22)
 
 
 [Welcome to Open Library | Open Library](https://openlibrary.org/)
@@ -254,7 +254,7 @@ LM.io Collection - 4/22/2026
 
 Gotta explore this site once I'm done researching for my rare books class right now!
 
-Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Reading) [#Nonprofit Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Nonprofit%20Source%22) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23eBooks)
+Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#Nonprofit Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Nonprofit%20Source%22) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23eBooks)
 
 
 [Archive-It](https://archive-it.org/)
@@ -264,7 +264,7 @@ LM.io Collection - 4/22/2026
 
 Hosted by archive.org, Archive-IT is "The leading service for preserving and accessing digital cultural heritage" for institutions (government, academic, etc.)
 
-Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Treasure%20Trove%22)
+Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
 
 
 [Resource Hub | Programming Librarian](https://programminglibrarian.org/resource-hub)
@@ -274,7 +274,7 @@ LM.io Collection - 4/21/2026
 
 Very appreciated resource hub for librarians that run programs.
 
-Tags: [#Libraries](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Libraries) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Pro%20LIS%22)
+Tags: [#Libraries](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Libraries) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Pro%20LIS%22)
 
 
 [Stuart Semple: Official Homepage | Official website of the British contemporary artist](https://stuartsemple.com/)
@@ -284,7 +284,7 @@ LM.io Collection - 4/21/2026
 
 
 
-Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Artists](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Artists)
+Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Artists](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Artists)
 
 
 [Every Frame a Painting](https://www.youtube.com/@everyframeapainting)
@@ -294,7 +294,7 @@ LM.io Collection - 4/21/2026
 
 Taylor & Tony are gone again! Thanks for watching! We returned in late 2024 for a limited series featuring brand new video essays, followed by a short film – "The Second," starring Paul Sun-Hyung Lee & Ethan Hwang. The original "Every Frame a Painting" was a series of video essays about film form, made from April 2014 to September 2016. We officially announced the end of the channel in December 2017. Nothing sinister, we just felt it was time. This post explains it all: https://medium.com/@tonyszhou/postmortem-1b338537fabc
 
-Tags: [#Access: website & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%20%26%20mobile%20app%22) [#Artists](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Artists)
+Tags: [#Access: website & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%20%26%20mobile%20app%22) [#Artists](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Artists)
 
 
 [Smithsonian Open Access](https://www.si.edu/search/images?edan_fq%5B0%5D=media_usage%3ACC0)
@@ -304,7 +304,7 @@ LM.io Collection - 4/21/2026
 
 Treasure trove of public domain scans of art and literature steeped in history.
 
-Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Public Domain/CC](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Public%20Domain%2FCC%22) [#Academia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Academia) [#Museums](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Museums)
+Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Public Domain/CC](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Public%20Domain%2FCC%22) [#Academia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Academia) [#Museums](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Museums)
 
 
 [Radiooooo](https://app.radiooooo.com/)
@@ -314,7 +314,7 @@ LM.io Collection - 4/21/2026
 
 Similar to radio.garden but DIFFERENT TIME PERIODS!
 
-Tags: [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Audio) [#Travel](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Travel) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Media%20Player%20Software%22) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fweb%20app%22)
+Tags: [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio) [#Travel](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Travel) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Media%20Player%20Software%22) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22)
 
 
 [Z-Library Project - Download Free books and Articles](https://z-library.bz/)
@@ -324,7 +324,7 @@ LM.io Collection - 4/21/2026
 
 I've never used this site, known as a 'shadow library' bc my academic & public libraries have access to these sources & better to give them those traffic stats. But if you're desperate & the final's due at midnight, I get it.
 
-Tags: [#HackThePlanet](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23HackThePlanet) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Sailing%20the%20Seas%22) [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22)
+Tags: [#HackThePlanet](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23HackThePlanet) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Sailing%20the%20Seas%22) [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22)
 
 
 [LibriVox | free public domain audiobooks](https://librivox.org/)
@@ -334,7 +334,7 @@ LM.io Collection - 4/21/2026
 
 This is so cool that there's public domain audiobooks out there.
 
-Tags: [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Reading) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Public Domain/CC](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Public%20Domain%2FCC%22) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23DRM-free)
+Tags: [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Public Domain/CC](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Public%20Domain%2FCC%22) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free)
 
 
 [Library Extension (for web browsers)](https://www.libraryextension.com/)
@@ -344,7 +344,7 @@ LM.io Collection - 4/21/2026
 
 All libraries need to switch from MARC to Bibframe so our catalog entries are interoperable with internet search engines, but hey. In the meantime, we've got this great extension. You need to configure it with your public library & then when you browse books on Amazon (and other places), there's a little box on the webpage that shows you whether your local library has the title.
 
-Tags: [#Access: website/extension](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fextension%22) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Reading)
+Tags: [#Access: website/extension](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fextension%22) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading)
 
 
 [Hardcover](https://hardcover.app/)
@@ -354,7 +354,7 @@ LM.io Collection - 4/21/2026
 
 I wish Storygraph were more social; this app seems to be that? Not sure. Gotta try it out.
 
-Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Access: website/web app & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fweb%20app%20%26%20mobile%20app%22) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Reading) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Online%20Community%22)
+Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Access: website/web app & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%20%26%20mobile%20app%22) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22)
 
 
 [](https://glammr.us/@librarymonster/116439819125872043)
@@ -394,7 +394,7 @@ LM.io Collection - 4/20/2026
 
 An independent and FOSS app store for Android OS. App stores *should* just be utilities, not owned by Big Tech, so that's why it's a tag.
 
-Tags: [#IndieWeb](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23IndieWeb) [#Access: mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20mobile%20app%22) [#Android Only](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Android%20Only%22) [#HackThePlanet](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23HackThePlanet) [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23SolarPunk) [#Utility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Utility)
+Tags: [#IndieWeb](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23IndieWeb) [#Access: mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20mobile%20app%22) [#Android Only](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Android%20Only%22) [#HackThePlanet](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23HackThePlanet) [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk) [#Utility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Utility)
 
 
 [](https://glammr.us/@librarymonster/116439572530522660)
@@ -414,7 +414,7 @@ LM.io Collection - 4/20/2026
 
 A treasure trove of hilarious old (ca 2000-2015ish) 'fandom wank' (read: fans taking themselves too seriously & getting into it with each other)
 
-Tags: [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Fandom) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Treasure%20Trove%22) [#Memes](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Memes)
+Tags: [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Fandom) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Memes](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Memes)
 
 
 [](https://glammr.us/@librarymonster/116439413850955784)
@@ -434,7 +434,7 @@ LM.io Collection - 4/20/2026
 
 Love this tool; really easy & beautiful layout configuration capabilities.
 
-Tags: [#Access: website/extension](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%2Fextension%22)
+Tags: [#Access: website/extension](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fextension%22)
 
 
 [Intro Post 👻](https://librarymonster.dreamwidth.org/1372.html)
@@ -468,7 +468,7 @@ LM.io Collection - 4/20/2026
 
 I've subscribed for a month to watch all the NYCC panels :P
 
-Tags: [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Fandom) [#News](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23News) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22)
+Tags: [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Fandom) [#News](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23News) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
 
 
 [32-Bit Cafe](https://discourse.32bit.cafe/)
@@ -478,7 +478,7 @@ LM.io Collection - 4/20/2026
 
 I haven't explored this comm but the more I look around, the more I'm wondering how I missed this site 👀
 
-Tags: [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Online%20Community%22) [#IndieWeb](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23IndieWeb) [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23Nostalgia) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22) [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22)
+Tags: [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#IndieWeb](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23IndieWeb) [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22)
 
 
 [](https://glammr.us/@librarymonster/116431813313099571)
@@ -508,7 +508,7 @@ LM.io Collection - 4/18/2026
 
 
 
-Tags: [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Media%20Player%20Software%22) [#Access: software & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20software%20%26%20mobile%20app%22)
+Tags: [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Media%20Player%20Software%22) [#Access: software & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20software%20%26%20mobile%20app%22)
 
 
 [ADL AI Index | ADL](https://www.adl.org/adl-ai-index)
@@ -518,7 +518,7 @@ LM.io Collection - 4/18/2026
 
 ADL AI Index
 
-Tags: [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23AI) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22)
+Tags: [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23AI) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
 
 
 [AI 2027](https://ai-2027.com/)
@@ -528,5 +528,5 @@ LM.io Collection - 4/18/2026
 
 Legit scared we're on the brink of extinction 😂
 
-Tags: [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23AI) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/search=%23%22Access%3A%20website%22)
+Tags: [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23AI) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
 
