@@ -22,7 +22,10 @@ const getEntries = (site) => site.entries
 
 const formatAsMarkdown = ({title, description, rawDescription, link, published, site}) => {
   const isDreamwidth = link.includes("librarymonster.dreamwidth.org")
-  const body = isDreamwidth && rawDescription ? rawDescription : description
+
+  const body = isDreamwidth && rawDescription
+    ? truncateWords(dreamwidthHtmlToMarkdown(rawDescription), dreamwidthWordCount)
+    : description.slice(0, descriptionCharacterCount)
 
   return `
 [${title}](${link})
@@ -30,10 +33,9 @@ const formatAsMarkdown = ({title, description, rawDescription, link, published, 
 
 ${site.title} - ${new Date(published).toLocaleDateString()}
 
-${body.slice(0, descriptionCharacterCount)}
+${body}
 `
 }
-
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
