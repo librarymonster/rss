@@ -6,7 +6,7 @@ import readline from 'readline';
 // extract a RSS
 const sites = []
 
-const descriptionCharacterCount = 2400
+const descriptionCharacterCount = 1800
 const articlesCount = 50
 
 
