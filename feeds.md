@@ -39,6 +39,94 @@ Linnèa the Library Monster - 5/5/2026
 It's so weird how #dogs have different lick styles. Phe gives quick, affectionate licks & Tank gives these long licks with his whole head like a cow 😂 it's the funniest, kinda grossest thing but wouldn't have it any other way 💛
 
 
+[A Soft Murmur](https://asoftmurmur.com/)
+---
+
+LM.io Collection - 5/4/2026
+
+Lovely little webapp for storm sounds (and a few other profiles like coffee shop, bookstore, etc)
+
+
+[Newslit: News Literacy Project](https://newslit.org/)
+---
+
+LM.io Collection - 4/29/2026
+
+For a future founded on facts
+
+
+[Evanston PL Linux Party Brochure](https://api.raindrop.io/v2/raindrop/1699091077/file?type=image%2Fpng)
+---
+
+LM.io Collection - 4/28/2026
+
+From November 2025
+
+
+[No Trace Project](https://www.notrace.how/)
+---
+
+LM.io Collection - 4/27/2026
+
+For *rebels* ¯\_(ツ)_/¯
+
+
+[Cook County Digital Equity Toolkit](https://digitalequity.cookcountyil.gov/toolkit)
+---
+
+LM.io Collection - 4/26/2026
+
+Digital Inclusion Week
+
+
+[Choosing a Password Manager](https://ssd.eff.org/module/choosing-the-password-manager-that-s-right-for-you)
+---
+
+LM.io Collection - 4/26/2026
+
+Really helpful for my program in the fall during October 2026's Cybersecurity Month
+
+
+[Current Accessibility Tools – Accessible IT Group](https://accessibleit.disability.illinois.edu/tools/overview/)
+---
+
+LM.io Collection - 4/26/2026
+
+Additional accessibility tools created by UIUC
+
+
+[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/)
+---
+
+LM.io Collection - 4/26/2026
+
+W3C a list of tools to assist webdevs in making sure they're compliant.
+
+
+[Prison Library Support Network](https://campsite.bio/plsn)
+---
+
+LM.io Collection - 4/26/2026
+
+An abolitionist, information-based collective that aims to build resource networks that support incarcerated people.
+
+
+[NetGalley Home](https://www.netgalley.com/)
+---
+
+LM.io Collection - 4/26/2026
+
+ARCs 👀
+
+
+[Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
+---
+
+LM.io Collection - 4/26/2026
+
+Bookmarklets : Highlight accessibility features of web pages
+
+
 [](https://glammr.us/@librarymonster/116471627023499499)
 ---
 
@@ -53,6 +141,158 @@ My collection of music largely stopped around 2014ish because streaming kinda to
 Linnèa the Library Monster - 4/26/2026
 
 Buenos días desde la casa del monstruo de la biblioteca. Tienes el perro en casa? Yo tengoooo!
+
+
+[Webamp • Winamp in your browser](https://webamp.org/)
+---
+
+LM.io Collection - 4/25/2026
+
+The nostalgia of winamp in your browser, webamp.
+
+
+[We oppose DRM. | Defective by Design](https://www.defectivebydesign.org/)
+---
+
+LM.io Collection - 4/25/2026
+
+
+
+
+[7digital United States | High quality DRM-free MP3 music downloads](https://us.7digital.com/)
+---
+
+LM.io Collection - 4/25/2026
+
+Based in London, UK (hence the us.7digital link), this company offers a lot of DRM-free popular music.
+
+
+[Bandcamp](https://bandcamp.com/)
+---
+
+LM.io Collection - 4/25/2026
+
+"All of the files you download on Bandcamp are 100% DRM-free." 👀 #DownWithDRM HQ is London, UK.
+
+
+[AudiobooksNow](https://www.audiobooksnow.com/)
+---
+
+LM.io Collection - 4/25/2026
+
+Apparently, only 2% of this site's audiobooks are DRM protected; everything else is on the promise that your purchase is for personal, noncommercial use. Love this! Its own type of physical media (data is an infinitesimal piece of rock but it...
+
+
+[Rome2Rio](https://www.rome2rio.com/)
+---
+
+LM.io Collection - 4/25/2026
+
+Rome2Rio is questionable on local or state-wide stuff in the U.S. midwest, but fantastic (read: better than Google Maps) for international traveling. Based in Australia, so perhaps their regional stuff in Australia is on point (that would make...
+
+
+[Ye Olde Blogroll - Because blogs are the soul of the web](https://blogroll.org/)
+---
+
+LM.io Collection - 4/23/2026
+
+😍 A treasure trove / rabbit hole of the independent Internet 🫶
+
+
+[Databases](https://guides.library.illinois.edu/az/databases)
+---
+
+LM.io Collection - 4/23/2026
+
+UIUC databases A-Z, my favorite reference point as an MSLIS student right now.
+
+
+[Welcome to Open Library | Open Library](https://openlibrary.org/)
+---
+
+LM.io Collection - 4/22/2026
+
+Gotta explore this site once I'm done researching for my rare books class right now!
+
+
+[Archive-It](https://archive-it.org/)
+---
+
+LM.io Collection - 4/22/2026
+
+Hosted by archive.org, Archive-IT is "The leading service for preserving and accessing digital cultural heritage" for institutions (government, academic, etc.)
+
+
+[Resource Hub | Programming Librarian](https://programminglibrarian.org/resource-hub)
+---
+
+LM.io Collection - 4/21/2026
+
+Very appreciated resource hub for librarians that run programs.
+
+
+[Stuart Semple: Official Homepage | Official website of the British contemporary artist](https://stuartsemple.com/)
+---
+
+LM.io Collection - 4/21/2026
+
+
+
+
+[Every Frame a Painting](https://www.youtube.com/@everyframeapainting)
+---
+
+LM.io Collection - 4/21/2026
+
+Taylor & Tony are gone again! Thanks for watching! We returned in late 2024 for a limited series featuring brand new video essays, followed by a short film – "The Second," starring Paul Sun-Hyung Lee & Ethan Hwang. The original "Every Frame a...
+
+
+[Smithsonian Open Access](https://www.si.edu/search/images?edan_fq%5B0%5D=media_usage%3ACC0)
+---
+
+LM.io Collection - 4/21/2026
+
+Treasure trove of public domain scans of art and literature steeped in history.
+
+
+[Radiooooo](https://app.radiooooo.com/)
+---
+
+LM.io Collection - 4/21/2026
+
+Similar to radio.garden but DIFFERENT TIME PERIODS!
+
+
+[Z-Library Project - Download Free books and Articles](https://z-library.bz/)
+---
+
+LM.io Collection - 4/21/2026
+
+I've never used this site, known as a 'shadow library' bc my academic & public libraries have access to these sources & better to give them those traffic stats. But if you're desperate & the final's due at midnight, I get it.
+
+
+[LibriVox | free public domain audiobooks](https://librivox.org/)
+---
+
+LM.io Collection - 4/21/2026
+
+This is so cool that there's public domain audiobooks out there.
+
+
+[Library Extension (for web browsers)](https://www.libraryextension.com/)
+---
+
+LM.io Collection - 4/21/2026
+
+All libraries need to switch from MARC to Bibframe so our catalog entries are interoperable with internet search engines, but hey. In the meantime, we've got this great extension. You need to configure it with your public library & then when you...
+
+
+[Hardcover](https://hardcover.app/)
+---
+
+LM.io Collection - 4/21/2026
+
+I wish Storygraph were more social; this app seems to be that? Not sure. Gotta try it out.
 
 
 [](https://glammr.us/@librarymonster/116439819125872043)
@@ -79,12 +319,28 @@ Linnèa the Library Monster - 4/20/2026
 The irony of signing into change.org with my #Google account to join the petition to #KeepAndroidOpen https://c.org/g466SqZsVV
 
 
+[F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/)
+---
+
+LM.io Collection - 4/20/2026
+
+An independent and FOSS app store for Android OS. App stores *should* just be utilities, not owned by Big Tech, so that's why it's a tag.
+
+
 [](https://glammr.us/@librarymonster/116439572530522660)
 ---
 
 Linnèa the Library Monster - 4/20/2026
 
 Created an #EFF #ElectronicFrontierFoundation feed for your #Dreamwidth reading pages https://efforg-feed.dreamwidth.org/
+
+
+[Fandom Wank Lives!](https://web.archive.org/web/20140215060002/http://www.journalfen.net/community/fandom_wank/)
+---
+
+LM.io Collection - 4/20/2026
+
+A treasure trove of hilarious old (ca 2000-2015ish) 'fandom wank' (read: fans taking themselves too seriously & getting into it with each other)
 
 
 [](https://glammr.us/@librarymonster/116439413850955784)
@@ -95,12 +351,36 @@ Linnèa the Library Monster - 4/20/2026
 Okay! I am now officially on #Dreamwidth ! #IndieWeb #Blogging Here's my #IntroPost : https://librarymonster.dreamwidth.org/1372.htmlif you're on DW pls come visit me/follow me/friend me/whatever you do!
 
 
+[Renewed Tab](https://renewedtab.com/en/)
+---
+
+LM.io Collection - 4/20/2026
+
+Love this tool; really easy & beautiful layout configuration capabilities.
+
+
 [Intro Post 👻](https://librarymonster.dreamwidth.org/1372.html)
 ---
 
 LibraryMonster.io - 4/20/2026
 
 Dear Reader,My name is Linnéa, aka Library Monster, and I'm so happy to finally have a blog platform. I know Dreamwidth has been here since LJ, but I was shopping around for a long time. I kept coming back to DW, so here I am! Finally! Can't wait...
+
+
+[Popverse](https://www.thepopverse.com/)
+---
+
+LM.io Collection - 4/20/2026
+
+I've subscribed for a month to watch all the NYCC panels :P
+
+
+[32-Bit Cafe](https://discourse.32bit.cafe/)
+---
+
+LM.io Collection - 4/20/2026
+
+I haven't explored this comm but the more I look around, the more I'm wondering how I missed this site 👀
 
 
 [](https://glammr.us/@librarymonster/116431813313099571)
@@ -117,6 +397,126 @@ I’m working on tagging my collection of resources on https://raindrop.io/libra
 Linnèa the Library Monster - 4/18/2026
 
 I'm watching #TheRunningMan and this guy lol how is Glen Powell supposed to be the angriest guy he looks like a quokka
+
+
+[VLC: Official site - Free multimedia solutions for all OS! - VideoLAN](https://www.videolan.org/)
+---
+
+LM.io Collection - 4/18/2026
+
+
+
+
+[ADL AI Index | ADL](https://www.adl.org/adl-ai-index)
+---
+
+LM.io Collection - 4/18/2026
+
+ADL AI Index
+
+
+[AI 2027](https://ai-2027.com/)
+---
+
+LM.io Collection - 4/18/2026
+
+Legit scared we're on the brink of extinction 😂
+
+
+[r/nosleep](https://www.reddit.com/r/nosleep/)
+---
+
+LM.io Collection - 4/18/2026
+
+Some goodies have come from this space 🐈‍⬛
+
+
+[Seaside Gothic | Fiction | Poetry | Nonfiction](https://seasidegothic.com/)
+---
+
+LM.io Collection - 4/18/2026
+
+A magazine from the edge of the sea where the frontier of civilisation meets the wild of the water.
+
+
+[Power Thesaurus: Comprehensive, Fast & User-Friendly Thesaurus](https://www.powerthesaurus.org/)
+---
+
+LM.io Collection - 4/18/2026
+
+I love this online thesaurus. It doesn't give me definitions - just lists of words or phrases that vibe with the one(s) I entered.
+
+
+[Fast Quadric Mesh Simplification](https://myminifactory.github.io/Fast-Quadric-Mesh-Simplification/)
+---
+
+LM.io Collection - 4/18/2026
+
+Got a 3D print that has WAYYY too many unnecessary points for a decent print? Put it through this perfect little site.
+
+
+[bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
+---
+
+LM.io Collection - 4/18/2026
+
+This dude Brad Traversy's extensive list of resources for webdevs. A treasure trove I need to explore further!
+
+
+[Winamp Skin Museum](https://skins.webamp.org/)
+---
+
+LM.io Collection - 4/18/2026
+
+I downloaded and use the Supernatural season 1 promo photography theme with WACUP 👻😂
+
+
+[WACUP](https://getwacup.com/)
+---
+
+LM.io Collection - 4/18/2026
+
+HO MY GOD y'all, download this for the nostalgic Winamp experience + download a skin for your music player via https://skins.webamp.org/
+
+
+[Paper Modelers](https://www.papermodelers.com/)
+---
+
+LM.io Collection - 4/18/2026
+
+PaperModelers.com  is a forum dedicated to the discussion and sharing of information about Card Modeling.  Also know as Paper modeling, Card Modeling is regaining popularity with people of all ages.
+
+
+[NetGalley Home](https://www.netgalley.com/)
+---
+
+LM.io Collection - 4/18/2026
+
+The more popular ARC source for most book industry professionals.
+
+
+[Edelweiss+](https://www.edelweiss.plus/)
+---
+
+LM.io Collection - 4/18/2026
+
+One of the funniest little secret sites that grants ARCs to librarians, publishers, industry professionals, etc.
+
+
+[U.S. Global Entry Program: Enrollment upon arrival](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/enrollment-arrival)
+---
+
+LM.io Collection - 4/18/2026
+
+For a hot second, the U.S. administration ended the Global Entry program, but then it reopened. It's a nightmare to try to schedule an appointment at an airport months in advance; instead, fill out the application before you fly international, and...
+
+
+[Explore live radio by rotating the globe](https://radio.garden/)
+---
+
+LM.io Collection - 4/18/2026
+
+I keep meaning to check this out! If you're an audiophile, this is for you.
 
 
 [](https://glammr.us/@librarymonster/116420305614969148)
