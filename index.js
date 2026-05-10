@@ -23,13 +23,15 @@ const getEntries = (site) => site.entries
 const dreamwidthWordCount = 400
 
 const truncateWords = (text, maxWords) => {
-  const words = text.split(/\s+/).filter(Boolean)
+  const matches = [...text.matchAll(/\S+/g)]
 
-  if (words.length <= maxWords) {
+  if (matches.length <= maxWords) {
     return text
   }
 
-  return words.slice(0, maxWords).join(' ') + '...'
+  const cutoff = matches[maxWords - 1].index + matches[maxWords - 1][0].length
+
+  return text.slice(0, cutoff).trim() + '...'
 }
 
 const dreamwidthHtmlToMarkdown = (html) => html
