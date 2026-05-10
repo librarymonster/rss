@@ -1,10 +1,12 @@
-  name: Build feeds
-  on:
-    push:
-      branches:
-        - main
-    schedule:
-      - cron:  '0 0 * * *'
+name: Build feeds
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
   jobs:
     build-feed-page:
       runs-on: ubuntu-latest
