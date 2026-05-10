@@ -1,0 +1,32 @@
+name: Deploy RSS feed to Neocities
+
+on:
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: deploy-rss-feed
+  cancel-in-progress: true
+
+jobs:
+  deploy-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Convert feeds.md to HTML
+        run: |
+          mkdir -p public
+          npx --yes marked -i feeds.md -o public/newsfeed.html
+
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v3
+        with:
+          api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: public
+          cleanup: false
