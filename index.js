@@ -54,8 +54,12 @@ const normalizeCategories = (category) => {
 }
 
 const raindropTagUrl = (tag) => {
-  const query = /[\s:\/]/.test(tag) ? `#"${tag}"` : `#${tag}`
-  return `${raindropBaseUrl}/view/search=${encodeURIComponent(query)}`
+  const cleanTag = String(tag).trim()
+  const query = /[\s:\/]/.test(cleanTag)
+    ? `#"${cleanTag}"`
+    : `#${cleanTag}`
+
+  return `${raindropBaseUrl}/view/sort=-created&search=${encodeURIComponent(query)}`
 }
 
 const mastodonTagUrl = (tag) =>
