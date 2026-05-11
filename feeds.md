@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/116556344917323447)
+---
+
+Linnèa the Library Monster - 5/11/2026
+
+Yesterday was SO exciting! I actually did [#github](https://glammr.us/tags/github) stuff for the 1st time ever: learned what 'forking' was and what 'commits' are! Using https://github.com/abuseofnotation/feed-aggregator I merged my [#RSS](https://glammr.us/tags/RSS) feeds (so far I've got [#Dreamwidth](https://glammr.us/tags/Dreamwidth) [#Masto](https://glammr.us/tags/Masto) [#Raindrop](https://glammr.us/tags/Raindrop) & put them into my [#Neocities](https://glammr.us/tags/Neocities). The crowd in my head is going WILD right now!I used [#Perplexity](https://glammr.us/tags/Perplexity) to help me along. Wondering if, in an ironic twist, ppl will use [#AI](https://glammr.us/tags/AI) for [#IndieWeb](https://glammr.us/tags/IndieWeb) endeavors like this rejecting [#BigTech](https://glammr.us/tags/BigTech)...
+
+Tags: [#github](https://glammr.us/tags/github) [#rss](https://glammr.us/tags/rss) [#dreamwidth](https://glammr.us/tags/dreamwidth) [#masto](https://glammr.us/tags/masto) [#raindrop](https://glammr.us/tags/raindrop) [#neocities](https://glammr.us/tags/neocities) [#perplexity](https://glammr.us/tags/perplexity) [#indieweb](https://glammr.us/tags/indieweb) [#bigtech](https://glammr.us/tags/bigtech) [#ai](https://glammr.us/tags/ai)
+
+
 [NEOTROPOLIS](https://www.neotropolis.com/)
 ---
 
@@ -255,14 +265,4 @@ LM.io Collection - 4/23/2026
 UIUC databases A-Z, my favorite reference point as an MSLIS student right now.
 
 Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Pro%20LIS%22)
-
-
-[Welcome to Open Library | Open Library](https://openlibrary.org/)
----
-
-LM.io Collection - 4/22/2026
-
-Gotta explore this site once I'm done researching for my rare books class right now!
-
-Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#Nonprofit Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Nonprofit%20Source%22) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23eBooks)
 
