@@ -1,4 +1,14 @@
 
+[NEOTROPOLIS](https://www.neotropolis.com/)
+---
+
+LM.io Collection - 5/11/2026
+
+I just discovered this annual spring event in the Mojave desert in California, Neotropolis, through posts on /r/cyberpunk - it's basically a ren fair only cyberpunk. I would LOVE to attend. Gotta keep my eye out for when volunteer and/or tickets open up for 2027.
+
+Tags: [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Fandom) [#Events](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Events) [#Cyberpunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Cyberpunk) [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk)
+
+
 [](https://glammr.us/@librarymonster/116547592139161478)
 ---
 
@@ -255,14 +265,4 @@ LM.io Collection - 4/22/2026
 Gotta explore this site once I'm done researching for my rare books class right now!
 
 Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#Nonprofit Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Nonprofit%20Source%22) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23eBooks)
-
-
-[Archive-It](https://archive-it.org/)
----
-
-LM.io Collection - 4/22/2026
-
-Hosted by archive.org, Archive-IT is "The leading service for preserving and accessing digital cultural heritage" for institutions (government, academic, etc.)
-
-Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
 
