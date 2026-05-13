@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/116562890700878950)
+---
+
+Linnèa the Library Monster - 5/12/2026
+
+[#GoodOmens](https://glammr.us/tags/GoodOmens) S3 tv movie event - releases tonight, 2am on Wednesday for me. Maybe, um, if I took a nap right when I got home... 🤔 I don't even remember the last time I stayed up til like 4am though 😂
+
+Tags: [#goodomens](https://glammr.us/tags/goodomens)
+
+
+[](https://glammr.us/@librarymonster/116559375917701343)
+---
+
+Linnèa the Library Monster - 5/12/2026
+
+The repeated refrain that [#AI](https://glammr.us/tags/AI) is inaccurate & hallucinates & is therefore useless totally ignores how 1) it's getting more and more accurate and 2) even if it weren't, most questions we have while navigating life really aren't seeking the purest most scholarly-researched facts. Maybe I'd be more intense about it if I were an academic librarian, but even the databases UIUC offers are implementing AI...
+
+Tags: [#ai](https://glammr.us/tags/ai)
+
+
 [](https://glammr.us/@librarymonster/116556344917323447)
 ---
 
@@ -245,24 +265,4 @@ LM.io Collection - 4/25/2026
 Rome2Rio is questionable on local or state-wide stuff in the U.S. midwest, but fantastic (read: better than Google Maps) for international traveling. Based in Australia, so perhaps their regional stuff in Australia is on point (that would make sense).
 
 Tags: [#Travel](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Travel) [#Access: website & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%20%26%20mobile%20app%22)
-
-
-[Ye Olde Blogroll - Because blogs are the soul of the web](https://blogroll.org/)
----
-
-LM.io Collection - 4/23/2026
-
-😍 A treasure trove / rabbit hole of the independent Internet 🫶
-
-Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#IndieWeb](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23IndieWeb) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
-
-
-[Databases](https://guides.library.illinois.edu/az/databases)
----
-
-LM.io Collection - 4/23/2026
-
-UIUC databases A-Z, my favorite reference point as an MSLIS student right now.
-
-Tags: [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Pro%20LIS%22)
 
