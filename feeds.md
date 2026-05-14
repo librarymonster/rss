@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/116573108527956553)
+---
+
+Linnèa the Library Monster - 5/14/2026
+
+Coming soon... a portfolio of all my cell phone case designs. I've made quite a lot of them through the years and they deserve their own page on my site :p
+
+
 [](https://glammr.us/@librarymonster/116562890700878950)
 ---
 
@@ -255,14 +263,4 @@ LM.io Collection - 4/25/2026
 Apparently, only 2% of this site's audiobooks are DRM protected; everything else is on the promise that your purchase is for personal, noncommercial use. Love this! Its own type of physical media (data is an infinitesimal piece of rock but it exists!). HQ is in Virginia, US.
 
 Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free)
-
-
-[Rome2Rio](https://www.rome2rio.com/)
----
-
-LM.io Collection - 4/25/2026
-
-Rome2Rio is questionable on local or state-wide stuff in the U.S. midwest, but fantastic (read: better than Google Maps) for international traveling. Based in Australia, so perhaps their regional stuff in Australia is on point (that would make sense).
-
-Tags: [#Travel](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Travel) [#Access: website & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%20%26%20mobile%20app%22)
 
