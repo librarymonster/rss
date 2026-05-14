@@ -78,13 +78,7 @@ The Stationary Crawl
 
 - [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp;
 
-- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for stationary briefcase](https://www.stickiiclub.com/collections/bao/products/bao-pro-pink-copy-copy) was in one of their displays.&nbsp;
-
-We then wandered into a giant Murray's Cheese and made a killing with cheeses, spreads, some salami (that's me; I always treat myself to cheese &amp; salami when I travel) but weirdly the winner was this product,&nbsp;[Green Tea Milk Spread](https://a.co/d/02OxxZ8A). Shockingly delicious, wow.
-
-We also hit the High&nbsp;Line and Chelsea Market, but that was on a Saturday so not ideal; just too many people.
-
-The Best Restaurants included&nbsp;[A. Pasta Bar](https://apastabar.com/)&nbsp;which was fresh, handmade pasta dishes; tasted amazing. And&nbsp;[La Grande Boucherie](https://www.boucherieus.com/), a hidden gem because it's in an atrium that pops up on...
+- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for...
 
 
 [](https://glammr.us/@librarymonster/116547535611108240)
