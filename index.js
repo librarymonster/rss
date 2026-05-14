@@ -20,7 +20,7 @@ const byPublishedDate = (a, b) => (new Date(b.published) - new Date(a.published)
 const getEntries = (site) => site.entries
   .map((entry) => ({...entry, site}))
 
-const dreamwidthWordCount = 400
+const dreamwidthWordCount = 300
 
 const truncateWords = (text, maxWords) => {
   const matches = [...text.matchAll(/\S+/g)]
