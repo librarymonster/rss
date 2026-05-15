@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/116575941051475124)
+---
+
+Linnèa the Library Monster - 5/15/2026
+
+Content warning:GO S3 spoilersFinished [#GoodOmens](https://glammr.us/tags/GoodOmens) S3.I'm gutted - it was so fast! I could tell how the emotional beats would've felt better if we'd been given more time and space to breathe atmosphere and supporting characters.I adored the "bookshop at the end of the world" element. I didn't like where it went, tho; the ending was cool for how there's so much love for AUs but I'm a bigger fan of the cosmic angel/demon love thing so I was sad to see it go."Why did you give me Crowley?" 😭
+
+Tags: [#goodomens](https://glammr.us/tags/goodomens)
+
+
 [](https://glammr.us/@librarymonster/116573108527956553)
 ---
 
@@ -55,30 +65,6 @@ Linnèa the Library Monster - 5/10/2026
 New blog post is out! I talk about my recent trip to [#NYC](https://glammr.us/tags/NYC) https://librarymonster.dreamwidth.org/1684.html [#Travel](https://glammr.us/tags/Travel) [#Spas](https://glammr.us/tags/Spas) [#NewYorkCity](https://glammr.us/tags/NewYorkCity)
 
 Tags: [#nyc](https://glammr.us/tags/nyc) [#travel](https://glammr.us/tags/travel) [#spas](https://glammr.us/tags/spas) [#newyorkcity](https://glammr.us/tags/newyorkcity)
-
-
-[New York City](https://librarymonster.dreamwidth.org/1684.html)
----
-
-LibraryMonster.io - 5/10/2026
-
-Dear Reader,
-
-I recently visited New York City and I loooved it (as always). I was there for a medley of Mother's Day and my mums' birthday celebrations with my sisters, C and O, and my mom, E.
-
-We stayed at The Conrad in Battery Park City. The suites were roomy and clean, Leonessa was the rooftop bar and it was super charming but our heater was broken so we had to peace out a little earlier than planned. 
-
-We did a lot of walking on this trip, first stopping at Brookfield Place for coffee and brekkies and memory lane (right after my sister had her kiddo, my mom and I tripped over to help and we'd take him in his stroller, spend hours in Brookfield Place talking &amp; looking at stuff). Then we'd walk along the water either down to the Financial district where O lives or, one morning we headed up to the West Village for a stationary crawl.
-
-The Stationary Crawl
-
-- [Pink Olive West Village](https://pinkolive.com/): super cute but small corner shop of stationary, stickers, well-curated gifts for people of all ages.
-
-- We visited my sister's old apartment building when she lived in the West Village in the 2000s/aughts (and I would come stay the weekends while I was in college&nbsp;:p
-
-- [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp;
-
-- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for...
 
 
 [](https://glammr.us/@librarymonster/116547535611108240)
