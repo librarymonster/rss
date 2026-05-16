@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/116580391924063366)
+---
+
+Linnèa the Library Monster - 5/15/2026
+
+
+
+
 [](https://glammr.us/@librarymonster/116575941051475124)
 ---
 
@@ -65,6 +73,30 @@ Linnèa the Library Monster - 5/10/2026
 New blog post is out! I talk about my recent trip to [#NYC](https://glammr.us/tags/NYC) https://librarymonster.dreamwidth.org/1684.html [#Travel](https://glammr.us/tags/Travel) [#Spas](https://glammr.us/tags/Spas) [#NewYorkCity](https://glammr.us/tags/NewYorkCity)
 
 Tags: [#nyc](https://glammr.us/tags/nyc) [#travel](https://glammr.us/tags/travel) [#spas](https://glammr.us/tags/spas) [#newyorkcity](https://glammr.us/tags/newyorkcity)
+
+
+[New York City](https://librarymonster.dreamwidth.org/1684.html)
+---
+
+LibraryMonster.io - 5/10/2026
+
+Dear Reader,
+
+I recently visited New York City and I loooved it (as always). I was there for a medley of Mother's Day and my mums' birthday celebrations with my sisters, C and O, and my mom, E.
+
+We stayed at The Conrad in Battery Park City. The suites were roomy and clean, Leonessa was the rooftop bar and it was super charming but our heater was broken so we had to peace out a little earlier than planned. 
+
+We did a lot of walking on this trip, first stopping at Brookfield Place for coffee and brekkies and memory lane (right after my sister had her kiddo, my mom and I tripped over to help and we'd take him in his stroller, spend hours in Brookfield Place talking &amp; looking at stuff). Then we'd walk along the water either down to the Financial district where O lives or, one morning we headed up to the West Village for a stationary crawl.
+
+The Stationary Crawl
+
+- [Pink Olive West Village](https://pinkolive.com/): super cute but small corner shop of stationary, stickers, well-curated gifts for people of all ages.
+
+- We visited my sister's old apartment building when she lived in the West Village in the 2000s/aughts (and I would come stay the weekends while I was in college&nbsp;:p
+
+- [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp;
+
+- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for...
 
 
 [](https://glammr.us/@librarymonster/116547535611108240)
@@ -223,24 +255,4 @@ LM.io Collection - 4/25/2026
 Based in London, UK (hence the us.7digital link), this company offers a lot of DRM-free popular music.
 
 Tags: [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio)
-
-
-[Bandcamp](https://bandcamp.com/)
----
-
-LM.io Collection - 4/25/2026
-
-"All of the files you download on Bandcamp are 100% DRM-free." 👀 #DownWithDRM HQ is London, UK.
-
-Tags: [#Access: website/web app & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%20%26%20mobile%20app%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free)
-
-
-[AudiobooksNow](https://www.audiobooksnow.com/)
----
-
-LM.io Collection - 4/25/2026
-
-Apparently, only 2% of this site's audiobooks are DRM protected; everything else is on the promise that your purchase is for personal, noncommercial use. Love this! Its own type of physical media (data is an infinitesimal piece of rock but it exists!). HQ is in Virginia, US.
-
-Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free)
 
