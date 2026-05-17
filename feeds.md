@@ -119,6 +119,16 @@ Lemme you how much I love putting kraken tentacles onto lighthouses meant for ou
 Tags: [#ofmd](https://glammr.us/tags/ofmd)
 
 
+[/r/MealTimeVideos : Click and Consume](https://www.reddit.com/r/mealtimevideos/)
+---
+
+LM.io Collection - 5/6/2026
+
+I've found some fascinating, educational gems on /r/mealtimevideos. I think I found the user Every Frame A Painting through this subreddit! Excellent bite-sized videos that you can sort/filter by duration (I like 20-30 minutes but some 1-hour ones are great).
+
+Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
+
+
 [](https://glammr.us/@librarymonster/116521995836689212)
 ---
 
@@ -245,14 +255,4 @@ LM.io Collection - 4/25/2026
 
 
 Tags: [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Guide)
-
-
-[7digital United States | High quality DRM-free MP3 music downloads](https://us.7digital.com/)
----
-
-LM.io Collection - 4/25/2026
-
-Based in London, UK (hence the us.7digital link), this company offers a lot of DRM-free popular music.
-
-Tags: [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio)
 
