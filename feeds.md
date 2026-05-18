@@ -1,4 +1,26 @@
 
+[](https://glammr.us/@librarymonster/116591365519092525)
+---
+
+Linnèa the Library Monster - 5/17/2026
+
+Content warning:Rainbow bridgeMy darling babe Tavish crossed the rainbow bridge today. He had heart disease but this was sudden heart failure. He was a rescue, estimated 3-4 years old when we adopted him in 2016.https://librarymonster.dreamwidth.org/1896.html
+
+
+[Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
+---
+
+LibraryMonster.io - 5/17/2026
+
+My darling babe Tavish crossed the rainbow bridge today. He had heart disease but this was sudden heart failure. He was a rescue, estimated 3-4 years old when we adopted him in 2016.&nbsp;When we adopted him, he was pretty traumatized &amp; scared at first. He&rsquo;d been rescued from a puppy mill in Oklahoma; kept in a cage outside &amp; obviously mistreated by humans.&nbsp;He was never aggressive with us (or anyone), just easily spooked. I called him my mouse pup. He had the sweetest light brown eyes. The cutest little kitten licks.&nbsp;As he got older, we built some amazing trustful habits:&nbsp;Tavvy would bark for me in the morning and night for cuddles and kisses.&nbsp;&nbsp;He would get so excited for bed, our little twirling dervish, &ldquo;Tavishnikov&rdquo; doing pirouettes when it was time for naps &amp; night-nights.&nbsp;Every time I got home for work he&rsquo;d go up on his hind legs and I&rsquo;d &ldquo;catch&rdquo; him &amp; pick him up, put him in my lap.Hugs, kisses, staring into each other&rsquo;s eyes for a while. Those endorphin boosts were the best after a long day.&nbsp;He loved my nails scritching his little head.I&rsquo;m sure there&rsquo;s more. I&rsquo;ll probably edit this post further as I think of them.
+
+Edit: he had the best Christmas Day this year; we wrapped a ton of small squeaky toys for him and every time we indicated a gift was for him, and helped him unwrap it, he got so excited. When it was finally free of wrapping, he'd hoard it and chew on it (until the next gift came along)!
+
+It was controlled and peaceful, with Tavvy only a little uncomfortable, not distressed or scared. I&rsquo;m really grateful to BluePearl Emergency Animal Hospital.
+
+I miss him so much already. Gotta remember he&rsquo;s in doggy heaven chasing the hot dog (toy) with his...
+
+
 [](https://glammr.us/@librarymonster/116580391924063366)
 ---
 
@@ -235,24 +257,4 @@ Tags: [#wacup](https://glammr.us/tags/wacup) [#matchbox20](https://glammr.us/tag
 Linnèa the Library Monster - 4/26/2026
 
 Buenos días desde la casa del monstruo de la biblioteca. Tienes el perro en casa? Yo tengoooo!
-
-
-[Webamp • Winamp in your browser](https://webamp.org/)
----
-
-LM.io Collection - 4/25/2026
-
-The nostalgia of winamp in your browser, webamp.
-
-Tags: [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Media%20Player%20Software%22)
-
-
-[We oppose DRM. | Defective by Design](https://www.defectivebydesign.org/)
----
-
-LM.io Collection - 4/25/2026
-
-
-
-Tags: [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Guide)
 
