@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/116618233458846926)
+---
+
+Linnèa the Library Monster - 5/22/2026
+
+RE: https://mastodon.scot/@MyricaGale/116618137084499600There are legitimate use cases for [#AI](https://glammr.us/tags/AI) as an incredible tool, but not at the scale or speed it's been pushed; certainly not for the environmental damage it will inflict.I wish the establishment of data centers had been clocked as a critical problem (to use AI to solve, why not?) before deploying it to the masses.
+
+Tags: [#ai](https://glammr.us/tags/ai)
+
+
 [](https://glammr.us/@librarymonster/116591365519092525)
 ---
 
@@ -249,12 +259,4 @@ Linnèa the Library Monster - 4/26/2026
 My collection of music largely stopped around 2014ish because streaming kinda took over.I'm back to casually listening to it right now through [#wacup](https://glammr.us/tags/wacup) software on my computer though. Here to tell you [#Matchbox20](https://glammr.us/tags/Matchbox20) still slaps
 
 Tags: [#wacup](https://glammr.us/tags/wacup) [#matchbox20](https://glammr.us/tags/matchbox20)
-
-
-[](https://glammr.us/@librarymonster/116471090818389461)
----
-
-Linnèa the Library Monster - 4/26/2026
-
-Buenos días desde la casa del monstruo de la biblioteca. Tienes el perro en casa? Yo tengoooo!
 
