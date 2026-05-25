@@ -1,4 +1,14 @@
 
+[EcoGPT - Sustainable AI Chat That Plants Trees](https://www.ecogpt.com/)
+---
+
+LM.io Collection - 5/24/2026
+
+Apparently this is supposed to be a wholesome AI option? Let's see how that plays...
+
+Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23AI)
+
+
 [](https://glammr.us/@librarymonster/116624177085286735)
 ---
 
@@ -247,14 +257,4 @@ LM.io Collection - 4/26/2026
 ARCs 👀
 
 Tags: [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23eBooks) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
-
-
-[Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
----
-
-LM.io Collection - 4/26/2026
-
-Bookmarklets : Highlight accessibility features of web pages
-
-Tags: [#The L Monster =/= Tested](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22The%20L%20Monster%20%3D%2F%3D%20Tested%22) [#Access: website/extension](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fextension%22) [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Accessibility)
 
