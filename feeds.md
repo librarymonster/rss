@@ -1,4 +1,44 @@
 
+[](https://glammr.us/@librarymonster/116636252487655794)
+---
+
+Linnèa the Library Monster - 5/25/2026
+
+Should live chat my annual watch of [#Jaws](https://glammr.us/tags/Jaws) on [#MemorialDay](https://glammr.us/tags/MemorialDay) this afternoon
+
+Tags: [#jaws](https://glammr.us/tags/jaws) [#memorialday](https://glammr.us/tags/memorialday)
+
+
+[The Night Feeling](https://www.reddit.com/r/TheNightFeeling/)
+---
+
+LM.io Collection - 5/25/2026
+
+Similar to r/LiminalSpaces, this subreddit is full of atmosphere and nostalgia.
+
+Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Photography](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Photography) [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
+
+
+[](https://glammr.us/@librarymonster/116633638083579502)
+---
+
+Linnèa the Library Monster - 5/25/2026
+
+Now that [#GoodOmens](https://glammr.us/tags/GoodOmens) is over, I'm kinda sad and not vibing Aziraphale anymore. Gotta find a different banner...Watching [#TheBoys](https://glammr.us/tags/TheBoys) now. Apparently I stopped watching after the ep where Hughie pretended to be a gross spider-man & attend the rich ppl/sex dungeon party (that ep playing those scenes for comedy was off-point, and the season as a whole hadn't been impressing me so I fell away from it).Abt to hit play on the S4 finale 👀
+
+Tags: [#goodomens](https://glammr.us/tags/goodomens) [#theboys](https://glammr.us/tags/theboys)
+
+
+[](https://glammr.us/@librarymonster/116633428820268025)
+---
+
+Linnèa the Library Monster - 5/25/2026
+
+I got an A on this, felt cute, thought I'd share it 😋💅https://librarymonster.raindrop.page/cybersecurity-lib-guide-70521049Feedback always welcome - as are additional resource suggestions! I'll probably use this annotated list professionally come October during [#CyberSecurityAwareness](https://glammr.us/tags/CyberSecurityAwareness) Month so there's a lot of time to offer more recommendations that I'd appreciate a ton [#Cybersecurity](https://glammr.us/tags/Cybersecurity) [#LibGuide](https://glammr.us/tags/LibGuide)
+
+Tags: [#cybersecurityawareness](https://glammr.us/tags/cybersecurityawareness) [#cybersecurity](https://glammr.us/tags/cybersecurity) [#libguide](https://glammr.us/tags/libguide)
+
+
 [EcoGPT - Sustainable AI Chat That Plants Trees](https://www.ecogpt.com/)
 ---
 
@@ -217,44 +257,4 @@ LM.io Collection - 4/26/2026
 Really helpful for my program in the fall during October 2026's Cybersecurity Month
 
 Tags: [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Pro%20LIS%22) [#Cybersecurity](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Cybersecurity) [#Privacy](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Privacy) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Guide)
-
-
-[Current Accessibility Tools – Accessible IT Group](https://accessibleit.disability.illinois.edu/tools/overview/)
----
-
-LM.io Collection - 4/26/2026
-
-Additional accessibility tools created by UIUC
-
-Tags: [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Accessibility) [#WebDev](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23WebDev) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
-
-
-[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/)
----
-
-LM.io Collection - 4/26/2026
-
-W3C a list of tools to assist webdevs in making sure they're compliant.
-
-Tags: [#Accessibility](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Accessibility) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#WebDev](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23WebDev)
-
-
-[Prison Library Support Network](https://campsite.bio/plsn)
----
-
-LM.io Collection - 4/26/2026
-
-An abolitionist, information-based collective that aims to build resource networks that support incarcerated people.
-
-Tags: [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Pro LIS](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Pro%20LIS%22)
-
-
-[NetGalley Home](https://www.netgalley.com/)
----
-
-LM.io Collection - 4/26/2026
-
-ARCs 👀
-
-Tags: [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23eBooks) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22)
 
