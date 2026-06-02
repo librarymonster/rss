@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/116672893646258555)
+---
+
+Linnèa the Library Monster - 6/1/2026
+
+Content warning:The Boys Finale SpoilersFinished [#TheBoys](https://glammr.us/tags/TheBoys) Wanted Frenchie and Kimiko to be the couple that lived happily ever after, not Starlight & Hughie. Frenchie & Kimiko were by far the better couple?? The entire series??Is it also weird I wanted Butcher to release the virus, or better: for Kimiko to go on a spree to rid supes of their powers? I would've enjoyed an interesting redemption arc... It was so satisfying to see Homelander try and fail to fly or laser eyes ppl.Replies welcome!
+
+Tags: [#theboys](https://glammr.us/tags/theboys)
+
+
 [](https://glammr.us/@librarymonster/116652362633598486)
 ---
 
@@ -247,14 +257,4 @@ LM.io Collection - 5/4/2026
 Lovely little webapp for storm sounds (and a few other profiles like coffee shop, bookstore, etc)
 
 Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Media%20Player%20Software%22)
-
-
-[No Trace Project](https://www.notrace.how/)
----
-
-LM.io Collection - 4/27/2026
-
-For *rebels* ¯\_(ツ)_/¯
-
-Tags: [#Privacy](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Privacy) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Guide](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Guide)
 
