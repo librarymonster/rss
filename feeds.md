@@ -1,8 +1,18 @@
 
+[](https://glammr.us/@librarymonster/116686924984270685)
+---
+
+Library Monster - 6/3/2026
+
+I couldn't keep going watching [#TheSocialDilemma](https://glammr.us/tags/TheSocialDilemma) bc the little fictional humans-as-algorithms scheming & strategizing to keep ppl on their screens felt ridiculous. There was a lot of worthy content, interviews, etc. in it. Whyyy did they decide to anthropomorphize algorithms? [#SocialMedia](https://glammr.us/tags/SocialMedia)
+
+Tags: [#socialmedia](https://glammr.us/tags/socialmedia) [#thesocialdilemma](https://glammr.us/tags/thesocialdilemma)
+
+
 [](https://glammr.us/@librarymonster/116672893646258555)
 ---
 
-Linnèa the Library Monster - 6/1/2026
+Library Monster - 6/1/2026
 
 Content warning:The Boys Finale SpoilersFinished [#TheBoys](https://glammr.us/tags/TheBoys) Wanted Frenchie and Kimiko to be the couple that lived happily ever after, not Starlight & Hughie. Frenchie & Kimiko were by far the better couple?? The entire series??Is it also weird I wanted Butcher to release the virus, or better: for Kimiko to go on a spree to rid supes of their powers? I would've enjoyed an interesting redemption arc... It was so satisfying to see Homelander try and fail to fly or laser eyes ppl.Replies welcome!
 
@@ -12,7 +22,7 @@ Tags: [#theboys](https://glammr.us/tags/theboys)
 [](https://glammr.us/@librarymonster/116652362633598486)
 ---
 
-Linnèa the Library Monster - 5/28/2026
+Library Monster - 5/28/2026
 
 Watching [#JackRyan](https://glammr.us/tags/JackRyan) Ghost War & the beginning features a few [#NYC](https://glammr.us/tags/NYC) gift cliches but they missed pigeon artwork 😂
 
@@ -22,7 +32,7 @@ Tags: [#jackryan](https://glammr.us/tags/jackryan) [#nyc](https://glammr.us/tags
 [](https://glammr.us/@librarymonster/116636252487655794)
 ---
 
-Linnèa the Library Monster - 5/25/2026
+Library Monster - 5/25/2026
 
 Should live chat my annual watch of [#Jaws](https://glammr.us/tags/Jaws) on [#MemorialDay](https://glammr.us/tags/MemorialDay) this afternoon
 
@@ -42,7 +52,7 @@ Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-coll
 [](https://glammr.us/@librarymonster/116633638083579502)
 ---
 
-Linnèa the Library Monster - 5/25/2026
+Library Monster - 5/25/2026
 
 Now that [#GoodOmens](https://glammr.us/tags/GoodOmens) is over, I'm kinda sad and not vibing Aziraphale anymore. Gotta find a different banner...Watching [#TheBoys](https://glammr.us/tags/TheBoys) now. Apparently I stopped watching after the ep where Hughie pretended to be a gross spider-man & attend the rich ppl/sex dungeon party (that ep playing those scenes for comedy was off-point, and the season as a whole hadn't been impressing me so I fell away from it).Abt to hit play on the S4 finale 👀
 
@@ -52,7 +62,7 @@ Tags: [#goodomens](https://glammr.us/tags/goodomens) [#theboys](https://glammr.u
 [](https://glammr.us/@librarymonster/116633428820268025)
 ---
 
-Linnèa the Library Monster - 5/25/2026
+Library Monster - 5/25/2026
 
 I got an A on this, felt cute, thought I'd share it 😋💅https://librarymonster.raindrop.page/cybersecurity-lib-guide-70521049Feedback always welcome - as are additional resource suggestions! I'll probably use this annotated list professionally come October during [#CyberSecurityAwareness](https://glammr.us/tags/CyberSecurityAwareness) Month so there's a lot of time to offer more recommendations that I'd appreciate a ton [#Cybersecurity](https://glammr.us/tags/Cybersecurity) [#LibGuide](https://glammr.us/tags/LibGuide)
 
@@ -72,7 +82,7 @@ Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-coll
 [](https://glammr.us/@librarymonster/116624177085286735)
 ---
 
-Linnèa the Library Monster - 5/23/2026
+Library Monster - 5/23/2026
 
 watching fast cuts of hands putting things places in an organized way 🤌
 
@@ -80,7 +90,7 @@ watching fast cuts of hands putting things places in an organized way 🤌
 [](https://glammr.us/@librarymonster/116618233458846926)
 ---
 
-Linnèa the Library Monster - 5/22/2026
+Library Monster - 5/22/2026
 
 RE: https://mastodon.scot/@MyricaGale/116618137084499600There are legitimate use cases for [#AI](https://glammr.us/tags/AI) as an incredible tool, but not at the scale or speed it's been pushed; certainly not for the environmental damage it will inflict.I wish the establishment of data centers had been clocked as a critical problem (to use AI to solve, why not?) before deploying it to the masses.
 
@@ -90,7 +100,7 @@ Tags: [#ai](https://glammr.us/tags/ai)
 [](https://glammr.us/@librarymonster/116591365519092525)
 ---
 
-Linnèa the Library Monster - 5/17/2026
+Library Monster - 5/17/2026
 
 Content warning:Rainbow bridgeMy darling babe Tavish crossed the rainbow bridge today. He had heart disease but this was sudden heart failure. He was a rescue, estimated 3-4 years old when we adopted him in 2016.https://librarymonster.dreamwidth.org/1896.html
 
@@ -112,7 +122,7 @@ I miss him so much already. Gotta remember he&rsquo;s in doggy heaven chasing th
 [](https://glammr.us/@librarymonster/116580391924063366)
 ---
 
-Linnèa the Library Monster - 5/15/2026
+Library Monster - 5/15/2026
 
 
 
@@ -120,7 +130,7 @@ Linnèa the Library Monster - 5/15/2026
 [](https://glammr.us/@librarymonster/116575941051475124)
 ---
 
-Linnèa the Library Monster - 5/15/2026
+Library Monster - 5/15/2026
 
 Content warning:GO S3 spoilersFinished [#GoodOmens](https://glammr.us/tags/GoodOmens) S3.I'm gutted - it was so fast! I could tell how the emotional beats would've felt better if we'd been given more time and space to breathe atmosphere and supporting characters.I adored the "bookshop at the end of the world" element. I didn't like where it went, tho; the ending was cool for how there's so much love for AUs but I'm a bigger fan of the cosmic angel/demon love thing so I was sad to see it go."Why did you give me Crowley?" 😭
 
@@ -130,7 +140,7 @@ Tags: [#goodomens](https://glammr.us/tags/goodomens)
 [](https://glammr.us/@librarymonster/116573108527956553)
 ---
 
-Linnèa the Library Monster - 5/14/2026
+Library Monster - 5/14/2026
 
 Coming soon... a portfolio of all my cell phone case designs. I've made quite a lot of them through the years and they deserve their own page on my site :p
 
@@ -138,7 +148,7 @@ Coming soon... a portfolio of all my cell phone case designs. I've made quite a 
 [](https://glammr.us/@librarymonster/116562890700878950)
 ---
 
-Linnèa the Library Monster - 5/12/2026
+Library Monster - 5/12/2026
 
 [#GoodOmens](https://glammr.us/tags/GoodOmens) S3 tv movie event - releases tonight, 2am on Wednesday for me. Maybe, um, if I took a nap right when I got home... 🤔 I don't even remember the last time I stayed up til like 4am though 😂
 
@@ -148,7 +158,7 @@ Tags: [#goodomens](https://glammr.us/tags/goodomens)
 [](https://glammr.us/@librarymonster/116559375917701343)
 ---
 
-Linnèa the Library Monster - 5/12/2026
+Library Monster - 5/12/2026
 
 The repeated refrain that [#AI](https://glammr.us/tags/AI) is inaccurate & hallucinates & is therefore useless totally ignores how 1) it's getting more and more accurate and 2) even if it weren't, most questions we have while navigating life really aren't seeking the purest most scholarly-researched facts. Maybe I'd be more intense about it if I were an academic librarian, but even the databases UIUC offers are implementing AI...
 
@@ -158,7 +168,7 @@ Tags: [#ai](https://glammr.us/tags/ai)
 [](https://glammr.us/@librarymonster/116556344917323447)
 ---
 
-Linnèa the Library Monster - 5/11/2026
+Library Monster - 5/11/2026
 
 Yesterday was SO exciting! I actually did [#github](https://glammr.us/tags/github) stuff for the 1st time ever: learned what 'forking' was and what 'commits' are! Using https://github.com/abuseofnotation/feed-aggregator I merged my [#RSS](https://glammr.us/tags/RSS) feeds (so far I've got [#Dreamwidth](https://glammr.us/tags/Dreamwidth) [#Masto](https://glammr.us/tags/Masto) [#Raindrop](https://glammr.us/tags/Raindrop) & put them into my [#Neocities](https://glammr.us/tags/Neocities). The crowd in my head is going WILD right now!I used [#Perplexity](https://glammr.us/tags/Perplexity) to help me along. Wondering if, in an ironic twist, ppl will use [#AI](https://glammr.us/tags/AI) for [#IndieWeb](https://glammr.us/tags/IndieWeb) endeavors like this rejecting [#BigTech](https://glammr.us/tags/BigTech)...
 
@@ -178,7 +188,7 @@ Tags: [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/v
 [](https://glammr.us/@librarymonster/116547592139161478)
 ---
 
-Linnèa the Library Monster - 5/10/2026
+Library Monster - 5/10/2026
 
 New blog post is out! I talk about my recent trip to [#NYC](https://glammr.us/tags/NYC) https://librarymonster.dreamwidth.org/1684.html [#Travel](https://glammr.us/tags/Travel) [#Spas](https://glammr.us/tags/Spas) [#NewYorkCity](https://glammr.us/tags/NewYorkCity)
 
@@ -212,7 +222,7 @@ The Stationary Crawl
 [](https://glammr.us/@librarymonster/116547535611108240)
 ---
 
-Linnèa the Library Monster - 5/10/2026
+Library Monster - 5/10/2026
 
 f*ck [#JeffBezos](https://glammr.us/tags/JeffBezos) but omg [#JanelleMonae](https://glammr.us/tags/JanelleMonae) AMAZING 😍😍😍
 
@@ -222,7 +232,7 @@ Tags: [#jeffbezos](https://glammr.us/tags/jeffbezos) [#janellemonae](https://gla
 [](https://glammr.us/@librarymonster/116546988482060147)
 ---
 
-Linnèa the Library Monster - 5/9/2026
+Library Monster - 5/9/2026
 
 Lemme you how much I love putting kraken tentacles onto lighthouses meant for outdoor decor [#OFMD](https://glammr.us/tags/OFMD) coded
 
@@ -242,19 +252,9 @@ Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-6
 [](https://glammr.us/@librarymonster/116521995836689212)
 ---
 
-Linnèa the Library Monster - 5/5/2026
+Library Monster - 5/5/2026
 
 It's so weird how [#dogs](https://glammr.us/tags/dogs) have different lick styles. Phe gives quick, affectionate licks & Tank gives these long licks with his whole head like a cow 😂 it's the funniest, kinda grossest thing but wouldn't have it any other way 💛
 
 Tags: [#dogs](https://glammr.us/tags/dogs)
-
-
-[A Soft Murmur](https://asoftmurmur.com/)
----
-
-LM.io Collection - 5/4/2026
-
-Lovely little webapp for storm sounds (and a few other profiles like coffee shop, bookstore, etc)
-
-Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Media%20Player%20Software%22)
 
