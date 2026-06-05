@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/116694743415154869)
+---
+
+Library Monster - 6/5/2026
+
+Strawberry matcha chrome! 💅 [#NailArt](https://glammr.us/tags/NailArt)
+
+Tags: [#nailart](https://glammr.us/tags/nailart)
+
+
+[](https://glammr.us/@librarymonster/116689773359636278)
+---
+
+Library Monster - 6/4/2026
+
+Watching [#ProjectHailMary](https://glammr.us/tags/ProjectHailMary) and the drama over all the spaceship's switchy clicky flicky electronics is the best lol
+
+Tags: [#projecthailmary](https://glammr.us/tags/projecthailmary)
+
+
 [](https://glammr.us/@librarymonster/116686924984270685)
 ---
 
@@ -237,24 +257,4 @@ Library Monster - 5/9/2026
 Lemme you how much I love putting kraken tentacles onto lighthouses meant for outdoor decor [#OFMD](https://glammr.us/tags/OFMD) coded
 
 Tags: [#ofmd](https://glammr.us/tags/ofmd)
-
-
-[/r/MealTimeVideos : Click and Consume](https://www.reddit.com/r/mealtimevideos/)
----
-
-LM.io Collection - 5/6/2026
-
-I've found some fascinating, educational gems on /r/mealtimevideos. I think I found the user Every Frame A Painting through this subreddit! Excellent bite-sized videos that you can sort/filter by duration (I like 20-30 minutes but some 1-hour ones are great).
-
-Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
-
-
-[](https://glammr.us/@librarymonster/116521995836689212)
----
-
-Library Monster - 5/5/2026
-
-It's so weird how [#dogs](https://glammr.us/tags/dogs) have different lick styles. Phe gives quick, affectionate licks & Tank gives these long licks with his whole head like a cow 😂 it's the funniest, kinda grossest thing but wouldn't have it any other way 💛
-
-Tags: [#dogs](https://glammr.us/tags/dogs)
 
