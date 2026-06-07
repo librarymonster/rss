@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/116703904843289827)
+---
+
+Library Monster - 6/6/2026
+
+Truly, nobody manufactures facts together like my mom and me when one of the dogs is “off.”
+
+
 [](https://glammr.us/@librarymonster/116698799906990525)
 ---
 
@@ -135,6 +143,20 @@ Library Monster - 5/17/2026
 Content warning:Rainbow bridgeMy darling babe Tavish crossed the rainbow bridge today. He had heart disease but this was sudden heart failure. He was a rescue, estimated 3-4 years old when we adopted him in 2016.https://librarymonster.dreamwidth.org/1896.html
 
 
+[Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
+---
+
+LibraryMonster.io - 5/17/2026
+
+My darling babe Tavish crossed the rainbow bridge today. He had heart disease but this was sudden heart failure. He was a rescue, estimated 3-4 years old when we adopted him in 2016.&nbsp;When we adopted him, he was pretty traumatized &amp; scared at first. He&rsquo;d been rescued from a puppy mill in Oklahoma; kept in a cage outside &amp; obviously mistreated by humans.&nbsp;He was never aggressive with us (or anyone), just easily spooked. I called him my mouse pup. He had the sweetest light brown eyes. The cutest little kitten licks.&nbsp;As he got older, we built some amazing trustful habits:&nbsp;Tavvy would bark for me in the morning and night for cuddles and kisses.&nbsp;&nbsp;He would get so excited for bed, our little twirling dervish, &ldquo;Tavishnikov&rdquo; doing pirouettes when it was time for naps &amp; night-nights.&nbsp;Every time I got home for work he&rsquo;d go up on his hind legs and I&rsquo;d &ldquo;catch&rdquo; him &amp; pick him up, put him in my lap.Hugs, kisses, staring into each other&rsquo;s eyes for a while. Those endorphin boosts were the best after a long day.&nbsp;He loved my nails scritching his little head.I&rsquo;m sure there&rsquo;s more. I&rsquo;ll probably edit this post further as I think of them.
+
+Edit: he had the best Christmas Day this year; we wrapped a ton of small squeaky toys for him and every time we indicated a gift was for him, and helped him unwrap it, he got so excited. When it was finally free of wrapping, he'd hoard it and chew on it (until the next gift came along)!
+
+It was controlled and peaceful, with Tavvy only a little uncomfortable, not distressed or scared. I&rsquo;m really grateful to BluePearl Emergency Animal Hospital.
+
+I miss him so much already. Gotta remember he&rsquo;s in doggy heaven chasing the hot dog (toy) with his...
+
+
 [](https://glammr.us/@librarymonster/116580391924063366)
 ---
 
@@ -211,32 +233,26 @@ New blog post is out! I talk about my recent trip to [#NYC](https://glammr.us/ta
 Tags: [#nyc](https://glammr.us/tags/nyc) [#travel](https://glammr.us/tags/travel) [#spas](https://glammr.us/tags/spas) [#newyorkcity](https://glammr.us/tags/newyorkcity)
 
 
-[](https://glammr.us/@librarymonster/116547535611108240)
+[New York City](https://librarymonster.dreamwidth.org/1684.html)
 ---
 
-Library Monster - 5/10/2026
+LibraryMonster.io - 5/10/2026
 
-f*ck [#JeffBezos](https://glammr.us/tags/JeffBezos) but omg [#JanelleMonae](https://glammr.us/tags/JanelleMonae) AMAZING 😍😍😍
+Dear Reader,
 
-Tags: [#jeffbezos](https://glammr.us/tags/jeffbezos) [#janellemonae](https://glammr.us/tags/janellemonae)
+I recently visited New York City and I loooved it (as always). I was there for a medley of Mother's Day and my mums' birthday celebrations with my sisters, C and O, and my mom, E.
 
+We stayed at The Conrad in Battery Park City. The suites were roomy and clean, Leonessa was the rooftop bar and it was super charming but our heater was broken so we had to peace out a little earlier than planned. 
 
-[/r/MealTimeVideos : Click and Consume](https://www.reddit.com/r/mealtimevideos/)
----
+We did a lot of walking on this trip, first stopping at Brookfield Place for coffee and brekkies and memory lane (right after my sister had her kiddo, my mom and I tripped over to help and we'd take him in his stroller, spend hours in Brookfield Place talking &amp; looking at stuff). Then we'd walk along the water either down to the Financial district where O lives or, one morning we headed up to the West Village for a stationary crawl.
 
-LM.io Collection - 5/6/2026
+The Stationary Crawl
 
-I've found some fascinating, educational gems on /r/mealtimevideos. I think I found the user Every Frame A Painting through this subreddit! Excellent bite-sized videos that you can sort/filter by duration (I like 20-30 minutes but some 1-hour ones are great).
+- [Pink Olive West Village](https://pinkolive.com/): super cute but small corner shop of stationary, stickers, well-curated gifts for people of all ages.
 
-Tags: [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
+- We visited my sister's old apartment building when she lived in the West Village in the 2000s/aughts (and I would come stay the weekends while I was in college&nbsp;:p
 
+- [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp;
 
-[A Soft Murmur](https://asoftmurmur.com/)
----
-
-LM.io Collection - 5/4/2026
-
-Lovely little webapp for storm sounds (and a few other profiles like coffee shop, bookstore, etc)
-
-Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Audio](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Audio) [#Media Player Software](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Media%20Player%20Software%22)
+- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for...
 
