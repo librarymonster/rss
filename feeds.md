@@ -1,4 +1,30 @@
 
+[](https://glammr.us/@librarymonster/116715562015570658)
+---
+
+Library Monster - 6/8/2026
+
+Shout out to that girl who just wanted to go nightswimming
+
+
+[](https://glammr.us/@librarymonster/116715137125452839)
+---
+
+Library Monster - 6/8/2026
+
+New [#blog](https://glammr.us/tags/blog) post is up on my [#dreamwidth](https://glammr.us/tags/dreamwidth)! Today I'm talking about switching back to [#android](https://glammr.us/tags/android) as my daily driver phone & a modern [#millennial](https://glammr.us/tags/millennial) classic - getting your parents set up with a [#PasswordManager](https://glammr.us/tags/PasswordManager) "Android, Apple, and Learning to Love the Password Manager" https://librarymonster.dreamwidth.org/2255.html#IndieWeb [#SmolWeb](https://glammr.us/tags/SmolWeb)
+
+Tags: [#blog](https://glammr.us/tags/blog) [#dreamwidth](https://glammr.us/tags/dreamwidth) [#android](https://glammr.us/tags/android) [#millennial](https://glammr.us/tags/millennial) [#passwordmanager](https://glammr.us/tags/passwordmanager) [#indieweb](https://glammr.us/tags/indieweb) [#smolweb](https://glammr.us/tags/smolweb)
+
+
+[Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
+---
+
+LibraryMonster.io - 6/8/2026
+
+After over 6 months trying to adopt #Apple phones with an iPhone 17 (and please be aware this is about my experience with Apple phones - I have an Apple iPad &amp; I love it), I've moved back to #Android. P will get it for Father's Day!!! I'll take his old iPhone 12 so I can still have an iPhone for reference and tech help interactions at work though. Here's the good for me on iPhones: The iPhone 17 has an incredible automatic camera + filters to make every picture gorgeous. This feature makes such a huge difference in one's experience with their phone. iPhone widgets are awesome - Pressreader's top stories were great (their widget is there in Android but not working for me). Wikipedia had an iPhone widget of the most popular articles that doesn't exist on Android 😭 And weirdly, the whole Hoopla app isn't working on my Nothing3 Android (login page just doesn't appear). The iPhone bad: I write creatively on my phone (long story short I quit smoking &amp; the only way to write without triggering cravings was in bed on my phone, and I came to really enjoy the process!), and I basically stopped when I got the iPhone. I thought perhaps I would learn to love the keyboard; through osmosis &amp; constant texting &amp; writing, I would just pick up how it worked. Instead I came to rely on dictation, which sure is great for casual conversation but dictation is too much if you're worldbuilding or getting emotional over your own scenes. I didn't fiddle with the settings as much as I suppose I could've, and a tech ed colleague of mine indicated her iPhone wasn't as chaotic as my iPhone keyboard was, so perhaps I still just didn't customize it properly. But...
+
+
 [](https://glammr.us/@librarymonster/116703904843289827)
 ---
 
@@ -203,16 +229,6 @@ The repeated refrain that [#AI](https://glammr.us/tags/AI) is inaccurate & hallu
 Tags: [#ai](https://glammr.us/tags/ai)
 
 
-[](https://glammr.us/@librarymonster/116556344917323447)
----
-
-Library Monster - 5/11/2026
-
-Yesterday was SO exciting! I actually did [#github](https://glammr.us/tags/github) stuff for the 1st time ever: learned what 'forking' was and what 'commits' are! Using https://github.com/abuseofnotation/feed-aggregator I merged my [#RSS](https://glammr.us/tags/RSS) feeds (so far I've got [#Dreamwidth](https://glammr.us/tags/Dreamwidth) [#Masto](https://glammr.us/tags/Masto) [#Raindrop](https://glammr.us/tags/Raindrop) & put them into my [#Neocities](https://glammr.us/tags/Neocities). The crowd in my head is going WILD right now!I used [#Perplexity](https://glammr.us/tags/Perplexity) to help me along. Wondering if, in an ironic twist, ppl will use [#AI](https://glammr.us/tags/AI) for [#IndieWeb](https://glammr.us/tags/IndieWeb) endeavors like this rejecting [#BigTech](https://glammr.us/tags/BigTech)...
-
-Tags: [#github](https://glammr.us/tags/github) [#rss](https://glammr.us/tags/rss) [#dreamwidth](https://glammr.us/tags/dreamwidth) [#masto](https://glammr.us/tags/masto) [#raindrop](https://glammr.us/tags/raindrop) [#neocities](https://glammr.us/tags/neocities) [#perplexity](https://glammr.us/tags/perplexity) [#indieweb](https://glammr.us/tags/indieweb) [#bigtech](https://glammr.us/tags/bigtech) [#ai](https://glammr.us/tags/ai)
-
-
 [NEOTROPOLIS](https://www.neotropolis.com/)
 ---
 
@@ -221,38 +237,4 @@ LM.io Collection - 5/11/2026
 I just discovered this annual spring event in the Mojave desert in California, Neotropolis, through posts on /r/cyberpunk - it's basically a ren fair only cyberpunk. I would LOVE to attend. Gotta keep my eye out for when volunteer and/or tickets open up for 2027.
 
 Tags: [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Fandom) [#Events](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Events) [#Cyberpunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Cyberpunk) [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk)
-
-
-[](https://glammr.us/@librarymonster/116547592139161478)
----
-
-Library Monster - 5/10/2026
-
-New blog post is out! I talk about my recent trip to [#NYC](https://glammr.us/tags/NYC) https://librarymonster.dreamwidth.org/1684.html [#Travel](https://glammr.us/tags/Travel) [#Spas](https://glammr.us/tags/Spas) [#NewYorkCity](https://glammr.us/tags/NewYorkCity)
-
-Tags: [#nyc](https://glammr.us/tags/nyc) [#travel](https://glammr.us/tags/travel) [#spas](https://glammr.us/tags/spas) [#newyorkcity](https://glammr.us/tags/newyorkcity)
-
-
-[New York City](https://librarymonster.dreamwidth.org/1684.html)
----
-
-LibraryMonster.io - 5/10/2026
-
-Dear Reader,
-
-I recently visited New York City and I loooved it (as always). I was there for a medley of Mother's Day and my mums' birthday celebrations with my sisters, C and O, and my mom, E.
-
-We stayed at The Conrad in Battery Park City. The suites were roomy and clean, Leonessa was the rooftop bar and it was super charming but our heater was broken so we had to peace out a little earlier than planned. 
-
-We did a lot of walking on this trip, first stopping at Brookfield Place for coffee and brekkies and memory lane (right after my sister had her kiddo, my mom and I tripped over to help and we'd take him in his stroller, spend hours in Brookfield Place talking &amp; looking at stuff). Then we'd walk along the water either down to the Financial district where O lives or, one morning we headed up to the West Village for a stationary crawl.
-
-The Stationary Crawl
-
-- [Pink Olive West Village](https://pinkolive.com/): super cute but small corner shop of stationary, stickers, well-curated gifts for people of all ages.
-
-- We visited my sister's old apartment building when she lived in the West Village in the 2000s/aughts (and I would come stay the weekends while I was in college&nbsp;:p
-
-- [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp;
-
-- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for...
 
