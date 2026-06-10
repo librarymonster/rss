@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/116722636756185076)
+---
+
+Library Monster - 6/9/2026
+
+My favorite verbal mistake of the week was referring to my dog's unusual way to get into bed. "He loves rumping his hang out!"
+
+
 [](https://glammr.us/@librarymonster/116715562015570658)
 ---
 
@@ -209,6 +217,16 @@ Library Monster - 5/14/2026
 Coming soon... a portfolio of all my cell phone case designs. I've made quite a lot of them through the years and they deserve their own page on my site :p
 
 
+[Freecycle: Front Door](https://freecycle.org/)
+---
+
+LM.io Collection - 5/13/2026
+
+This site runs the way Facebook or Nextdoor's marketplaces do, only it's a nonprofit, and it doesn't ply you with ads in the margin, and it doesn't track you (meets GDPR even though it's based in the U.S.) If you're looking for cool free stuff, check this site in your region every once in awhile.
+
+Tags: [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk) [#Free Public Service Website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Free%20Public%20Service%20Website%22) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22)
+
+
 [](https://glammr.us/@librarymonster/116562890700878950)
 ---
 
@@ -217,24 +235,4 @@ Library Monster - 5/12/2026
 [#GoodOmens](https://glammr.us/tags/GoodOmens) S3 tv movie event - releases tonight, 2am on Wednesday for me. Maybe, um, if I took a nap right when I got home... 🤔 I don't even remember the last time I stayed up til like 4am though 😂
 
 Tags: [#goodomens](https://glammr.us/tags/goodomens)
-
-
-[](https://glammr.us/@librarymonster/116559375917701343)
----
-
-Library Monster - 5/12/2026
-
-The repeated refrain that [#AI](https://glammr.us/tags/AI) is inaccurate & hallucinates & is therefore useless totally ignores how 1) it's getting more and more accurate and 2) even if it weren't, most questions we have while navigating life really aren't seeking the purest most scholarly-researched facts. Maybe I'd be more intense about it if I were an academic librarian, but even the databases UIUC offers are implementing AI...
-
-Tags: [#ai](https://glammr.us/tags/ai)
-
-
-[NEOTROPOLIS](https://www.neotropolis.com/)
----
-
-LM.io Collection - 5/11/2026
-
-I just discovered this annual spring event in the Mojave desert in California, Neotropolis, through posts on /r/cyberpunk - it's basically a ren fair only cyberpunk. I would LOVE to attend. Gotta keep my eye out for when volunteer and/or tickets open up for 2027.
-
-Tags: [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Fandom) [#Events](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Events) [#Cyberpunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Cyberpunk) [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk)
 
