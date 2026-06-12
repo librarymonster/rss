@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/116734675912606256)
+---
+
+Library Monster - 6/12/2026
+
+[#WidowsBay](https://glammr.us/tags/WidowsBay) was renewed for a second season hell yeah! This show was a dark horse. Loved it. Better than The Burroughs by far imo (altho I did really like The Burroughs) [#TV](https://glammr.us/tags/TV)
+
+Tags: [#widowsbay](https://glammr.us/tags/widowsbay) [#tv](https://glammr.us/tags/tv)
+
+
 [](https://glammr.us/@librarymonster/116722636756185076)
 ---
 
@@ -225,14 +235,4 @@ LM.io Collection - 5/13/2026
 This site runs the way Facebook or Nextdoor's marketplaces do, only it's a nonprofit, and it doesn't ply you with ads in the margin, and it doesn't track you (meets GDPR even though it's based in the U.S.) If you're looking for cool free stuff, check this site in your region every once in awhile.
 
 Tags: [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk) [#Free Public Service Website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Free%20Public%20Service%20Website%22) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22)
-
-
-[](https://glammr.us/@librarymonster/116562890700878950)
----
-
-Library Monster - 5/12/2026
-
-[#GoodOmens](https://glammr.us/tags/GoodOmens) S3 tv movie event - releases tonight, 2am on Wednesday for me. Maybe, um, if I took a nap right when I got home... 🤔 I don't even remember the last time I stayed up til like 4am though 😂
-
-Tags: [#goodomens](https://glammr.us/tags/goodomens)
 
