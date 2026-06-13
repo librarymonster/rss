@@ -1,4 +1,34 @@
 
+[](https://glammr.us/@librarymonster/116739559059745132)
+---
+
+Library Monster - 6/12/2026
+
+Sorry I'm all about [#TV](https://glammr.us/tags/TV) right now but there's a lot of good stuff on & I don't have school so I'm enjoying my summer. I finished [#ThePitt](https://glammr.us/tags/ThePitt) season 2 a couple days ago & it was okay; with Mel's sister gaining so much awesome independence in this season, it's setting stuff up for Mel's character development in season 3 and I CANNOT wait to watch that; discover who she is in addition to a doctor & a sister 💕💕💕 Mel's my girl
+
+Tags: [#tv](https://glammr.us/tags/tv) [#thepitt](https://glammr.us/tags/thepitt)
+
+
+[](https://glammr.us/@librarymonster/116737168832417092)
+---
+
+Library Monster - 6/12/2026
+
+I'd actually have fun creating triggers for my website to go down with custom messages, like a [#meshtastic](https://glammr.us/tags/meshtastic) device picking up on bad weather & pulling it down with a specific note, or if traffic hits too high - "hug of death down time" (haha)
+
+Tags: [#meshtastic](https://glammr.us/tags/meshtastic)
+
+
+[](https://glammr.us/@librarymonster/116737136635945720)
+---
+
+Library Monster - 6/12/2026
+
+I'm back on it with [#selfhosting](https://glammr.us/tags/selfhosting) ! Last yr I was getting into it but most ppl were like "it's not worth it, ur website goes down if the server breaks/ur house loses power/too much traffic & ISP will want to put ur connection into a 'commercial' category, etc" and 1st of all, my [#neocities](https://glammr.us/tags/neocities) site began almost 3 yrs ago. Too much traffic has never been a problem 😂 For my website going down, I don't rly mind it? I'll still have my files; it'll just go up again when the weather clears
+
+Tags: [#selfhosting](https://glammr.us/tags/selfhosting) [#neocities](https://glammr.us/tags/neocities)
+
+
 [](https://glammr.us/@librarymonster/116734675912606256)
 ---
 
@@ -199,32 +229,6 @@ Edit: he had the best Christmas Day this year; we wrapped a ton of small squeaky
 It was controlled and peaceful, with Tavvy only a little uncomfortable, not distressed or scared. I&rsquo;m really grateful to BluePearl Emergency Animal Hospital.
 
 I miss him so much already. Gotta remember he&rsquo;s in doggy heaven chasing the hot dog (toy) with his...
-
-
-[](https://glammr.us/@librarymonster/116580391924063366)
----
-
-Library Monster - 5/15/2026
-
-
-
-
-[](https://glammr.us/@librarymonster/116575941051475124)
----
-
-Library Monster - 5/15/2026
-
-Content warning:GO S3 spoilersFinished [#GoodOmens](https://glammr.us/tags/GoodOmens) S3.I'm gutted - it was so fast! I could tell how the emotional beats would've felt better if we'd been given more time and space to breathe atmosphere and supporting characters.I adored the "bookshop at the end of the world" element. I didn't like where it went, tho; the ending was cool for how there's so much love for AUs but I'm a bigger fan of the cosmic angel/demon love thing so I was sad to see it go."Why did you give me Crowley?" 😭
-
-Tags: [#goodomens](https://glammr.us/tags/goodomens)
-
-
-[](https://glammr.us/@librarymonster/116573108527956553)
----
-
-Library Monster - 5/14/2026
-
-Coming soon... a portfolio of all my cell phone case designs. I've made quite a lot of them through the years and they deserve their own page on my site :p
 
 
 [Freecycle: Front Door](https://freecycle.org/)
