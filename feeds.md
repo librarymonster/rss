@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/116746114193065298)
+---
+
+Library Monster - 6/14/2026
+
+[#PhotoThrowback](https://glammr.us/tags/PhotoThrowback) I was 2006ing in college so hard omg 😂 This was the year my CD mixes absolutely slapped (I still have them and listen to them) [#Aughts](https://glammr.us/tags/Aughts) [#2000s](https://glammr.us/tags/2000s) [#JustMillennialThings](https://glammr.us/tags/JustMillennialThings)
+
+Tags: [#PhotoThrowback](https://glammr.us/tags/PhotoThrowback) [#aughts](https://glammr.us/tags/aughts) [#2000s](https://glammr.us/tags/2000s) [#JustMillennialThings](https://glammr.us/tags/JustMillennialThings)
+
+
+[](https://glammr.us/@librarymonster/116745260552113248)
+---
+
+Library Monster - 6/13/2026
+
+[#Call4Artists](https://glammr.us/tags/Call4Artists) [#DigitalArtists](https://glammr.us/tags/DigitalArtists) Would anyone be willing to develop and create an avatar/logo for me? No AI, obviously. My budget is $75 via Paypal. This would be great for anyone who enjoys making [#cyberpunk](https://glammr.us/tags/cyberpunk) & [#solarpunk](https://glammr.us/tags/solarpunk) art.I think the process is to DM me with some work you've done & I'll let you know my concept to see if you'd like to do it?  Also I promise I won't ghost you ❌👻First time soliciting custom digital art so if I've missed a step, please let me know! Cheers 💛 [#PleaseBoost](https://glammr.us/tags/PleaseBoost)
+
+Tags: [#Call4Artists](https://glammr.us/tags/Call4Artists) [#digitalartists](https://glammr.us/tags/digitalartists) [#cyberpunk](https://glammr.us/tags/cyberpunk) [#solarpunk](https://glammr.us/tags/solarpunk) [#pleaseboost](https://glammr.us/tags/pleaseboost)
+
+
 [](https://glammr.us/@librarymonster/116739559059745132)
 ---
 
@@ -197,24 +217,6 @@ Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-coll
 Library Monster - 5/23/2026
 
 watching fast cuts of hands putting things places in an organized way 🤌
-
-
-[](https://glammr.us/@librarymonster/116618233458846926)
----
-
-Library Monster - 5/22/2026
-
-RE: https://mastodon.scot/@MyricaGale/116618137084499600There are legitimate use cases for [#AI](https://glammr.us/tags/AI) as an incredible tool, but not at the scale or speed it's been pushed; certainly not for the environmental damage it will inflict.I wish the establishment of data centers had been clocked as a critical problem (to use AI to solve, why not?) before deploying it to the masses.
-
-Tags: [#ai](https://glammr.us/tags/ai)
-
-
-[](https://glammr.us/@librarymonster/116591365519092525)
----
-
-Library Monster - 5/17/2026
-
-Content warning:Rainbow bridgeMy darling babe Tavish crossed the rainbow bridge today. He had heart disease but this was sudden heart failure. He was a rescue, estimated 3-4 years old when we adopted him in 2016.https://librarymonster.dreamwidth.org/1896.html
 
 
 [Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
