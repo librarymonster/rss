@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/116748685462757668)
+---
+
+Library Monster - 6/14/2026
+
+I'm so chuffed how easy it was to set up [#jellyfin](https://glammr.us/tags/jellyfin) this is honestly the most exciting day \o/ I also feel so vindicated for standing on business and absolutely refusing to keep all my home photos & videos & relying on a [#BigTech](https://glammr.us/tags/BigTech) cloud storage/organizer app. I never wanted Amazon, Facebook, Apple, or Google to have access to all of that & now I finally have an interface that works like its own streaming platform, and there's metadata editing, etc. & it's all *mine* 😭🫂🎉🥂
+
+Tags: [#jellyfin](https://glammr.us/tags/jellyfin) [#bigtech](https://glammr.us/tags/bigtech)
+
+
 [](https://glammr.us/@librarymonster/116746114193065298)
 ---
 
@@ -14,7 +24,7 @@ Tags: [#PhotoThrowback](https://glammr.us/tags/PhotoThrowback) [#aughts](https:/
 
 Library Monster - 6/13/2026
 
-[#Call4Artists](https://glammr.us/tags/Call4Artists) [#DigitalArtists](https://glammr.us/tags/DigitalArtists) Would anyone be willing to develop and create an avatar/logo for me? No AI, obviously. My budget is $75 via Paypal. This would be great for anyone who enjoys making [#cyberpunk](https://glammr.us/tags/cyberpunk) & [#solarpunk](https://glammr.us/tags/solarpunk) art.I think the process is to DM me with some work you've done & I'll let you know my concept to see if you'd like to do it?  Also I promise I won't ghost you ❌👻First time soliciting custom digital art so if I've missed a step, please let me know! Cheers 💛 [#PleaseBoost](https://glammr.us/tags/PleaseBoost)
+[#Call4Artists](https://glammr.us/tags/Call4Artists) [#DigitalArtists](https://glammr.us/tags/DigitalArtists) Would anyone be willing to develop and create an avatar for me? No AI, obviously. My budget is $75 via Paypal. This would be great for anyone who enjoys making [#cyberpunk](https://glammr.us/tags/cyberpunk) & [#solarpunk](https://glammr.us/tags/solarpunk) art.I think the process is to DM me with some work you've done & I'll let you know my concept to see if you'd like to do it?  Also I promise I won't ghost you ❌👻First time soliciting custom digital art so if I've missed a step, please let me know! Cheers 💛 [#PleaseBoost](https://glammr.us/tags/PleaseBoost)
 
 Tags: [#Call4Artists](https://glammr.us/tags/Call4Artists) [#digitalartists](https://glammr.us/tags/digitalartists) [#cyberpunk](https://glammr.us/tags/cyberpunk) [#solarpunk](https://glammr.us/tags/solarpunk) [#pleaseboost](https://glammr.us/tags/pleaseboost)
 
@@ -209,14 +219,6 @@ LM.io Collection - 5/24/2026
 Apparently this is supposed to be a wholesome AI option? Let's see how that plays...
 
 Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23AI)
-
-
-[](https://glammr.us/@librarymonster/116624177085286735)
----
-
-Library Monster - 5/23/2026
-
-watching fast cuts of hands putting things places in an organized way 🤌
 
 
 [Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
