@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/116757218440647875)
+---
+
+Library Monster - 6/16/2026
+
+I did very, very little today on my day off ❌Margs tho ✅
+
+
 [](https://glammr.us/@librarymonster/116748685462757668)
 ---
 
@@ -199,16 +207,6 @@ Library Monster - 5/25/2026
 Now that [#GoodOmens](https://glammr.us/tags/GoodOmens) is over, I'm kinda sad and not vibing Aziraphale anymore. Gotta find a different banner...Watching [#TheBoys](https://glammr.us/tags/TheBoys) now. Apparently I stopped watching after the ep where Hughie pretended to be a gross spider-man & attend the rich ppl/sex dungeon party (that ep playing those scenes for comedy was off-point, and the season as a whole hadn't been impressing me so I fell away from it).Abt to hit play on the S4 finale 👀
 
 Tags: [#goodomens](https://glammr.us/tags/goodomens) [#theboys](https://glammr.us/tags/theboys)
-
-
-[](https://glammr.us/@librarymonster/116633428820268025)
----
-
-Library Monster - 5/25/2026
-
-I got an A on this, felt cute, thought I'd share it 😋💅https://librarymonster.raindrop.page/cybersecurity-lib-guide-70521049Feedback always welcome - as are additional resource suggestions! I'll probably use this annotated list professionally come October during [#CyberSecurityAwareness](https://glammr.us/tags/CyberSecurityAwareness) Month so there's a lot of time to offer more recommendations that I'd appreciate a ton [#Cybersecurity](https://glammr.us/tags/Cybersecurity) [#LibGuide](https://glammr.us/tags/LibGuide)
-
-Tags: [#cybersecurityawareness](https://glammr.us/tags/cybersecurityawareness) [#cybersecurity](https://glammr.us/tags/cybersecurity) [#libguide](https://glammr.us/tags/libguide)
 
 
 [EcoGPT - Sustainable AI Chat That Plants Trees](https://www.ecogpt.com/)
