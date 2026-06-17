@@ -1,4 +1,14 @@
 
+[Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
+---
+
+LM.io Collection - 6/16/2026
+
+Just installed Jellyfin to access my *stuff*! Which includes an extensive home & family library of photography & videos that I'll be able to access remotely soon (as soon as I figure out how to do more with my VPN besides just turning it on and off)
+
+Tags: [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Sailing%20the%20Seas%22)
+
+
 [](https://glammr.us/@librarymonster/116757218440647875)
 ---
 
@@ -231,14 +241,4 @@ Edit: he had the best Christmas Day this year; we wrapped a ton of small squeaky
 It was controlled and peaceful, with Tavvy only a little uncomfortable, not distressed or scared. I&rsquo;m really grateful to BluePearl Emergency Animal Hospital.
 
 I miss him so much already. Gotta remember he&rsquo;s in doggy heaven chasing the hot dog (toy) with his...
-
-
-[Freecycle: Front Door](https://freecycle.org/)
----
-
-LM.io Collection - 5/13/2026
-
-This site runs the way Facebook or Nextdoor's marketplaces do, only it's a nonprofit, and it doesn't ply you with ads in the margin, and it doesn't track you (meets GDPR even though it's based in the U.S.) If you're looking for cool free stuff, check this site in your region every once in awhile.
-
-Tags: [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk) [#Free Public Service Website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Free%20Public%20Service%20Website%22) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22)
 
