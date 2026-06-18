@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/116766462026936991)
+---
+
+Library Monster - 6/17/2026
+
+Omg omg on a lark I decided to try [#Octoprint](https://glammr.us/tags/Octoprint) again using an old laptop I installed [#Linux](https://glammr.us/tags/Linux) onto (the touchscreen flickers & breaks if you move it - restarts fine, but it became super fragile bc of this issue so I had to retire it) & I actually did it with step-by-step instructions from AI. This is so exciting I'll be able to send print jobs to my printer & monitor stuff from any device on my wifi network 🤌
+
+Tags: [#octoprint](https://glammr.us/tags/octoprint) [#linux](https://glammr.us/tags/linux)
+
+
+[](https://glammr.us/@librarymonster/116765419461963938)
+---
+
+Library Monster - 6/17/2026
+
+Between work and home, I've switched over to using [#Firefox](https://glammr.us/tags/Firefox) browser with default search engine [#Ecosia](https://glammr.us/tags/Ecosia) because [#Google](https://glammr.us/tags/Google)'s excessive [#AI](https://glammr.us/tags/AI) responses to simple word or phrase searches felt wasteful & shameful to me.I have noticed that Ecosia will trigger an AI response if it clocks a search that *sounds* like it could be a good one for [#AI](https://glammr.us/tags/AI) & I'm not sure how I feel about that. It's not terrible but also still not the pure web search all the time that I want.
+
+Tags: [#firefox](https://glammr.us/tags/firefox) [#ecosia](https://glammr.us/tags/ecosia) [#google](https://glammr.us/tags/google) [#ai](https://glammr.us/tags/ai)
+
+
 [Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
 ---
 
@@ -189,16 +209,6 @@ Watching [#JackRyan](https://glammr.us/tags/JackRyan) Ghost War & the beginning 
 Tags: [#jackryan](https://glammr.us/tags/jackryan) [#nyc](https://glammr.us/tags/nyc)
 
 
-[](https://glammr.us/@librarymonster/116636252487655794)
----
-
-Library Monster - 5/25/2026
-
-Should live chat my annual watch of [#Jaws](https://glammr.us/tags/Jaws) on [#MemorialDay](https://glammr.us/tags/MemorialDay) this afternoon
-
-Tags: [#jaws](https://glammr.us/tags/jaws) [#memorialday](https://glammr.us/tags/memorialday)
-
-
 [The Night Feeling](https://www.reddit.com/r/TheNightFeeling/)
 ---
 
@@ -207,16 +217,6 @@ LM.io Collection - 5/25/2026
 Similar to r/LiminalSpaces, this subreddit is full of atmosphere and nostalgia.
 
 Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Photography](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Photography) [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
-
-
-[](https://glammr.us/@librarymonster/116633638083579502)
----
-
-Library Monster - 5/25/2026
-
-Now that [#GoodOmens](https://glammr.us/tags/GoodOmens) is over, I'm kinda sad and not vibing Aziraphale anymore. Gotta find a different banner...Watching [#TheBoys](https://glammr.us/tags/TheBoys) now. Apparently I stopped watching after the ep where Hughie pretended to be a gross spider-man & attend the rich ppl/sex dungeon party (that ep playing those scenes for comedy was off-point, and the season as a whole hadn't been impressing me so I fell away from it).Abt to hit play on the S4 finale 👀
-
-Tags: [#goodomens](https://glammr.us/tags/goodomens) [#theboys](https://glammr.us/tags/theboys)
 
 
 [EcoGPT - Sustainable AI Chat That Plants Trees](https://www.ecogpt.com/)
