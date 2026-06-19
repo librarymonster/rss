@@ -1,4 +1,22 @@
 
+[](https://glammr.us/@librarymonster/116773746799581405)
+---
+
+Library Monster - 6/18/2026
+
+My mom: "Oh that really famous Black director was here for Obama Presidential Center opening!"Me: Jordan Peele?Mom: No-Me: Cooger? Coogler?Mom: No.Me: Tyler Perry? Mom: YES!Me: Ryan Coogler! Nailed itAnyway, it's cool there's so many names that come to mind
+
+
+[](https://glammr.us/@librarymonster/116772321478402401)
+---
+
+Library Monster - 6/18/2026
+
+Watching the trailer for [#HeartOfTheBeast](https://glammr.us/tags/HeartOfTheBeast) and it would be hilarious if Brad Pitt died in the plane crash in the first 20 minutes of this thing and the rest of the movie was the dog's survival adventure
+
+Tags: [#heartofthebeast](https://glammr.us/tags/heartofthebeast)
+
+
 [](https://glammr.us/@librarymonster/116766462026936991)
 ---
 
@@ -187,26 +205,6 @@ Library Monster - 6/3/2026
 I couldn't keep going watching [#TheSocialDilemma](https://glammr.us/tags/TheSocialDilemma) bc the little fictional humans-as-algorithms scheming & strategizing to keep ppl on their screens felt ridiculous. There was a lot of worthy content, interviews, etc. in it. Whyyy did they decide to anthropomorphize algorithms? [#SocialMedia](https://glammr.us/tags/SocialMedia)
 
 Tags: [#socialmedia](https://glammr.us/tags/socialmedia) [#thesocialdilemma](https://glammr.us/tags/thesocialdilemma)
-
-
-[](https://glammr.us/@librarymonster/116672893646258555)
----
-
-Library Monster - 6/1/2026
-
-Content warning:The Boys Finale SpoilersFinished [#TheBoys](https://glammr.us/tags/TheBoys) Wanted Frenchie and Kimiko to be the couple that lived happily ever after, not Starlight & Hughie. Frenchie & Kimiko were by far the better couple?? The entire series??Is it also weird I wanted Butcher to release the virus, or better: for Kimiko to go on a spree to rid supes of their powers? I would've enjoyed an interesting redemption arc... It was so satisfying to see Homelander try and fail to fly or laser eyes ppl.Replies welcome!
-
-Tags: [#theboys](https://glammr.us/tags/theboys)
-
-
-[](https://glammr.us/@librarymonster/116652362633598486)
----
-
-Library Monster - 5/28/2026
-
-Watching [#JackRyan](https://glammr.us/tags/JackRyan) Ghost War & the beginning features a few [#NYC](https://glammr.us/tags/NYC) gift cliches but they missed pigeon artwork 😂
-
-Tags: [#jackryan](https://glammr.us/tags/jackryan) [#nyc](https://glammr.us/tags/nyc)
 
 
 [The Night Feeling](https://www.reddit.com/r/TheNightFeeling/)
