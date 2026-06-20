@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/116777269938475186)
+---
+
+Library Monster - 6/19/2026
+
+😂 I want OP to keep going until it's like frankly I don't even know how you're still alive
+
+
 [](https://glammr.us/@librarymonster/116773746799581405)
 ---
 
@@ -195,16 +203,6 @@ Library Monster - 6/4/2026
 Watching [#ProjectHailMary](https://glammr.us/tags/ProjectHailMary) and the drama over all the spaceship's switchy clicky flicky electronics is the best lol
 
 Tags: [#projecthailmary](https://glammr.us/tags/projecthailmary)
-
-
-[](https://glammr.us/@librarymonster/116686924984270685)
----
-
-Library Monster - 6/3/2026
-
-I couldn't keep going watching [#TheSocialDilemma](https://glammr.us/tags/TheSocialDilemma) bc the little fictional humans-as-algorithms scheming & strategizing to keep ppl on their screens felt ridiculous. There was a lot of worthy content, interviews, etc. in it. Whyyy did they decide to anthropomorphize algorithms? [#SocialMedia](https://glammr.us/tags/SocialMedia)
-
-Tags: [#socialmedia](https://glammr.us/tags/socialmedia) [#thesocialdilemma](https://glammr.us/tags/thesocialdilemma)
 
 
 [The Night Feeling](https://www.reddit.com/r/TheNightFeeling/)
