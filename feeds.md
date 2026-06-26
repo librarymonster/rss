@@ -1,4 +1,20 @@
 
+[](https://glammr.us/@librarymonster/116809017380201915)
+---
+
+Library Monster - 6/25/2026
+
+It's midnight and I should go to bed but I don't want to leave my homelab/art studio bc I'm so happy with it (it's a mess tho so no pics)
+
+
+[](https://glammr.us/@librarymonster/116808987738972440)
+---
+
+Library Monster - 6/25/2026
+
+guys my fingers hurtin other news my dog, Tank, keeps pulling suddenly on the leash, I'm moving furniture a lot, and also worked carefully putting my 2 TB hard drive into my PC tower and bringing her downstairs into what's now my homelab/art studio super happy abt everything but yeah. my fingers hurt
+
+
 [](https://glammr.us/@librarymonster/116777269938475186)
 ---
 
@@ -43,16 +59,6 @@ Library Monster - 6/17/2026
 Between work and home, I've switched over to using [#Firefox](https://glammr.us/tags/Firefox) browser with default search engine [#Ecosia](https://glammr.us/tags/Ecosia) because [#Google](https://glammr.us/tags/Google)'s excessive [#AI](https://glammr.us/tags/AI) responses to simple word or phrase searches felt wasteful & shameful to me.I have noticed that Ecosia will trigger an AI response if it clocks a search that *sounds* like it could be a good one for [#AI](https://glammr.us/tags/AI) & I'm not sure how I feel about that. It's not terrible but also still not the pure web search all the time that I want.
 
 Tags: [#firefox](https://glammr.us/tags/firefox) [#ecosia](https://glammr.us/tags/ecosia) [#google](https://glammr.us/tags/google) [#ai](https://glammr.us/tags/ai)
-
-
-[Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
----
-
-LM.io Collection - 6/16/2026
-
-Just installed Jellyfin to access my *stuff*! Which includes an extensive home & family library of photography & videos that I'll be able to access remotely soon (as soon as I figure out how to do more with my VPN besides just turning it on and off)
-
-Tags: [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Sailing%20the%20Seas%22)
 
 
 [](https://glammr.us/@librarymonster/116757218440647875)
@@ -185,46 +191,6 @@ AH OH NO [#Neocities](https://glammr.us/tags/Neocities) is down! 😱
 Tags: [#neocities](https://glammr.us/tags/neocities)
 
 
-[](https://glammr.us/@librarymonster/116694743415154869)
----
-
-Library Monster - 6/5/2026
-
-Strawberry matcha chrome! 💅 [#NailArt](https://glammr.us/tags/NailArt)
-
-Tags: [#nailart](https://glammr.us/tags/nailart)
-
-
-[](https://glammr.us/@librarymonster/116689773359636278)
----
-
-Library Monster - 6/4/2026
-
-Watching [#ProjectHailMary](https://glammr.us/tags/ProjectHailMary) and the drama over all the spaceship's switchy clicky flicky electronics is the best lol
-
-Tags: [#projecthailmary](https://glammr.us/tags/projecthailmary)
-
-
-[The Night Feeling](https://www.reddit.com/r/TheNightFeeling/)
----
-
-LM.io Collection - 5/25/2026
-
-Similar to r/LiminalSpaces, this subreddit is full of atmosphere and nostalgia.
-
-Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Photography](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Photography) [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
-
-
-[EcoGPT - Sustainable AI Chat That Plants Trees](https://www.ecogpt.com/)
----
-
-LM.io Collection - 5/24/2026
-
-Apparently this is supposed to be a wholesome AI option? Let's see how that plays...
-
-Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23AI)
-
-
 [Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
 ---
 
@@ -237,4 +203,50 @@ Edit: he had the best Christmas Day this year; we wrapped a ton of small squeaky
 It was controlled and peaceful, with Tavvy only a little uncomfortable, not distressed or scared. I&rsquo;m really grateful to BluePearl Emergency Animal Hospital.
 
 I miss him so much already. Gotta remember he&rsquo;s in doggy heaven chasing the hot dog (toy) with his...
+
+
+[New York City](https://librarymonster.dreamwidth.org/1684.html)
+---
+
+LibraryMonster.io - 5/10/2026
+
+Dear Reader,
+
+I recently visited New York City and I loooved it (as always). I was there for a medley of Mother's Day and my mums' birthday celebrations with my sisters, C and O, and my mom, E.
+
+We stayed at The Conrad in Battery Park City. The suites were roomy and clean, Leonessa was the rooftop bar and it was super charming but our heater was broken so we had to peace out a little earlier than planned. 
+
+We did a lot of walking on this trip, first stopping at Brookfield Place for coffee and brekkies and memory lane (right after my sister had her kiddo, my mom and I tripped over to help and we'd take him in his stroller, spend hours in Brookfield Place talking &amp; looking at stuff). Then we'd walk along the water either down to the Financial district where O lives or, one morning we headed up to the West Village for a stationary crawl.
+
+The Stationary Crawl
+
+- [Pink Olive West Village](https://pinkolive.com/): super cute but small corner shop of stationary, stickers, well-curated gifts for people of all ages.
+
+- We visited my sister's old apartment building when she lived in the West Village in the 2000s/aughts (and I would come stay the weekends while I was in college&nbsp;:p
+
+- [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp;
+
+- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for...
+
+
+[Intro Post 👻](https://librarymonster.dreamwidth.org/1372.html)
+---
+
+LibraryMonster.io - 4/20/2026
+
+Dear Reader,
+
+My name is Linn&eacute;a, aka Library Monster, and I'm so happy to finally have a blog platform. I know Dreamwidth has been here since LJ, but I was shopping around for a long time. I kept coming back to DW, so here I am! Finally! Can't wait to have a blogging home, and also join and contribute to this space as an online community.
+
+To introduce myself, I'm going to go through the [eight dimensions of wellness](https://pmc.ncbi.nlm.nih.gov/articles/PMC5508938/table/t1-cvj_08_861/) because I think that could be interesting.
+
+Physical health - I attribute entirely to my dogs, two of whom I rescued on a chilly Saturday morning this past February. From left (foreground) to right, that is Tiberius (nicknamed Tank), Persephone (nicknamed Phe), and Tavish. Tank &amp; Phe are our most recent additions; Tavish is a bit older and shy, but the babes are all adjusting.
+
+Intellectual health has a few points to mention!
+
+I suppose this is where I share my love for indie tech (probably doesn't come as a surprise since I've chosen DW) and art in all its forms. My website, [LibraryMonster.io](https://librarymonster.io/), features my designs and works with 3D printing, digital art, traditional &amp; mixed media art, videography, stationary/papercraft, photography, etc. I refuse to be locked down to a medium as an artist!
+
+And then my indie web &amp; tech brain is all about finding cyberpunk dystopias cool, but really solarpunk's the goal. I just installed Linux on 3 different aging laptops of mine &amp; it's going awesome. Next step is to make one of them a media server...
+
+Of course I'm a fandom person. Horror, fantasy, and scifi are my jam. I am picky about what actually hijacks my brain and has me creating fanworks though. In something like chronological order, my fannish mind has fixated on X-Files,...
 
