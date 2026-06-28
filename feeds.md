@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/116825554756896871)
+---
+
+Library Monster - 6/28/2026
+
+So, I turned my Linux laptop into a server (its screen was breaking) & it was really cool & I was proud I'd learned how to do it. It started with Wi-Fi issues today tho & I decided to give it a permanent Ethernet cable. More steady anyway, right? But this changed the IP address. Aaand my devices don't recognize the new IP. I can continue to troubleshoot it obvs but ALSO I'm like 🤔 I have an empty 2-bay HDD enclosure. Why keep this laptop vs just taking its storage...Advice welcome!
+
+
 [](https://glammr.us/@librarymonster/116809017380201915)
 ---
 
@@ -179,16 +187,6 @@ After over 6 months trying to adopt #Apple phones with an iPhone 17 (and please 
 Library Monster - 6/6/2026
 
 Truly, nobody manufactures facts together like my mom and me when one of the dogs is “off.”
-
-
-[](https://glammr.us/@librarymonster/116698799906990525)
----
-
-Library Monster - 6/5/2026
-
-AH OH NO [#Neocities](https://glammr.us/tags/Neocities) is down! 😱
-
-Tags: [#neocities](https://glammr.us/tags/neocities)
 
 
 [Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
