@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/116829150225644907)
+---
+
+Library Monster - 6/28/2026
+
+Trying to see what ppl thought of the [#PracticalMagic2](https://glammr.us/tags/PracticalMagic2) movie trailer on Reddit, accidentally stumbled upon r/boxoffice and didn't know I could be anonymously roasted so well. "This film only appealed to a very specific set of millennial women. It'll never make national, much less international, numbers to hit box office" & then there was one user like "not just millennial women, gay guy millennials too - don't forget us" 😂
+
+Tags: [#practicalmagic2](https://glammr.us/tags/practicalmagic2)
+
+
+[](https://glammr.us/@librarymonster/116829075248088366)
+---
+
+Library Monster - 6/28/2026
+
+I feel like the [#Fediverse](https://glammr.us/tags/Fediverse) is due another migration wave that'll finally overtake every other [#BigTech](https://glammr.us/tags/BigTech) platform on the premise it's not using [#AI](https://glammr.us/tags/AI) or [#Algorithms](https://glammr.us/tags/Algorithms). We just need one cool famous person to talk about it
+
+Tags: [#fediverse](https://glammr.us/tags/fediverse) [#bigtech](https://glammr.us/tags/bigtech) [#ai](https://glammr.us/tags/ai) [#algorithms](https://glammr.us/tags/algorithms)
+
+
 [](https://glammr.us/@librarymonster/116825554756896871)
 ---
 
@@ -163,30 +183,12 @@ Library Monster - 6/8/2026
 Shout out to that girl who just wanted to go nightswimming
 
 
-[](https://glammr.us/@librarymonster/116715137125452839)
----
-
-Library Monster - 6/8/2026
-
-New [#blog](https://glammr.us/tags/blog) post is up on my [#dreamwidth](https://glammr.us/tags/dreamwidth)! Today I'm talking about switching back to [#android](https://glammr.us/tags/android) as my daily driver phone & a modern [#millennial](https://glammr.us/tags/millennial) classic - getting your parents set up with a [#PasswordManager](https://glammr.us/tags/PasswordManager) "Android, Apple, and Learning to Love the Password Manager" https://librarymonster.dreamwidth.org/2255.html#IndieWeb [#SmolWeb](https://glammr.us/tags/SmolWeb)
-
-Tags: [#blog](https://glammr.us/tags/blog) [#dreamwidth](https://glammr.us/tags/dreamwidth) [#android](https://glammr.us/tags/android) [#millennial](https://glammr.us/tags/millennial) [#passwordmanager](https://glammr.us/tags/passwordmanager) [#indieweb](https://glammr.us/tags/indieweb) [#smolweb](https://glammr.us/tags/smolweb)
-
-
 [Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
 ---
 
 LibraryMonster.io - 6/8/2026
 
 After over 6 months trying to adopt #Apple phones with an iPhone 17 (and please be aware this is about my experience with Apple phones - I have an Apple iPad &amp; I love it), I've moved back to #Android. P will get it for Father's Day!!! I'll take his old iPhone 12 so I can still have an iPhone for reference and tech help interactions at work though. Here's the good for me on iPhones: The iPhone 17 has an incredible automatic camera + filters to make every picture gorgeous. This feature makes such a huge difference in one's experience with their phone. iPhone widgets are awesome - Pressreader's top stories were great (their widget is there in Android but not working for me). Wikipedia had an iPhone widget of the most popular articles that doesn't exist on Android 😭 And weirdly, the whole Hoopla app isn't working on my Nothing3 Android (login page just doesn't appear). The iPhone bad: I write creatively on my phone (long story short I quit smoking &amp; the only way to write without triggering cravings was in bed on my phone, and I came to really enjoy the process!), and I basically stopped when I got the iPhone. I thought perhaps I would learn to love the keyboard; through osmosis &amp; constant texting &amp; writing, I would just pick up how it worked. Instead I came to rely on dictation, which sure is great for casual conversation but dictation is too much if you're worldbuilding or getting emotional over your own scenes. I didn't fiddle with the settings as much as I suppose I could've, and a tech ed colleague of mine indicated her iPhone wasn't as chaotic as my iPhone keyboard was, so perhaps I still just didn't customize it properly. But...
-
-
-[](https://glammr.us/@librarymonster/116703904843289827)
----
-
-Library Monster - 6/6/2026
-
-Truly, nobody manufactures facts together like my mom and me when one of the dogs is “off.”
 
 
 [Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
