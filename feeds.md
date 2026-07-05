@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/116863755873030751)
+---
+
+Library Monster - 7/4/2026
+
+Tried to print 3 3D designs for my niece today. I think Birdie just doesn't like her??? This is the worst
+
+
 [](https://glammr.us/@librarymonster/116829150225644907)
 ---
 
@@ -183,14 +191,6 @@ Tags: [#widowsbay](https://glammr.us/tags/widowsbay) [#tv](https://glammr.us/tag
 Library Monster - 6/9/2026
 
 My favorite verbal mistake of the week was referring to my dog's unusual way to get into bed. "He loves rumping his hang out!"
-
-
-[](https://glammr.us/@librarymonster/116715562015570658)
----
-
-Library Monster - 6/8/2026
-
-Shout out to that girl who just wanted to go nightswimming
 
 
 [Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
