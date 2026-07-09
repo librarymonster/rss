@@ -1,4 +1,34 @@
 
+[](https://glammr.us/@librarymonster/116886908615136468)
+---
+
+Library Monster - 7/8/2026
+
+Anyone else using [#BiblioCommons](https://glammr.us/tags/BiblioCommons) Discovery Layer at their [#Library](https://glammr.us/tags/Library) ? Can I share my user profile publicly or is there a wall? Seems weird there'd be a wall, but then again people do tend to just put their whole entire names into the username field...
+
+Tags: [#bibliocommons](https://glammr.us/tags/bibliocommons) [#library](https://glammr.us/tags/library)
+
+
+[NWS Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTg3LjcyMSw0Mi4wNzZdLCJsb2NhdGlvbiI6Wy04Ny43MjEsNDIuMDc2XSwiem9vbSI6NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOnRydWUsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6ZmFsc2UsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19)
+---
+
+LM.io Collection - 7/8/2026
+
+We recently had some summer stormy weather and we binged Twister and Twisters and Widows Bay and now I want a radar weather view in my homelab refreshing every 15 minutes. A spare monitor, this page, and the Firefox add-on 'Auto refresh page' c'mon now this is awesome...
+
+Tags: [#Weather](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Weather) [#US Government Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22US%20Government%20Source%22) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22)
+
+
+[](https://glammr.us/@librarymonster/116884944840923004)
+---
+
+Library Monster - 7/8/2026
+
+New post on my website! https://librarymonster.io/post/2026-3-28-sciteai A [#Scite](https://glammr.us/tags/Scite) [#AI](https://glammr.us/tags/AI) eval for my MSLIS at UIUC assignment I did 5 months ago - FINALLY got around to posting it. It's likely outdated now, but probably not the thing that disturbed me most - web designers know EXACTLY what they're doing when they make it difficult to get to your free account dashboard upon account creation, and instead make it look like you have no choice but to pay for the premium version of the service [#DarkPatterns](https://glammr.us/tags/DarkPatterns) [#Internet](https://glammr.us/tags/Internet)
+
+Tags: [#Scite](https://glammr.us/tags/Scite) [#ai](https://glammr.us/tags/ai) [#darkpatterns](https://glammr.us/tags/darkpatterns) [#internet](https://glammr.us/tags/internet)
+
+
 [](https://glammr.us/@librarymonster/116863755873030751)
 ---
 
@@ -175,24 +205,6 @@ I'm back on it with [#selfhosting](https://glammr.us/tags/selfhosting) ! Last yr
 Tags: [#selfhosting](https://glammr.us/tags/selfhosting) [#neocities](https://glammr.us/tags/neocities)
 
 
-[](https://glammr.us/@librarymonster/116734675912606256)
----
-
-Library Monster - 6/12/2026
-
-[#WidowsBay](https://glammr.us/tags/WidowsBay) was renewed for a second season hell yeah! This show was a dark horse. Loved it. Better than The Burroughs by far imo (altho I did really like The Burroughs) [#TV](https://glammr.us/tags/TV)
-
-Tags: [#widowsbay](https://glammr.us/tags/widowsbay) [#tv](https://glammr.us/tags/tv)
-
-
-[](https://glammr.us/@librarymonster/116722636756185076)
----
-
-Library Monster - 6/9/2026
-
-My favorite verbal mistake of the week was referring to my dog's unusual way to get into bed. "He loves rumping his hang out!"
-
-
 [Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
 ---
 
@@ -219,18 +231,4 @@ LM.io Collection - 5/24/2026
 Apparently this is supposed to be a wholesome AI option? Let's see how that plays...
 
 Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23AI)
-
-
-[Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
----
-
-LibraryMonster.io - 5/17/2026
-
-My darling babe Tavish crossed the rainbow bridge today. He had heart disease but this was sudden heart failure. He was a rescue, estimated 3-4 years old when we adopted him in 2016.&nbsp;When we adopted him, he was pretty traumatized &amp; scared at first. He&rsquo;d been rescued from a puppy mill in Oklahoma; kept in a cage outside &amp; obviously mistreated by humans.&nbsp;He was never aggressive with us (or anyone), just easily spooked. I called him my mouse pup. He had the sweetest light brown eyes. The cutest little kitten licks.&nbsp;As he got older, we built some amazing trustful habits:&nbsp;Tavvy would bark for me in the morning and night for cuddles and kisses.&nbsp;&nbsp;He would get so excited for bed, our little twirling dervish, &ldquo;Tavishnikov&rdquo; doing pirouettes when it was time for naps &amp; night-nights.&nbsp;Every time I got home for work he&rsquo;d go up on his hind legs and I&rsquo;d &ldquo;catch&rdquo; him &amp; pick him up, put him in my lap.Hugs, kisses, staring into each other&rsquo;s eyes for a while. Those endorphin boosts were the best after a long day.&nbsp;He loved my nails scritching his little head.I&rsquo;m sure there&rsquo;s more. I&rsquo;ll probably edit this post further as I think of them.
-
-Edit: he had the best Christmas Day this year; we wrapped a ton of small squeaky toys for him and every time we indicated a gift was for him, and helped him unwrap it, he got so excited. When it was finally free of wrapping, he'd hoard it and chew on it (until the next gift came along)!
-
-It was controlled and peaceful, with Tavvy only a little uncomfortable, not distressed or scared. I&rsquo;m really grateful to BluePearl Emergency Animal Hospital.
-
-I miss him so much already. Gotta remember he&rsquo;s in doggy heaven chasing the hot dog (toy) with his...
 
