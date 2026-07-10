@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/116887930511651558)
+---
+
+Library Monster - 7/9/2026
+
+Omg just saw [#Hillywood](https://glammr.us/tags/Hillywood) 's [#StarWars](https://glammr.us/tags/StarWars) [#Fandom](https://glammr.us/tags/Fandom) parody. At first I was like 😂 they just wanted to cosplay karaokeThen Hilly started rly feeling those lyrics during intense scenes 🥺 girl's got acting chops. I gotta rewatch now srslyAlso I loved they did the first 3 from the 70/80s. Those were the ones I grew up watching & loving as a kid. Hated the prequels even though I think I was in their target demo of 13-ish (or was it for younger audiences? idk)https://youtu.be/GbeYQuUEtwk?is=glHKEzjOyHrr5Bgi
+
+Tags: [#hillywood](https://glammr.us/tags/hillywood) [#starwars](https://glammr.us/tags/starwars) [#fandom](https://glammr.us/tags/fandom)
+
+
 [](https://glammr.us/@librarymonster/116886908615136468)
 ---
 
@@ -193,16 +203,6 @@ Library Monster - 6/12/2026
 I'd actually have fun creating triggers for my website to go down with custom messages, like a [#meshtastic](https://glammr.us/tags/meshtastic) device picking up on bad weather & pulling it down with a specific note, or if traffic hits too high - "hug of death down time" (haha)
 
 Tags: [#meshtastic](https://glammr.us/tags/meshtastic)
-
-
-[](https://glammr.us/@librarymonster/116737136635945720)
----
-
-Library Monster - 6/12/2026
-
-I'm back on it with [#selfhosting](https://glammr.us/tags/selfhosting) ! Last yr I was getting into it but most ppl were like "it's not worth it, ur website goes down if the server breaks/ur house loses power/too much traffic & ISP will want to put ur connection into a 'commercial' category, etc" and 1st of all, my [#neocities](https://glammr.us/tags/neocities) site began almost 3 yrs ago. Too much traffic has never been a problem 😂 For my website going down, I don't rly mind it? I'll still have my files; it'll just go up again when the weather clears
-
-Tags: [#selfhosting](https://glammr.us/tags/selfhosting) [#neocities](https://glammr.us/tags/neocities)
 
 
 [Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
