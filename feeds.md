@@ -1,4 +1,22 @@
 
+[](https://glammr.us/@librarymonster/116904550771985187)
+---
+
+Library Monster - 7/12/2026
+
+Oh wow it's so so good 😋
+
+
+[](https://glammr.us/@librarymonster/116903919409048847)
+---
+
+Library Monster - 7/11/2026
+
+Fun fact of the day! Chocolate Beet Cake & WW2 [#History](https://glammr.us/tags/History) [#Cake](https://glammr.us/tags/Cake) [#Illinois](https://glammr.us/tags/Illinois) [#NorthShoreChicago](https://glammr.us/tags/NorthShoreChicago)
+
+Tags: [#illinois](https://glammr.us/tags/illinois) [#NorthShoreChicago](https://glammr.us/tags/NorthShoreChicago) [#history](https://glammr.us/tags/history) [#cake](https://glammr.us/tags/cake)
+
+
 [](https://glammr.us/@librarymonster/116887930511651558)
 ---
 
@@ -183,26 +201,6 @@ Library Monster - 6/13/2026
 [#Call4Artists](https://glammr.us/tags/Call4Artists) [#DigitalArtists](https://glammr.us/tags/DigitalArtists) Would anyone be willing to develop and create an avatar for me? No AI, obviously. My budget is $75 via Paypal. This would be great for anyone who enjoys making [#cyberpunk](https://glammr.us/tags/cyberpunk) & [#solarpunk](https://glammr.us/tags/solarpunk) art.I think the process is to DM me with some work you've done & I'll let you know my concept to see if you'd like to do it?  Also I promise I won't ghost you ❌👻First time soliciting custom digital art so if I've missed a step, please let me know! Cheers 💛 [#PleaseBoost](https://glammr.us/tags/PleaseBoost)
 
 Tags: [#Call4Artists](https://glammr.us/tags/Call4Artists) [#digitalartists](https://glammr.us/tags/digitalartists) [#cyberpunk](https://glammr.us/tags/cyberpunk) [#solarpunk](https://glammr.us/tags/solarpunk) [#pleaseboost](https://glammr.us/tags/pleaseboost)
-
-
-[](https://glammr.us/@librarymonster/116739559059745132)
----
-
-Library Monster - 6/12/2026
-
-Sorry I'm all about [#TV](https://glammr.us/tags/TV) right now but there's a lot of good stuff on & I don't have school so I'm enjoying my summer. I finished [#ThePitt](https://glammr.us/tags/ThePitt) season 2 a couple days ago & it was okay; with Mel's sister gaining so much awesome independence in this season, it's setting stuff up for Mel's character development in season 3 and I CANNOT wait to watch that; discover who she is in addition to a doctor & a sister 💕💕💕 Mel's my girl
-
-Tags: [#tv](https://glammr.us/tags/tv) [#thepitt](https://glammr.us/tags/thepitt)
-
-
-[](https://glammr.us/@librarymonster/116737168832417092)
----
-
-Library Monster - 6/12/2026
-
-I'd actually have fun creating triggers for my website to go down with custom messages, like a [#meshtastic](https://glammr.us/tags/meshtastic) device picking up on bad weather & pulling it down with a specific note, or if traffic hits too high - "hug of death down time" (haha)
-
-Tags: [#meshtastic](https://glammr.us/tags/meshtastic)
 
 
 [Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
