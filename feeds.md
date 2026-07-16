@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/116925020961677378)
+---
+
+Library Monster - 7/15/2026
+
+Last night began watching the [#ScifiHorror](https://glammr.us/tags/ScifiHorror)  [#EventHorizon](https://glammr.us/tags/EventHorizon) starring [#SamNeillStill](https://glammr.us/tags/SamNeillStill) slaps Bracing for Baby Bear's scene tho 🥺🫣 hands down most disturbing death scene for my 8th grade self
+
+Tags: [#scifihorror](https://glammr.us/tags/scifihorror) [#eventhorizon](https://glammr.us/tags/eventhorizon) [#samneill](https://glammr.us/tags/samneill)
+
+
+[](https://glammr.us/@librarymonster/116924994654231146)
+---
+
+Library Monster - 7/15/2026
+
+[#ConfabCon](https://glammr.us/tags/ConfabCon), a [#Chicago](https://glammr.us/tags/Chicago) [#fan](https://glammr.us/tags/fan) [#fandom](https://glammr.us/tags/fandom) convention, has their panel nominations up and they look so good!!! I really want to carve the time out to vote for my faves and attend...https://confabcon.com/chicago/programming-chicago/
+
+Tags: [#ConfabCon](https://glammr.us/tags/ConfabCon) [#fan](https://glammr.us/tags/fan) [#fandom](https://glammr.us/tags/fandom) [#chicago](https://glammr.us/tags/chicago)
+
+
 [](https://glammr.us/@librarymonster/116904550771985187)
 ---
 
@@ -181,26 +201,6 @@ Library Monster - 6/14/2026
 I'm so chuffed how easy it was to set up [#jellyfin](https://glammr.us/tags/jellyfin) this is honestly the most exciting day \o/ I also feel so vindicated for standing on business and absolutely refusing to keep all my home photos & videos & relying on a [#BigTech](https://glammr.us/tags/BigTech) cloud storage/organizer app. I never wanted Amazon, Facebook, Apple, or Google to have access to all of that & now I finally have an interface that works like its own streaming platform, and there's metadata editing, etc. & it's all *mine* 😭🫂🎉🥂
 
 Tags: [#jellyfin](https://glammr.us/tags/jellyfin) [#bigtech](https://glammr.us/tags/bigtech)
-
-
-[](https://glammr.us/@librarymonster/116746114193065298)
----
-
-Library Monster - 6/14/2026
-
-[#PhotoThrowback](https://glammr.us/tags/PhotoThrowback) I was 2006ing in college so hard omg 😂 This was the year my CD mixes absolutely slapped (I still have them and listen to them) [#Aughts](https://glammr.us/tags/Aughts) [#2000s](https://glammr.us/tags/2000s) [#JustMillennialThings](https://glammr.us/tags/JustMillennialThings)
-
-Tags: [#PhotoThrowback](https://glammr.us/tags/PhotoThrowback) [#aughts](https://glammr.us/tags/aughts) [#2000s](https://glammr.us/tags/2000s) [#JustMillennialThings](https://glammr.us/tags/JustMillennialThings)
-
-
-[](https://glammr.us/@librarymonster/116745260552113248)
----
-
-Library Monster - 6/13/2026
-
-[#Call4Artists](https://glammr.us/tags/Call4Artists) [#DigitalArtists](https://glammr.us/tags/DigitalArtists) Would anyone be willing to develop and create an avatar for me? No AI, obviously. My budget is $75 via Paypal. This would be great for anyone who enjoys making [#cyberpunk](https://glammr.us/tags/cyberpunk) & [#solarpunk](https://glammr.us/tags/solarpunk) art.I think the process is to DM me with some work you've done & I'll let you know my concept to see if you'd like to do it?  Also I promise I won't ghost you ❌👻First time soliciting custom digital art so if I've missed a step, please let me know! Cheers 💛 [#PleaseBoost](https://glammr.us/tags/PleaseBoost)
-
-Tags: [#Call4Artists](https://glammr.us/tags/Call4Artists) [#digitalartists](https://glammr.us/tags/digitalartists) [#cyberpunk](https://glammr.us/tags/cyberpunk) [#solarpunk](https://glammr.us/tags/solarpunk) [#pleaseboost](https://glammr.us/tags/pleaseboost)
 
 
 [Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
