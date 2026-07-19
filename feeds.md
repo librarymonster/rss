@@ -1,4 +1,32 @@
 
+[](https://glammr.us/@librarymonster/116941194259417176)
+---
+
+Library Monster - 7/18/2026
+
+https://archiveofourown.org/works/82564106 lol forgot to link
+
+
+[](https://glammr.us/@librarymonster/116941173391370221)
+---
+
+Library Monster - 7/18/2026
+
+[#FicRec](https://glammr.us/tags/FicRec) for [#GoodOmens](https://glammr.us/tags/GoodOmens) In the Ashes of Heaven byTusitala_storyCollector. 118k words.Summary (I've truncated): In all the world, there was one story the two of them had never discussed. A story they could only hold in silence. Crowley, Aziraphale and the Wars of the Roses.Review: [#Aziracrow](https://glammr.us/tags/Aziracrow) is platonic intimacy the whole way through. It's not tagged for it but there's a big part with such amazing hurt!Crowley + comforting!Aziraphale whump 🫠 So well-written. Needs way more kudos than it has!
+
+Tags: [#ficrec](https://glammr.us/tags/ficrec) [#goodomens](https://glammr.us/tags/goodomens) [#aziracrow](https://glammr.us/tags/aziracrow)
+
+
+[](https://glammr.us/@librarymonster/116940950250182743)
+---
+
+Library Monster - 7/18/2026
+
+[#Fandom](https://glammr.us/tags/Fandom) discussion question of the week :PDo you prefer fic that goes super deep into a ship & those intimacies, or [#fanfic](https://glammr.us/tags/fanfic) that explores multiple beloved characters & their dynamics together? Is there another, secret, third, fourth, fifth thing? Do you switch preferences based on the fandom?
+
+Tags: [#fandom](https://glammr.us/tags/fandom) [#fanfic](https://glammr.us/tags/fanfic)
+
+
 [](https://glammr.us/@librarymonster/116925020961677378)
 ---
 
@@ -165,16 +193,6 @@ Omg omg on a lark I decided to try [#Octoprint](https://glammr.us/tags/Octoprint
 Tags: [#octoprint](https://glammr.us/tags/octoprint) [#linux](https://glammr.us/tags/linux)
 
 
-[](https://glammr.us/@librarymonster/116765419461963938)
----
-
-Library Monster - 6/17/2026
-
-Between work and home, I've switched over to using [#Firefox](https://glammr.us/tags/Firefox) browser with default search engine [#Ecosia](https://glammr.us/tags/Ecosia) because [#Google](https://glammr.us/tags/Google)'s excessive [#AI](https://glammr.us/tags/AI) responses to simple word or phrase searches felt wasteful & shameful to me.I have noticed that Ecosia will trigger an AI response if it clocks a search that *sounds* like it could be a good one for [#AI](https://glammr.us/tags/AI) & I'm not sure how I feel about that. It's not terrible but also still not the pure web search all the time that I want.
-
-Tags: [#firefox](https://glammr.us/tags/firefox) [#ecosia](https://glammr.us/tags/ecosia) [#google](https://glammr.us/tags/google) [#ai](https://glammr.us/tags/ai)
-
-
 [Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
 ---
 
@@ -183,24 +201,6 @@ LM.io Collection - 6/16/2026
 Just installed Jellyfin to access my *stuff*! Which includes an extensive home & family library of photography & videos that I'll be able to access remotely soon (as soon as I figure out how to do more with my VPN besides just turning it on and off)
 
 Tags: [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Sailing%20the%20Seas%22)
-
-
-[](https://glammr.us/@librarymonster/116757218440647875)
----
-
-Library Monster - 6/16/2026
-
-I did very, very little today on my day off ❌Margs tho ✅
-
-
-[](https://glammr.us/@librarymonster/116748685462757668)
----
-
-Library Monster - 6/14/2026
-
-I'm so chuffed how easy it was to set up [#jellyfin](https://glammr.us/tags/jellyfin) this is honestly the most exciting day \o/ I also feel so vindicated for standing on business and absolutely refusing to keep all my home photos & videos & relying on a [#BigTech](https://glammr.us/tags/BigTech) cloud storage/organizer app. I never wanted Amazon, Facebook, Apple, or Google to have access to all of that & now I finally have an interface that works like its own streaming platform, and there's metadata editing, etc. & it's all *mine* 😭🫂🎉🥂
-
-Tags: [#jellyfin](https://glammr.us/tags/jellyfin) [#bigtech](https://glammr.us/tags/bigtech)
 
 
 [Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
