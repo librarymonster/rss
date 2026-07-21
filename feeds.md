@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/116953737096517149)
+---
+
+Library Monster - 7/20/2026
+
+https://social.gamefan.net/@techwire/116953662799825253Best "Rugged Phone" 2026 article. My [#NothingPhone](https://glammr.us/tags/NothingPhone) was accidentally left in my Jeep in direct sunlight in 95-100 fahrenheit weather for about 45 minutes (coming back from an outreach event & putting things back/talking to ppl gets hectic). It shut down on its own due to the heat, and after I popped it into the fridge for 5 minutes, it recovered fully. I was so worried but that baby survived! 🤌📳🫂 [#CellPhones](https://glammr.us/tags/CellPhones) [#TropicThunderSurvive](https://glammr.us/tags/TropicThunderSurvive).gif
+
+Tags: [#NothingPhone](https://glammr.us/tags/NothingPhone) [#cellphones](https://glammr.us/tags/cellphones) [#TropicThunderSurvive](https://glammr.us/tags/TropicThunderSurvive)
+
+
+[](https://glammr.us/@librarymonster/116953646856287918)
+---
+
+Library Monster - 7/20/2026
+
+Tonight at [#NorthbrookPublicLibrary](https://glammr.us/tags/NorthbrookPublicLibrary) [#BenZhao](https://glammr.us/tags/BenZhao) is speaking about [#AI](https://glammr.us/tags/AI) & [#Glaze](https://glammr.us/tags/Glaze) & [#Nightshade](https://glammr.us/tags/Nightshade) https://visit.northbrook.info/event/16240272I honestly can't wait. Hungry for this hour + the opportunity for Q&A 🤯💀💛😆 [#GenAI](https://glammr.us/tags/GenAI) [#ArtificialIntelligence](https://glammr.us/tags/ArtificialIntelligence) [#Illinois](https://glammr.us/tags/Illinois) [#Chicago](https://glammr.us/tags/Chicago)
+
+Tags: [#NorthbrookPublicLibrary](https://glammr.us/tags/NorthbrookPublicLibrary) [#benzhao](https://glammr.us/tags/benzhao) [#ai](https://glammr.us/tags/ai) [#glaze](https://glammr.us/tags/glaze) [#nightshade](https://glammr.us/tags/nightshade) [#genai](https://glammr.us/tags/genai) [#artificialintelligence](https://glammr.us/tags/artificialintelligence) [#illinois](https://glammr.us/tags/illinois) [#chicago](https://glammr.us/tags/chicago)
+
+
 [](https://glammr.us/@librarymonster/116941194259417176)
 ---
 
@@ -171,26 +191,6 @@ Library Monster - 6/19/2026
 Library Monster - 6/18/2026
 
 My mom: "Oh that really famous Black director was here for Obama Presidential Center opening!"Me: Jordan Peele?Mom: No-Me: Cooger? Coogler?Mom: No.Me: Tyler Perry? Mom: YES!Me: Ryan Coogler! Nailed itAnyway, it's cool there's so many names that come to mind
-
-
-[](https://glammr.us/@librarymonster/116772321478402401)
----
-
-Library Monster - 6/18/2026
-
-Watching the trailer for [#HeartOfTheBeast](https://glammr.us/tags/HeartOfTheBeast) and it would be hilarious if Brad Pitt died in the plane crash in the first 20 minutes of this thing and the rest of the movie was the dog's survival adventure
-
-Tags: [#heartofthebeast](https://glammr.us/tags/heartofthebeast)
-
-
-[](https://glammr.us/@librarymonster/116766462026936991)
----
-
-Library Monster - 6/17/2026
-
-Omg omg on a lark I decided to try [#Octoprint](https://glammr.us/tags/Octoprint) again using an old laptop I installed [#Linux](https://glammr.us/tags/Linux) onto (the touchscreen flickers & breaks if you move it - restarts fine, but it became super fragile bc of this issue so I had to retire it) & I actually did it with step-by-step instructions from AI. This is so exciting I'll be able to send print jobs to my printer & monitor stuff from any device on my wifi network 🤌
-
-Tags: [#octoprint](https://glammr.us/tags/octoprint) [#linux](https://glammr.us/tags/linux)
 
 
 [Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
