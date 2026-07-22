@@ -1,4 +1,28 @@
 
+[](https://glammr.us/@librarymonster/116958513508431130)
+---
+
+Library Monster - 7/21/2026
+
+Thor "we need a miracle" and then Steve "hey pal"While I'm a happy fangirl I don't know if Steve coming back is like... a miracle
+
+
+[](https://glammr.us/@librarymonster/116956168891474751)
+---
+
+Library Monster - 7/21/2026
+
+Played dress-up makeshift cyberpunk outfits for fun tonight like you do
+
+
+[](https://glammr.us/@librarymonster/116956130915642337)
+---
+
+Library Monster - 7/21/2026
+
+This went incredibly well omg ✨🥂
+
+
 [](https://glammr.us/@librarymonster/116953737096517149)
 ---
 
@@ -167,30 +191,6 @@ So, I turned my Linux laptop into a server (its screen was breaking) & it was re
 Library Monster - 6/25/2026
 
 It's midnight and I should go to bed but I don't want to leave my homelab/art studio bc I'm so happy with it (it's a mess tho so no pics)
-
-
-[](https://glammr.us/@librarymonster/116808987738972440)
----
-
-Library Monster - 6/25/2026
-
-guys my fingers hurtin other news my dog, Tank, keeps pulling suddenly on the leash, I'm moving furniture a lot, and also worked carefully putting my 2 TB hard drive into my PC tower and bringing her downstairs into what's now my homelab/art studio super happy abt everything but yeah. my fingers hurt
-
-
-[](https://glammr.us/@librarymonster/116777269938475186)
----
-
-Library Monster - 6/19/2026
-
-😂 I want OP to keep going until it's like frankly I don't even know how you're still alive
-
-
-[](https://glammr.us/@librarymonster/116773746799581405)
----
-
-Library Monster - 6/18/2026
-
-My mom: "Oh that really famous Black director was here for Obama Presidential Center opening!"Me: Jordan Peele?Mom: No-Me: Cooger? Coogler?Mom: No.Me: Tyler Perry? Mom: YES!Me: Ryan Coogler! Nailed itAnyway, it's cool there's so many names that come to mind
 
 
 [Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
