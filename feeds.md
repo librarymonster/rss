@@ -1,4 +1,22 @@
 
+[](https://glammr.us/@librarymonster/116971923948503296)
+---
+
+Library Monster - 7/23/2026
+
+I love hyperfixating on TV ships & their intimacies. Unfort, more and more ensemble stories are created. They're found family (which is nice messaging but not my fave tea); more affordable if the cast is relatively unknown; risk averse (we just need 1 character to love & root for to keep us watching)Ensemble stories are rough for me bc the characters & their ship I love often lack enough canon lore to them to deliver a spread of agreed-upon characterizations in fic, lol.
+
+
+[](https://glammr.us/@librarymonster/116971748024843783)
+---
+
+Library Monster - 7/23/2026
+
+[#Fandom](https://glammr.us/tags/Fandom) discussion question of the week [#FDQ](https://glammr.us/tags/FDQ) What character(s) do you love to see whumped and why?
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ) [#fandom](https://glammr.us/tags/fandom)
+
+
 [](https://glammr.us/@librarymonster/116958513508431130)
 ---
 
@@ -66,9 +84,9 @@ Tags: [#ficrec](https://glammr.us/tags/ficrec) [#goodomens](https://glammr.us/ta
 
 Library Monster - 7/18/2026
 
-[#Fandom](https://glammr.us/tags/Fandom) discussion question of the week :PDo you prefer fic that goes super deep into a ship & those intimacies, or [#fanfic](https://glammr.us/tags/fanfic) that explores multiple beloved characters & their dynamics together? Is there another, secret, third, fourth, fifth thing? Do you switch preferences based on the fandom?
+[#Fandom](https://glammr.us/tags/Fandom) discussion question of the week :P [#FDQDo](https://glammr.us/tags/FDQDo) you prefer fic that goes super deep into a ship & those intimacies, or [#fanfic](https://glammr.us/tags/fanfic) that explores multiple beloved characters & their dynamics together? Is there another, secret, third, fourth, fifth thing? Do you switch preferences based on the fandom?
 
-Tags: [#fandom](https://glammr.us/tags/fandom) [#fanfic](https://glammr.us/tags/fanfic)
+Tags: [#fandom](https://glammr.us/tags/fandom) [#fanfic](https://glammr.us/tags/fanfic) [#FDQ](https://glammr.us/tags/FDQ)
 
 
 [](https://glammr.us/@librarymonster/116925020961677378)
@@ -175,22 +193,6 @@ Library Monster - 6/28/2026
 I feel like the [#Fediverse](https://glammr.us/tags/Fediverse) is due another migration wave that'll finally overtake every other [#BigTech](https://glammr.us/tags/BigTech) platform on the premise it's not using [#AI](https://glammr.us/tags/AI) or [#Algorithms](https://glammr.us/tags/Algorithms). We just need one cool famous person to talk about it
 
 Tags: [#fediverse](https://glammr.us/tags/fediverse) [#bigtech](https://glammr.us/tags/bigtech) [#ai](https://glammr.us/tags/ai) [#algorithms](https://glammr.us/tags/algorithms)
-
-
-[](https://glammr.us/@librarymonster/116825554756896871)
----
-
-Library Monster - 6/28/2026
-
-So, I turned my Linux laptop into a server (its screen was breaking) & it was really cool & I was proud I'd learned how to do it. It started with Wi-Fi issues today tho & I decided to give it a permanent Ethernet cable. More steady anyway, right? But this changed the IP address. Aaand my devices don't recognize the new IP. I can continue to troubleshoot it obvs but ALSO I'm like 🤔 I have an empty 2-bay HDD enclosure. Why keep this laptop vs just taking its storage...Advice welcome!
-
-
-[](https://glammr.us/@librarymonster/116809017380201915)
----
-
-Library Monster - 6/25/2026
-
-It's midnight and I should go to bed but I don't want to leave my homelab/art studio bc I'm so happy with it (it's a mess tho so no pics)
 
 
 [Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
