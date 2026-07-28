@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/116991824667982388)
+---
+
+Library Monster - 7/27/2026
+
+Went [#camping](https://glammr.us/tags/camping) for the 1st time in years at [#PointBeach](https://glammr.us/tags/PointBeach) State Park in [#Wisconsin](https://glammr.us/tags/Wisconsin) over the weekend! Some takeaways: - the beach was amazing, the Amish Lakeside Country Store had fantastic baked treats. Weather was 70-80s F 🤌- While [#FishCreek](https://glammr.us/tags/FishCreek) in [#DoorCounty](https://glammr.us/tags/DoorCounty) was v cool, don't make the day trip longer than 30 min drive away from camp. Blue Horse coffee was so nice + dog-friendly ✨- need to get a campsite that has a driveway for more privacy, & so my dogs don't bark "protecting the territory" 💀
+
+Tags: [#camping](https://glammr.us/tags/camping) [#PointBeach](https://glammr.us/tags/PointBeach) [#wisconsin](https://glammr.us/tags/wisconsin) [#fishcreek](https://glammr.us/tags/fishcreek) [#doorcounty](https://glammr.us/tags/doorcounty)
+
+
 [](https://glammr.us/@librarymonster/116971923948503296)
 ---
 
@@ -183,16 +193,6 @@ Library Monster - 6/28/2026
 Trying to see what ppl thought of the [#PracticalMagic2](https://glammr.us/tags/PracticalMagic2) movie trailer on Reddit, accidentally stumbled upon r/boxoffice and didn't know I could be anonymously roasted so well. "This film only appealed to a very specific set of millennial women. It'll never make national, much less international, numbers to hit box office" & then there was one user like "not just millennial women, gay guy millennials too - don't forget us" 😂
 
 Tags: [#practicalmagic2](https://glammr.us/tags/practicalmagic2)
-
-
-[](https://glammr.us/@librarymonster/116829075248088366)
----
-
-Library Monster - 6/28/2026
-
-I feel like the [#Fediverse](https://glammr.us/tags/Fediverse) is due another migration wave that'll finally overtake every other [#BigTech](https://glammr.us/tags/BigTech) platform on the premise it's not using [#AI](https://glammr.us/tags/AI) or [#Algorithms](https://glammr.us/tags/Algorithms). We just need one cool famous person to talk about it
-
-Tags: [#fediverse](https://glammr.us/tags/fediverse) [#bigtech](https://glammr.us/tags/bigtech) [#ai](https://glammr.us/tags/ai) [#algorithms](https://glammr.us/tags/algorithms)
 
 
 [Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
