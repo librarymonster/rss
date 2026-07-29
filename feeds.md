@@ -1,4 +1,32 @@
 
+[](https://glammr.us/@librarymonster/116999957534278203)
+---
+
+Library Monster - 7/28/2026
+
+I was thinking protesting but it's so funny he was probably thinking murder, which I still stand by 😂 I'm sure future me had her reasons I'm not gonna make it easy for them!
+
+
+[](https://glammr.us/@librarymonster/116999932401764833)
+---
+
+Library Monster - 7/28/2026
+
+Patron during Tech Tuesday Drop-in hours: have you ever gotten a DNA test to see your heritage? Me: ahh nah, I don't want to have that information out there.Patron: well it's fine as long as you don't do anything bad Me: but I might! /*we start laughing*/ I don't know. I might break some laws some day [#JustLibraryThings](https://glammr.us/tags/JustLibraryThings) [#ProfessionalLibrarianResponses](https://glammr.us/tags/ProfessionalLibrarianResponses) [#DontAtMe](https://glammr.us/tags/DontAtMe) [#Libraries](https://glammr.us/tags/Libraries)
+
+Tags: [#JustLibraryThings](https://glammr.us/tags/JustLibraryThings) [#ProfessionalLibrarianResponses](https://glammr.us/tags/ProfessionalLibrarianResponses) [#dontatme](https://glammr.us/tags/dontatme) [#libraries](https://glammr.us/tags/libraries)
+
+
+[](https://glammr.us/@librarymonster/116997836792003968)
+---
+
+Library Monster - 7/28/2026
+
+Creating [#FDQ](https://glammr.us/tags/FDQ) - [#Fandom](https://glammr.us/tags/Fandom) Discussion Question of the Week - to encourage fun interaction & banter between fans on [#Masto](https://glammr.us/tags/Masto) 🫶 Questions will post on Saturday mornings. They'll always be [#multiFandom](https://glammr.us/tags/multiFandom) and will vary greatly in depth/complexity (lol). Feel free to reply to this toot & ask questions about my FDQs (FAQs abt the FDQs haha)
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ) [#fandom](https://glammr.us/tags/fandom) [#masto](https://glammr.us/tags/masto) [#multifandom](https://glammr.us/tags/multifandom)
+
+
 [](https://glammr.us/@librarymonster/116991824667982388)
 ---
 
@@ -25,6 +53,16 @@ Library Monster - 7/23/2026
 [#Fandom](https://glammr.us/tags/Fandom) discussion question of the week [#FDQ](https://glammr.us/tags/FDQ) What character(s) do you love to see whumped and why?
 
 Tags: [#FDQ](https://glammr.us/tags/FDQ) [#fandom](https://glammr.us/tags/fandom)
+
+
+[Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
+---
+
+LM.io Collection - 7/22/2026
+
+Space Weather sounds silly but it's real and NOAA is running it and everyone should know about this. This is the site that everyone will realize they should've been consulting when the internet apocalypse hits.
+
+Tags: [#Weather](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Weather) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#US Government Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22US%20Government%20Source%22) [#News](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23News) [#Public Domain/CC](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Public%20Domain%2FCC%22) [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk)
 
 
 [](https://glammr.us/@librarymonster/116958513508431130)
@@ -157,7 +195,7 @@ Anyone else using [#BiblioCommons](https://glammr.us/tags/BiblioCommons) Discove
 Tags: [#bibliocommons](https://glammr.us/tags/bibliocommons) [#library](https://glammr.us/tags/library)
 
 
-[NWS Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTg3LjcyMSw0Mi4wNzZdLCJsb2NhdGlvbiI6Wy04Ny43MjEsNDIuMDc2XSwiem9vbSI6NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOnRydWUsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6ZmFsc2UsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19)
+[National Weather Service (NWS) Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTg3LjcyMSw0Mi4wNzZdLCJsb2NhdGlvbiI6Wy04Ny43MjEsNDIuMDc2XSwiem9vbSI6NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOnRydWUsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6ZmFsc2UsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19)
 ---
 
 LM.io Collection - 7/8/2026
@@ -165,34 +203,6 @@ LM.io Collection - 7/8/2026
 We recently had some summer stormy weather and we binged Twister and Twisters and Widows Bay and now I want a radar weather view in my homelab refreshing every 15 minutes. A spare monitor, this page, and the Firefox add-on 'Auto refresh page' c'mon now this is awesome...
 
 Tags: [#Weather](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Weather) [#US Government Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22US%20Government%20Source%22) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22)
-
-
-[](https://glammr.us/@librarymonster/116884944840923004)
----
-
-Library Monster - 7/8/2026
-
-New post on my website! https://librarymonster.io/post/2026-3-28-sciteai A [#Scite](https://glammr.us/tags/Scite) [#AI](https://glammr.us/tags/AI) eval for my MSLIS at UIUC assignment I did 5 months ago - FINALLY got around to posting it. It's likely outdated now, but probably not the thing that disturbed me most - web designers know EXACTLY what they're doing when they make it difficult to get to your free account dashboard upon account creation, and instead make it look like you have no choice but to pay for the premium version of the service [#DarkPatterns](https://glammr.us/tags/DarkPatterns) [#Internet](https://glammr.us/tags/Internet)
-
-Tags: [#Scite](https://glammr.us/tags/Scite) [#ai](https://glammr.us/tags/ai) [#darkpatterns](https://glammr.us/tags/darkpatterns) [#internet](https://glammr.us/tags/internet)
-
-
-[](https://glammr.us/@librarymonster/116863755873030751)
----
-
-Library Monster - 7/4/2026
-
-Tried to print 3 3D designs for my niece today. I think Birdie just doesn't like her??? This is the worst
-
-
-[](https://glammr.us/@librarymonster/116829150225644907)
----
-
-Library Monster - 6/28/2026
-
-Trying to see what ppl thought of the [#PracticalMagic2](https://glammr.us/tags/PracticalMagic2) movie trailer on Reddit, accidentally stumbled upon r/boxoffice and didn't know I could be anonymously roasted so well. "This film only appealed to a very specific set of millennial women. It'll never make national, much less international, numbers to hit box office" & then there was one user like "not just millennial women, gay guy millennials too - don't forget us" 😂
-
-Tags: [#practicalmagic2](https://glammr.us/tags/practicalmagic2)
 
 
 [Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
@@ -221,14 +231,4 @@ LM.io Collection - 5/25/2026
 Similar to r/LiminalSpaces, this subreddit is full of atmosphere and nostalgia.
 
 Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Photography](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Photography) [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
-
-
-[EcoGPT - Sustainable AI Chat That Plants Trees](https://www.ecogpt.com/)
----
-
-LM.io Collection - 5/24/2026
-
-Apparently this is supposed to be a wholesome AI option? Let's see how that plays...
-
-Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#AI](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23AI)
 
