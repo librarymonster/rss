@@ -1,4 +1,22 @@
 
+[](https://glammr.us/@librarymonster/117003808736279619)
+---
+
+Library Monster - 7/29/2026
+
+📣Announcement I've rebranded a little bit! My website is no longer librarymonster.io!It is //drumroll//https://MONSTERBYTE.LOLI love libraries - am a librarian - but my whole thing isn't really steeped in librarianship. My true heart is in monstrousness, technology, and having a sense of humor, so this felt right 🥂Hope everybody visits me/my site every once in awhile. No ads, no trackers, just a personal website I've been building (and rebuilding, and redesigning, etc.) for >2 years
+
+
+[](https://glammr.us/@librarymonster/117003266364546338)
+---
+
+Library Monster - 7/29/2026
+
+Hey did anyone else see [#Pillowfort](https://glammr.us/tags/Pillowfort) is going nonprofit? 👀 I remember giving $10 seed money back in 2017. Apparently I haven't posted for 5 years tho. My account's still there. I also remember there was some controversy over whether to allow loli art (as per usz). I don't know how that ended.The email abt going nonprofit was very honest & cool from Julie. Does anyone love PF? I threw my lot in with [#Dreamwidth](https://glammr.us/tags/Dreamwidth) earlier this year but maybe PF is worth reconsideration.#socialMedia [#fandom](https://glammr.us/tags/fandom)
+
+Tags: [#pillowfort](https://glammr.us/tags/pillowfort) [#dreamwidth](https://glammr.us/tags/dreamwidth) [#socialmedia](https://glammr.us/tags/socialmedia) [#fandom](https://glammr.us/tags/fandom)
+
+
 [](https://glammr.us/@librarymonster/116999957534278203)
 ---
 
@@ -173,26 +191,6 @@ Library Monster - 7/11/2026
 Fun fact of the day! Chocolate Beet Cake & WW2 [#History](https://glammr.us/tags/History) [#Cake](https://glammr.us/tags/Cake) [#Illinois](https://glammr.us/tags/Illinois) [#NorthShoreChicago](https://glammr.us/tags/NorthShoreChicago)
 
 Tags: [#illinois](https://glammr.us/tags/illinois) [#NorthShoreChicago](https://glammr.us/tags/NorthShoreChicago) [#history](https://glammr.us/tags/history) [#cake](https://glammr.us/tags/cake)
-
-
-[](https://glammr.us/@librarymonster/116887930511651558)
----
-
-Library Monster - 7/9/2026
-
-Omg just saw [#Hillywood](https://glammr.us/tags/Hillywood) 's [#StarWars](https://glammr.us/tags/StarWars) [#Fandom](https://glammr.us/tags/Fandom) parody. At first I was like 😂 they just wanted to cosplay karaokeThen Hilly started rly feeling those lyrics during intense scenes 🥺 girl's got acting chops. I gotta rewatch now srslyAlso I loved they did the first 3 from the 70/80s. Those were the ones I grew up watching & loving as a kid. Hated the prequels even though I think I was in their target demo of 13-ish (or was it for younger audiences? idk)https://youtu.be/GbeYQuUEtwk?is=glHKEzjOyHrr5Bgi
-
-Tags: [#hillywood](https://glammr.us/tags/hillywood) [#starwars](https://glammr.us/tags/starwars) [#fandom](https://glammr.us/tags/fandom)
-
-
-[](https://glammr.us/@librarymonster/116886908615136468)
----
-
-Library Monster - 7/8/2026
-
-Anyone else using [#BiblioCommons](https://glammr.us/tags/BiblioCommons) Discovery Layer at their [#Library](https://glammr.us/tags/Library) ? Can I share my user profile publicly or is there a wall? Seems weird there'd be a wall, but then again people do tend to just put their whole entire names into the username field...
-
-Tags: [#bibliocommons](https://glammr.us/tags/bibliocommons) [#library](https://glammr.us/tags/library)
 
 
 [National Weather Service (NWS) Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTg3LjcyMSw0Mi4wNzZdLCJsb2NhdGlvbiI6Wy04Ny43MjEsNDIuMDc2XSwiem9vbSI6NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOnRydWUsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6ZmFsc2UsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19)
