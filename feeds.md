@@ -1,4 +1,38 @@
 
+[](https://glammr.us/@librarymonster/117010999712249402)
+---
+
+Library Monster - 7/30/2026
+
+Hey so what's masto.ai about? I couldn't really find an identity in their about page. I thought it would be like a haven of ppl who appreciate AI on mastodon but then their rules are like "we gotta keep this place human" 😄👍
+
+
+[](https://glammr.us/@librarymonster/117009192580019031)
+---
+
+Library Monster - 7/30/2026
+
+Nobody's asked yet but dark & mature answers are respected. Just make sure you're abiding by your server's rules & content warn 👍
+
+
+[](https://glammr.us/@librarymonster/117008918398941409)
+---
+
+Library Monster - 7/30/2026
+
+Okay I do understand the irony of my own comments
+
+
+[](https://glammr.us/@librarymonster/117006827936909274)
+---
+
+Library Monster - 7/30/2026
+
+ooo we have an old Google phone that we can put [#GrapheneOS](https://glammr.us/tags/GrapheneOS) onto. I know my next projeeeect
+
+Tags: [#grapheneos](https://glammr.us/tags/grapheneos)
+
+
 [](https://glammr.us/@librarymonster/117003808736279619)
 ---
 
@@ -153,44 +187,6 @@ Library Monster - 7/18/2026
 [#Fandom](https://glammr.us/tags/Fandom) discussion question of the week :P [#FDQDo](https://glammr.us/tags/FDQDo) you prefer fic that goes super deep into a ship & those intimacies, or [#fanfic](https://glammr.us/tags/fanfic) that explores multiple beloved characters & their dynamics together? Is there another, secret, third, fourth, fifth thing? Do you switch preferences based on the fandom?
 
 Tags: [#fandom](https://glammr.us/tags/fandom) [#fanfic](https://glammr.us/tags/fanfic) [#FDQ](https://glammr.us/tags/FDQ)
-
-
-[](https://glammr.us/@librarymonster/116925020961677378)
----
-
-Library Monster - 7/15/2026
-
-Last night began watching the [#ScifiHorror](https://glammr.us/tags/ScifiHorror)  [#EventHorizon](https://glammr.us/tags/EventHorizon) starring [#SamNeillStill](https://glammr.us/tags/SamNeillStill) slaps Bracing for Baby Bear's scene tho 🥺🫣 hands down most disturbing death scene for my 8th grade self
-
-Tags: [#scifihorror](https://glammr.us/tags/scifihorror) [#eventhorizon](https://glammr.us/tags/eventhorizon) [#samneill](https://glammr.us/tags/samneill)
-
-
-[](https://glammr.us/@librarymonster/116924994654231146)
----
-
-Library Monster - 7/15/2026
-
-[#ConfabCon](https://glammr.us/tags/ConfabCon), a [#Chicago](https://glammr.us/tags/Chicago) [#fan](https://glammr.us/tags/fan) [#fandom](https://glammr.us/tags/fandom) convention, has their panel nominations up and they look so good!!! I really want to carve the time out to vote for my faves and attend...https://confabcon.com/chicago/programming-chicago/
-
-Tags: [#ConfabCon](https://glammr.us/tags/ConfabCon) [#fan](https://glammr.us/tags/fan) [#fandom](https://glammr.us/tags/fandom) [#chicago](https://glammr.us/tags/chicago)
-
-
-[](https://glammr.us/@librarymonster/116904550771985187)
----
-
-Library Monster - 7/12/2026
-
-Oh wow it's so so good 😋
-
-
-[](https://glammr.us/@librarymonster/116903919409048847)
----
-
-Library Monster - 7/11/2026
-
-Fun fact of the day! Chocolate Beet Cake & WW2 [#History](https://glammr.us/tags/History) [#Cake](https://glammr.us/tags/Cake) [#Illinois](https://glammr.us/tags/Illinois) [#NorthShoreChicago](https://glammr.us/tags/NorthShoreChicago)
-
-Tags: [#illinois](https://glammr.us/tags/illinois) [#NorthShoreChicago](https://glammr.us/tags/NorthShoreChicago) [#history](https://glammr.us/tags/history) [#cake](https://glammr.us/tags/cake)
 
 
 [National Weather Service (NWS) Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTg3LjcyMSw0Mi4wNzZdLCJsb2NhdGlvbiI6Wy04Ny43MjEsNDIuMDc2XSwiem9vbSI6NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOnRydWUsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6ZmFsc2UsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19)
