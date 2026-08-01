@@ -1,4 +1,88 @@
 
+[](https://glammr.us/@librarymonster/117017580069272109)
+---
+
+Library Monster - 8/1/2026
+
+Content warning:Spoilers [#DoNotEnterWtf](https://glammr.us/tags/DoNotEnterWtf) Rick was thrown several stories down. He was for sure dead
+
+
+[](https://glammr.us/@librarymonster/117017571465606776)
+---
+
+Library Monster - 8/1/2026
+
+Content warning:Spoilers [#DoNotEnterHoist](https://glammr.us/tags/DoNotEnterHoist) upon ye own tree of victim electronics.
+
+
+[](https://glammr.us/@librarymonster/117017563467833009)
+---
+
+Library Monster - 8/1/2026
+
+I love how this movie fully set up Diane's main character energy & then benched her with an ankle twist 😂
+
+
+[](https://glammr.us/@librarymonster/117017508550070056)
+---
+
+Library Monster - 8/1/2026
+
+Content warning:Spoilers [#DoNotEnterHeart](https://glammr.us/tags/DoNotEnterHeart)-eating Satan worshippers ok
+
+
+[](https://glammr.us/@librarymonster/117017456552248511)
+---
+
+Library Monster - 8/1/2026
+
+Content warning:Spoilers [#DoNotEnterDescent](https://glammr.us/tags/DoNotEnterDescent) creatures!?!?! Too many candles in this roomEdit: aliens?Edit: Nosferatu creatures?
+
+
+[](https://glammr.us/@librarymonster/117017434716515758)
+---
+
+Library Monster - 8/1/2026
+
+Content warning:Spoilers [#DoNotEnterWho](https://glammr.us/tags/DoNotEnterWho) knew urban explorer teams were so adjacent to murderous art/scavenger gangs
+
+
+[](https://glammr.us/@librarymonster/117017370373932335)
+---
+
+Library Monster - 8/1/2026
+
+Content warning:Spoilers [#DoNotEnterI](https://glammr.us/tags/DoNotEnterI) mean, I can't believe what's-her-name shared the destination of their next adventure as a public taunt on YT or whatever. The whole team should've been expecting these asshats.Is my guy actually a copper?
+
+
+[](https://glammr.us/@librarymonster/117017317327334933)
+---
+
+Library Monster - 8/1/2026
+
+Content warning:Spoilers [#DoNotEnterHow](https://glammr.us/tags/DoNotEnterHow) did this mf not see a BEAR TRAP coming up in the hotel hallway tho 😂
+
+
+[](https://glammr.us/@librarymonster/117017255722825604)
+---
+
+Library Monster - 7/31/2026
+
+I'm watching [#DoNotEnter](https://glammr.us/tags/DoNotEnter) one of the many surprisingly promising [#horror](https://glammr.us/tags/horror) movies Amazon Prime has streaming rn. This one is about a team of young urban explorers that plan a trip into a haunted abandoned hotel. About 30 minutes in & I'm not that endeared to any of the characters except for a guy that was introduced five minutes ago as a vice reporter tag-along. He went out of his way to protect another character with a rat phobia that impressed me. Hope he's the final boy 👀🐀
+
+Tags: [#donotenter](https://glammr.us/tags/donotenter) [#horror](https://glammr.us/tags/horror)
+
+
+[](https://glammr.us/@librarymonster/117014811232659489)
+---
+
+Library Monster - 7/31/2026
+
+Yesterday, trying to build an independent, internal, collaborative web app/database for staff that'll allow for comments and ratings on our online resources, my [#AI](https://glammr.us/tags/AI) coding tool was going great until it caught the é in my name
+
+Tags: [#ai](https://glammr.us/tags/ai)
+
+
 [](https://glammr.us/@librarymonster/117010999712249402)
 ---
 
@@ -89,24 +173,6 @@ Went [#camping](https://glammr.us/tags/camping) for the 1st time in years at [#P
 Tags: [#camping](https://glammr.us/tags/camping) [#PointBeach](https://glammr.us/tags/PointBeach) [#wisconsin](https://glammr.us/tags/wisconsin) [#fishcreek](https://glammr.us/tags/fishcreek) [#doorcounty](https://glammr.us/tags/doorcounty)
 
 
-[](https://glammr.us/@librarymonster/116971923948503296)
----
-
-Library Monster - 7/23/2026
-
-I love hyperfixating on TV ships & their intimacies. Unfort, more and more ensemble stories are created. They're found family (which is nice messaging but not my fave tea); more affordable if the cast is relatively unknown; risk averse (we just need 1 character to love & root for to keep us watching)Ensemble stories are rough for me bc the characters & their ship I love often lack enough canon lore to them to deliver a spread of agreed-upon characterizations in fic, lol.
-
-
-[](https://glammr.us/@librarymonster/116971748024843783)
----
-
-Library Monster - 7/23/2026
-
-[#Fandom](https://glammr.us/tags/Fandom) discussion question of the week [#FDQ](https://glammr.us/tags/FDQ) What character(s) do you love to see whumped and why?
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ) [#fandom](https://glammr.us/tags/fandom)
-
-
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
 ---
 
@@ -115,78 +181,6 @@ LM.io Collection - 7/22/2026
 Space Weather sounds silly but it's real and NOAA is running it and everyone should know about this. This is the site that everyone will realize they should've been consulting when the internet apocalypse hits.
 
 Tags: [#Weather](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Weather) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#US Government Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22US%20Government%20Source%22) [#News](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23News) [#Public Domain/CC](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Public%20Domain%2FCC%22) [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk)
-
-
-[](https://glammr.us/@librarymonster/116958513508431130)
----
-
-Library Monster - 7/21/2026
-
-Thor "we need a miracle" and then Steve "hey pal"While I'm a happy fangirl I don't know if Steve coming back is like... a miracle
-
-
-[](https://glammr.us/@librarymonster/116956168891474751)
----
-
-Library Monster - 7/21/2026
-
-Played dress-up makeshift cyberpunk outfits for fun tonight like you do
-
-
-[](https://glammr.us/@librarymonster/116956130915642337)
----
-
-Library Monster - 7/21/2026
-
-This went incredibly well omg ✨🥂
-
-
-[](https://glammr.us/@librarymonster/116953737096517149)
----
-
-Library Monster - 7/20/2026
-
-https://social.gamefan.net/@techwire/116953662799825253Best "Rugged Phone" 2026 article. My [#NothingPhone](https://glammr.us/tags/NothingPhone) was accidentally left in my Jeep in direct sunlight in 95-100 fahrenheit weather for about 45 minutes (coming back from an outreach event & putting things back/talking to ppl gets hectic). It shut down on its own due to the heat, and after I popped it into the fridge for 5 minutes, it recovered fully. I was so worried but that baby survived! 🤌📳🫂 [#CellPhones](https://glammr.us/tags/CellPhones) [#TropicThunderSurvive](https://glammr.us/tags/TropicThunderSurvive).gif
-
-Tags: [#NothingPhone](https://glammr.us/tags/NothingPhone) [#cellphones](https://glammr.us/tags/cellphones) [#TropicThunderSurvive](https://glammr.us/tags/TropicThunderSurvive)
-
-
-[](https://glammr.us/@librarymonster/116953646856287918)
----
-
-Library Monster - 7/20/2026
-
-Tonight at [#NorthbrookPublicLibrary](https://glammr.us/tags/NorthbrookPublicLibrary) [#BenZhao](https://glammr.us/tags/BenZhao) is speaking about [#AI](https://glammr.us/tags/AI) & [#Glaze](https://glammr.us/tags/Glaze) & [#Nightshade](https://glammr.us/tags/Nightshade) https://visit.northbrook.info/event/16240272I honestly can't wait. Hungry for this hour + the opportunity for Q&A 🤯💀💛😆 [#GenAI](https://glammr.us/tags/GenAI) [#ArtificialIntelligence](https://glammr.us/tags/ArtificialIntelligence) [#Illinois](https://glammr.us/tags/Illinois) [#Chicago](https://glammr.us/tags/Chicago)
-
-Tags: [#NorthbrookPublicLibrary](https://glammr.us/tags/NorthbrookPublicLibrary) [#benzhao](https://glammr.us/tags/benzhao) [#ai](https://glammr.us/tags/ai) [#glaze](https://glammr.us/tags/glaze) [#nightshade](https://glammr.us/tags/nightshade) [#genai](https://glammr.us/tags/genai) [#artificialintelligence](https://glammr.us/tags/artificialintelligence) [#illinois](https://glammr.us/tags/illinois) [#chicago](https://glammr.us/tags/chicago)
-
-
-[](https://glammr.us/@librarymonster/116941194259417176)
----
-
-Library Monster - 7/18/2026
-
-https://archiveofourown.org/works/82564106 lol forgot to link
-
-
-[](https://glammr.us/@librarymonster/116941173391370221)
----
-
-Library Monster - 7/18/2026
-
-[#FicRec](https://glammr.us/tags/FicRec) for [#GoodOmens](https://glammr.us/tags/GoodOmens) In the Ashes of Heaven byTusitala_storyCollector. 118k words.Summary (I've truncated): In all the world, there was one story the two of them had never discussed. A story they could only hold in silence. Crowley, Aziraphale and the Wars of the Roses.Review: [#Aziracrow](https://glammr.us/tags/Aziracrow) is platonic intimacy the whole way through. It's not tagged for it but there's a big part with such amazing hurt!Crowley + comforting!Aziraphale whump 🫠 So well-written. Needs way more kudos than it has!
-
-Tags: [#ficrec](https://glammr.us/tags/ficrec) [#goodomens](https://glammr.us/tags/goodomens) [#aziracrow](https://glammr.us/tags/aziracrow)
-
-
-[](https://glammr.us/@librarymonster/116940950250182743)
----
-
-Library Monster - 7/18/2026
-
-[#Fandom](https://glammr.us/tags/Fandom) discussion question of the week :P [#FDQDo](https://glammr.us/tags/FDQDo) you prefer fic that goes super deep into a ship & those intimacies, or [#fanfic](https://glammr.us/tags/fanfic) that explores multiple beloved characters & their dynamics together? Is there another, secret, third, fourth, fifth thing? Do you switch preferences based on the fandom?
-
-Tags: [#fandom](https://glammr.us/tags/fandom) [#fanfic](https://glammr.us/tags/fanfic) [#FDQ](https://glammr.us/tags/FDQ)
 
 
 [National Weather Service (NWS) Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTg3LjcyMSw0Mi4wNzZdLCJsb2NhdGlvbiI6Wy04Ny43MjEsNDIuMDc2XSwiem9vbSI6NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOnRydWUsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6ZmFsc2UsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19)
