@@ -1,4 +1,54 @@
 
+[](https://glammr.us/@librarymonster/117022541906134809)
+---
+
+Library Monster - 8/1/2026
+
+[#TheEntityProject](https://glammr.us/tags/TheEntityProject) had too many characters! Couldn't keep track of who was who. They slept on Caro - most fun & charismatic character - benched immediately for a fun finale, but I would've loved to have her throughout.Other notes: if a group of women are going to take their clothes off & dance together, it's gonna be bc they're physically overheating & witchy, not bc they miss the club 😂 Also, moments of absolute horror followed by "we'll just hang in there another day" was A+#HorrorMovies
+
+Tags: [#TheEntityProject](https://glammr.us/tags/TheEntityProject) [#horrormovies](https://glammr.us/tags/horrormovies)
+
+
+[](https://glammr.us/@librarymonster/117021777681156260)
+---
+
+Library Monster - 8/1/2026
+
+[#Watching](https://glammr.us/tags/Watching) [#TheDevilsMouth](https://glammr.us/tags/TheDevilsMouth) now and the dialogue of these scared kids wanting to call their mom, or reflecting on how they're refusing to grow up & wanting to make their parents proud, is really messing me up 😭 [#HorrorMovies](https://glammr.us/tags/HorrorMovies)
+
+Tags: [#thedevilsmouth](https://glammr.us/tags/thedevilsmouth) [#horrormovies](https://glammr.us/tags/horrormovies) [#watching](https://glammr.us/tags/watching)
+
+
+[](https://glammr.us/@librarymonster/117021119918777835)
+---
+
+Library Monster - 8/1/2026
+
+In every ship I enjoy, there's a character I love to whump & their comforter. For me whump is married to comfort & healing. When the whumpee's person plausibly softly nourishes whumpee in a well-written story, the endorphins are just  But a big part of justifying rly intimate & emotional scenes of comfort is making the whump brutal af, lol, so. That's the work. Currently loving [#Crowley](https://glammr.us/tags/Crowley) in [#GoodOmens](https://glammr.us/tags/GoodOmens) - he's so clever & competent & yet looks for/to Aziraphale at every turn 😭🥰
+
+Tags: [#crowley](https://glammr.us/tags/crowley) [#goodomens](https://glammr.us/tags/goodomens)
+
+
+[](https://glammr.us/@librarymonster/117020877944126154)
+---
+
+Library Monster - 8/1/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PHow much do you like canon- or production-level "treats" for fans (4th wall breaks, Easter eggs, BTS vids & photos on SM from the cast/crew/authors/etc.), or would you rather fans make their own treats for each other? Where are you on that spectrum?#Fandom
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ) [#fandom](https://glammr.us/tags/fandom)
+
+
+[](https://glammr.us/@librarymonster/117020237373729515)
+---
+
+Library Monster - 8/1/2026
+
+Content warning:Spoilers [#DoNotEnterI](https://glammr.us/tags/DoNotEnterI) love how this movie fully set up Diane's main character energy & then benched her with an ankle twist 😂 [#DoNotEnter](https://glammr.us/tags/DoNotEnter)
+
+Tags: [#donotenter](https://glammr.us/tags/donotenter)
+
+
 [](https://glammr.us/@librarymonster/117017580069272109)
 ---
 
@@ -13,14 +63,6 @@ Content warning:Spoilers [#DoNotEnterWtf](https://glammr.us/tags/DoNotEnterWtf) 
 Library Monster - 8/1/2026
 
 Content warning:Spoilers [#DoNotEnterHoist](https://glammr.us/tags/DoNotEnterHoist) upon ye own tree of victim electronics.
-
-
-[](https://glammr.us/@librarymonster/117017563467833009)
----
-
-Library Monster - 8/1/2026
-
-I love how this movie fully set up Diane's main character energy & then benched her with an ankle twist 😂
 
 
 [](https://glammr.us/@librarymonster/117017508550070056)
@@ -133,44 +175,6 @@ Library Monster - 7/29/2026
 Hey did anyone else see [#Pillowfort](https://glammr.us/tags/Pillowfort) is going nonprofit? 👀 I remember giving $10 seed money back in 2017. Apparently I haven't posted for 5 years tho. My account's still there. I also remember there was some controversy over whether to allow loli art (as per usz). I don't know how that ended.The email abt going nonprofit was very honest & cool from Julie. Does anyone love PF? I threw my lot in with [#Dreamwidth](https://glammr.us/tags/Dreamwidth) earlier this year but maybe PF is worth reconsideration.#socialMedia [#fandom](https://glammr.us/tags/fandom)
 
 Tags: [#pillowfort](https://glammr.us/tags/pillowfort) [#dreamwidth](https://glammr.us/tags/dreamwidth) [#socialmedia](https://glammr.us/tags/socialmedia) [#fandom](https://glammr.us/tags/fandom)
-
-
-[](https://glammr.us/@librarymonster/116999957534278203)
----
-
-Library Monster - 7/28/2026
-
-I was thinking protesting but it's so funny he was probably thinking murder, which I still stand by 😂 I'm sure future me had her reasons I'm not gonna make it easy for them!
-
-
-[](https://glammr.us/@librarymonster/116999932401764833)
----
-
-Library Monster - 7/28/2026
-
-Patron during Tech Tuesday Drop-in hours: have you ever gotten a DNA test to see your heritage? Me: ahh nah, I don't want to have that information out there.Patron: well it's fine as long as you don't do anything bad Me: but I might! /*we start laughing*/ I don't know. I might break some laws some day [#JustLibraryThings](https://glammr.us/tags/JustLibraryThings) [#ProfessionalLibrarianResponses](https://glammr.us/tags/ProfessionalLibrarianResponses) [#DontAtMe](https://glammr.us/tags/DontAtMe) [#Libraries](https://glammr.us/tags/Libraries)
-
-Tags: [#JustLibraryThings](https://glammr.us/tags/JustLibraryThings) [#ProfessionalLibrarianResponses](https://glammr.us/tags/ProfessionalLibrarianResponses) [#dontatme](https://glammr.us/tags/dontatme) [#libraries](https://glammr.us/tags/libraries)
-
-
-[](https://glammr.us/@librarymonster/116997836792003968)
----
-
-Library Monster - 7/28/2026
-
-Creating [#FDQ](https://glammr.us/tags/FDQ) - [#Fandom](https://glammr.us/tags/Fandom) Discussion Question of the Week - to encourage fun interaction & banter between fans on [#Masto](https://glammr.us/tags/Masto) 🫶 Questions will post on Saturday mornings. They'll always be [#multiFandom](https://glammr.us/tags/multiFandom) and will vary greatly in depth/complexity (lol). Feel free to reply to this toot & ask questions about my FDQs (FAQs abt the FDQs haha)
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ) [#fandom](https://glammr.us/tags/fandom) [#masto](https://glammr.us/tags/masto) [#multifandom](https://glammr.us/tags/multifandom)
-
-
-[](https://glammr.us/@librarymonster/116991824667982388)
----
-
-Library Monster - 7/27/2026
-
-Went [#camping](https://glammr.us/tags/camping) for the 1st time in years at [#PointBeach](https://glammr.us/tags/PointBeach) State Park in [#Wisconsin](https://glammr.us/tags/Wisconsin) over the weekend! Some takeaways: - the beach was amazing, the Amish Lakeside Country Store had fantastic baked treats. Weather was 70-80s F 🤌- While [#FishCreek](https://glammr.us/tags/FishCreek) in [#DoorCounty](https://glammr.us/tags/DoorCounty) was v cool, don't make the day trip longer than 30 min drive away from camp. Blue Horse coffee was so nice + dog-friendly ✨- need to get a campsite that has a driveway for more privacy, & so my dogs don't bark "protecting the territory" 💀
-
-Tags: [#camping](https://glammr.us/tags/camping) [#PointBeach](https://glammr.us/tags/PointBeach) [#wisconsin](https://glammr.us/tags/wisconsin) [#fishcreek](https://glammr.us/tags/fishcreek) [#doorcounty](https://glammr.us/tags/doorcounty)
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
