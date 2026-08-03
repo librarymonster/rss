@@ -1,4 +1,52 @@
 
+[](https://glammr.us/@librarymonster/117028595565763290)
+---
+
+Library Monster - 8/2/2026
+
+I'm turning 40 very soon, and one of the funnier things that's happened as I age is how strongly I feel about how people die, either IRL or in movies. I'm very fast to rate how cool or uncool people's deaths are
+
+
+[](https://glammr.us/@librarymonster/117027254504891551)
+---
+
+Library Monster - 8/2/2026
+
+Woohoo!!! [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) my [#kawaii](https://glammr.us/tags/kawaii) [#decoden](https://glammr.us/tags/decoden) phone cases for [#iPhone](https://glammr.us/tags/iPhone) models 12, 13-15, and 16 are up on [#Etsy](https://glammr.us/tags/Etsy) now. Made these ages ago & only got past the anxiety to post for selling by doing it on my phone 😅 https://www.etsy.com/shop/LibraryMonsterStudio?section_id=59675593
+
+Tags: [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) [#kawaii](https://glammr.us/tags/kawaii) [#decoden](https://glammr.us/tags/decoden) [#iphone](https://glammr.us/tags/iphone) [#etsy](https://glammr.us/tags/etsy)
+
+
+[](https://glammr.us/@librarymonster/117026587082292406)
+---
+
+Library Monster - 8/2/2026
+
+Art studio time! ... just fixing yard stuff nvmd [#LibraryMonsterMends](https://glammr.us/tags/LibraryMonsterMends)
+
+Tags: [#LibraryMonsterMends](https://glammr.us/tags/LibraryMonsterMends)
+
+
+[](https://glammr.us/@librarymonster/117026307268265781)
+---
+
+Library Monster - 8/2/2026
+
+Ah no, Greg Newkirk's father passed away last week. I'm glad I upgraded my membership to their Patreon for the fall season yesterday. [#Paramuseum](https://glammr.us/tags/Paramuseum)  https://www.patreon.com/c/paramuseum
+
+Tags: [#Paramuseum](https://glammr.us/tags/Paramuseum)
+
+
+[](https://glammr.us/@librarymonster/117025914130778432)
+---
+
+Library Monster - 8/2/2026
+
+[#Reading](https://glammr.us/tags/Reading) [#Jaws](https://glammr.us/tags/Jaws) by Peter Benchley. 20 pages in and boy was it sure written in 1973. The worst gay slur casually spoken by a Vietnam vet turned deputy, the inability to refrain from describing women's bodies, and detached prose on character that feel like sketch notes provided to actors for the movie adaptation (Michael Crichton did that a ton in his books too) ¯\_(ツ)_/¯
+
+Tags: [#reading](https://glammr.us/tags/reading) [#jaws](https://glammr.us/tags/jaws)
+
+
 [](https://glammr.us/@librarymonster/117022541906134809)
 ---
 
@@ -131,50 +179,6 @@ Tags: [#ai](https://glammr.us/tags/ai)
 Library Monster - 7/30/2026
 
 Hey so what's masto.ai about? I couldn't really find an identity in their about page. I thought it would be like a haven of ppl who appreciate AI on mastodon but then their rules are like "we gotta keep this place human" 😄👍
-
-
-[](https://glammr.us/@librarymonster/117009192580019031)
----
-
-Library Monster - 7/30/2026
-
-Nobody's asked yet but dark & mature answers are respected. Just make sure you're abiding by your server's rules & content warn 👍
-
-
-[](https://glammr.us/@librarymonster/117008918398941409)
----
-
-Library Monster - 7/30/2026
-
-Okay I do understand the irony of my own comments
-
-
-[](https://glammr.us/@librarymonster/117006827936909274)
----
-
-Library Monster - 7/30/2026
-
-ooo we have an old Google phone that we can put [#GrapheneOS](https://glammr.us/tags/GrapheneOS) onto. I know my next projeeeect
-
-Tags: [#grapheneos](https://glammr.us/tags/grapheneos)
-
-
-[](https://glammr.us/@librarymonster/117003808736279619)
----
-
-Library Monster - 7/29/2026
-
-📣Announcement I've rebranded a little bit! My website is no longer librarymonster.io!It is //drumroll//https://MONSTERBYTE.LOLI love libraries - am a librarian - but my whole thing isn't really steeped in librarianship. My true heart is in monstrousness, technology, and having a sense of humor, so this felt right 🥂Hope everybody visits me/my site every once in awhile. No ads, no trackers, just a personal website I've been building (and rebuilding, and redesigning, etc.) for >2 years
-
-
-[](https://glammr.us/@librarymonster/117003266364546338)
----
-
-Library Monster - 7/29/2026
-
-Hey did anyone else see [#Pillowfort](https://glammr.us/tags/Pillowfort) is going nonprofit? 👀 I remember giving $10 seed money back in 2017. Apparently I haven't posted for 5 years tho. My account's still there. I also remember there was some controversy over whether to allow loli art (as per usz). I don't know how that ended.The email abt going nonprofit was very honest & cool from Julie. Does anyone love PF? I threw my lot in with [#Dreamwidth](https://glammr.us/tags/Dreamwidth) earlier this year but maybe PF is worth reconsideration.#socialMedia [#fandom](https://glammr.us/tags/fandom)
-
-Tags: [#pillowfort](https://glammr.us/tags/pillowfort) [#dreamwidth](https://glammr.us/tags/dreamwidth) [#socialmedia](https://glammr.us/tags/socialmedia) [#fandom](https://glammr.us/tags/fandom)
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
