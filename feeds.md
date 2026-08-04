@@ -32,7 +32,7 @@ Tags: [#LibraryMonsterMends](https://glammr.us/tags/LibraryMonsterMends)
 
 Library Monster - 8/2/2026
 
-Ah no, Greg Newkirk's father passed away last week. I'm glad I upgraded my membership to their Patreon for the fall season yesterday. [#Paramuseum](https://glammr.us/tags/Paramuseum)  https://www.patreon.com/c/paramuseum
+Ah no, Greg Newkirk's father passed away last week. I know he's not on masto but honestly, sending all my love to him and his family.  [#Paramuseum](https://glammr.us/tags/Paramuseum)  https://www.patreon.com/c/paramuseum
 
 Tags: [#Paramuseum](https://glammr.us/tags/Paramuseum)
 
