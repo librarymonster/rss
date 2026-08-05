@@ -1,4 +1,22 @@
 
+[](https://glammr.us/@librarymonster/117039991980614378)
+---
+
+Library Monster - 8/5/2026
+
+Content warning:Spoilers Spider-Man Brand New DayAlso I did notice that Peter Parker was conducting mass surveillance with facial recognition software, which was both hideously normalizing surveillance state technology, and completely unnecessary bc honestly he should've just constantly camped out at the ONE building that kept getting broken into 😂
+
+
+[](https://glammr.us/@librarymonster/117039978243739810)
+---
+
+Library Monster - 8/5/2026
+
+Content warning:Spoilers Spider-Man Brand New DayGot to see [#spidermanBrandNewDayLoved](https://glammr.us/tags/spidermanBrandNewDayLoved) the angst & loneliness, Peter's sad but amazing home lab, the mystery possession horror villain, Frank, Bruce, Yelena, MJ & Ned were the best supporting characters to an incredible talented anchoring actor, Tom Holland 👏👏👏Didn't love Jean Gray as a kid that needed Peter's dead surrogate mom to tell her she's beautiful & loved inside his own head or whatever. I was really hoping for a more mature villain & storyline, ngl.
+
+Tags: [#spidermanbrandnewday](https://glammr.us/tags/spidermanbrandnewday)
+
+
 [](https://glammr.us/@librarymonster/117028595565763290)
 ---
 
@@ -161,24 +179,6 @@ Library Monster - 7/31/2026
 I'm watching [#DoNotEnter](https://glammr.us/tags/DoNotEnter) one of the many surprisingly promising [#horror](https://glammr.us/tags/horror) movies Amazon Prime has streaming rn. This one is about a team of young urban explorers that plan a trip into a haunted abandoned hotel. About 30 minutes in & I'm not that endeared to any of the characters except for a guy that was introduced five minutes ago as a vice reporter tag-along. He went out of his way to protect another character with a rat phobia that impressed me. Hope he's the final boy 👀🐀
 
 Tags: [#donotenter](https://glammr.us/tags/donotenter) [#horror](https://glammr.us/tags/horror)
-
-
-[](https://glammr.us/@librarymonster/117014811232659489)
----
-
-Library Monster - 7/31/2026
-
-Yesterday, trying to build an independent, internal, collaborative web app/database for staff that'll allow for comments and ratings on our online resources, my [#AI](https://glammr.us/tags/AI) coding tool was going great until it caught the é in my name
-
-Tags: [#ai](https://glammr.us/tags/ai)
-
-
-[](https://glammr.us/@librarymonster/117010999712249402)
----
-
-Library Monster - 7/30/2026
-
-Hey so what's masto.ai about? I couldn't really find an identity in their about page. I thought it would be like a haven of ppl who appreciate AI on mastodon but then their rules are like "we gotta keep this place human" 😄👍
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
