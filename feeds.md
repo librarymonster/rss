@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/117042949568348750)
+---
+
+Library Monster - 8/5/2026
+
+Every month I look to see if [#MaxBrooks](https://glammr.us/tags/MaxBrooks) has released his alien invasion book, The First Hundred Hours, as an ARC 🤞🤞🤞Last we heard from him was 6 months ago, February, when he gave us an excerpt on his news feed on his website:https://www.maxbrooks.com/news#Books [#aliens](https://glammr.us/tags/aliens)
+
+Tags: [#MaxBrooks](https://glammr.us/tags/MaxBrooks) [#books](https://glammr.us/tags/books) [#aliens](https://glammr.us/tags/aliens)
+
+
 [](https://glammr.us/@librarymonster/117039991980614378)
 ---
 
@@ -169,16 +179,6 @@ Content warning:Spoilers [#DoNotEnterI](https://glammr.us/tags/DoNotEnterI) mean
 Library Monster - 8/1/2026
 
 Content warning:Spoilers [#DoNotEnterHow](https://glammr.us/tags/DoNotEnterHow) did this mf not see a BEAR TRAP coming up in the hotel hallway tho 😂
-
-
-[](https://glammr.us/@librarymonster/117017255722825604)
----
-
-Library Monster - 7/31/2026
-
-I'm watching [#DoNotEnter](https://glammr.us/tags/DoNotEnter) one of the many surprisingly promising [#horror](https://glammr.us/tags/horror) movies Amazon Prime has streaming rn. This one is about a team of young urban explorers that plan a trip into a haunted abandoned hotel. About 30 minutes in & I'm not that endeared to any of the characters except for a guy that was introduced five minutes ago as a vice reporter tag-along. He went out of his way to protect another character with a rat phobia that impressed me. Hope he's the final boy 👀🐀
-
-Tags: [#donotenter](https://glammr.us/tags/donotenter) [#horror](https://glammr.us/tags/horror)
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
