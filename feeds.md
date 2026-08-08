@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/117054428710251251)
+---
+
+Library Monster - 8/7/2026
+
+I'm really torn about what my next [#homelab](https://glammr.us/tags/homelab) project will be: self-hosting my website, setting up [#HA](https://glammr.us/tags/HA) before [#Google](https://glammr.us/tags/Google) [#Gemini](https://glammr.us/tags/Gemini) invades my devices, a [#masto](https://glammr.us/tags/masto) instance, a [#meshtastic](https://glammr.us/tags/meshtastic) node, or a forum site.I'm stalling out bc idk whether to use Cloudflare or open my own ports & torn about whether to turn my entire homelab system [#Linux](https://glammr.us/tags/Linux). After I did so much work to do the Windows Pooling storage thing 🥲If [#selfHosting](https://glammr.us/tags/selfHosting) is the next big thing for all my projects, going Linux seems like the way to go...
+
+Tags: [#homelab](https://glammr.us/tags/homelab) [#masto](https://glammr.us/tags/masto) [#meshtastic](https://glammr.us/tags/meshtastic) [#linux](https://glammr.us/tags/linux) [#selfhosting](https://glammr.us/tags/selfhosting) [#ha](https://glammr.us/tags/ha) [#google](https://glammr.us/tags/google) [#gemini](https://glammr.us/tags/gemini)
+
+
 [](https://glammr.us/@librarymonster/117042949568348750)
 ---
 
@@ -171,14 +181,6 @@ Content warning:Spoilers [#DoNotEnterWho](https://glammr.us/tags/DoNotEnterWho) 
 Library Monster - 8/1/2026
 
 Content warning:Spoilers [#DoNotEnterI](https://glammr.us/tags/DoNotEnterI) mean, I can't believe what's-her-name shared the destination of their next adventure as a public taunt on YT or whatever. The whole team should've been expecting these asshats.Is my guy actually a copper?
-
-
-[](https://glammr.us/@librarymonster/117017317327334933)
----
-
-Library Monster - 8/1/2026
-
-Content warning:Spoilers [#DoNotEnterHow](https://glammr.us/tags/DoNotEnterHow) did this mf not see a BEAR TRAP coming up in the hotel hallway tho 😂
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
