@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/117061235967850850)
+---
+
+Library Monster - 8/8/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat's a trivia [#DeepCut](https://glammr.us/tags/DeepCut) you have re: your fandom's canon or your fandom's history?#fandom
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ) [#deepcut](https://glammr.us/tags/deepcut) [#fandom](https://glammr.us/tags/fandom)
+
+
 [](https://glammr.us/@librarymonster/117054428710251251)
 ---
 
@@ -173,14 +183,6 @@ Content warning:Spoilers [#DoNotEnterDescent](https://glammr.us/tags/DoNotEnterD
 Library Monster - 8/1/2026
 
 Content warning:Spoilers [#DoNotEnterWho](https://glammr.us/tags/DoNotEnterWho) knew urban explorer teams were so adjacent to murderous art/scavenger gangs
-
-
-[](https://glammr.us/@librarymonster/117017370373932335)
----
-
-Library Monster - 8/1/2026
-
-Content warning:Spoilers [#DoNotEnterI](https://glammr.us/tags/DoNotEnterI) mean, I can't believe what's-her-name shared the destination of their next adventure as a public taunt on YT or whatever. The whole team should've been expecting these asshats.Is my guy actually a copper?
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
