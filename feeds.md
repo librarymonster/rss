@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/117100658667354907)
+---
+
+Library Monster - 8/15/2026
+
+[#Supernatural](https://glammr.us/tags/Supernatural) had at least 2 legend writers from [#XFiles](https://glammr.us/tags/XFiles) in its first season, Ben Edlund and John Shiban, as well as the prolific XFiles director, Kim Manners, who went on get super attached to the [#SPN](https://glammr.us/tags/SPN) production in Vancouver and became known as the "Show Bible" re: universe consistency.SPN's been likened to Buffy and other CW shows like Vampire Diaries, but its baseline XFiles DNA gets overlooked imo 🫶
+
+Tags: [#supernatural](https://glammr.us/tags/supernatural) [#xfiles](https://glammr.us/tags/xfiles) [#spn](https://glammr.us/tags/spn)
+
+
+[](https://glammr.us/@librarymonster/117100611460142167)
+---
+
+Library Monster - 8/15/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat's your "More Cake!" trope in fanfiction? You just cannot get enough of this trope 🍰🎂🧁👀Edit: https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes for reference
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ)
+
+
 [](https://glammr.us/@librarymonster/117083573045917161)
 ---
 
@@ -183,22 +203,6 @@ Library Monster - 8/1/2026
 Content warning:Spoilers [#DoNotEnterWtf](https://glammr.us/tags/DoNotEnterWtf) Rick was thrown several stories down. He was for sure dead
 
 
-[](https://glammr.us/@librarymonster/117017571465606776)
----
-
-Library Monster - 8/1/2026
-
-Content warning:Spoilers [#DoNotEnterHoist](https://glammr.us/tags/DoNotEnterHoist) upon ye own tree of victim electronics.
-
-
-[](https://glammr.us/@librarymonster/117017508550070056)
----
-
-Library Monster - 8/1/2026
-
-Content warning:Spoilers [#DoNotEnterHeart](https://glammr.us/tags/DoNotEnterHeart)-eating Satan worshippers ok
-
-
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
 ---
 
@@ -229,12 +233,10 @@ Just installed Jellyfin to access my *stuff*! Which includes an extensive home &
 Tags: [#Homelab](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Homelab) [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Sailing%20the%20Seas%22)
 
 
-[The Night Feeling](https://www.reddit.com/r/TheNightFeeling/)
+[Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
 ---
 
-LM.io Collection - 5/25/2026
+LibraryMonster.io - 6/8/2026
 
-Similar to r/LiminalSpaces, this subreddit is full of atmosphere and nostalgia.
-
-Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Photography](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Photography) [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
+After over 6 months trying to adopt #Apple phones with an iPhone 17 (and please be aware this is about my experience with Apple phones - I have an Apple iPad &amp; I love it), I've moved back to #Android. P will get it for Father's Day!!! I'll take his old iPhone 12 so I can still have an iPhone for reference and tech help interactions at work though. Here's the good for me on iPhones: The iPhone 17 has an incredible automatic camera + filters to make every picture gorgeous. This feature makes such a huge difference in one's experience with their phone. iPhone widgets are awesome - Pressreader's top stories were great (their widget is there in Android but not working for me). Wikipedia had an iPhone widget of the most popular articles that doesn't exist on Android 😭 And weirdly, the whole Hoopla app isn't working on my Nothing3 Android (login page just doesn't appear). The iPhone bad: I write creatively on my phone (long story short I quit smoking &amp; the only way to write without triggering cravings was in bed on my phone, and I came to really enjoy the process!), and I basically stopped when I got the iPhone. I thought perhaps I would learn to love the keyboard; through osmosis &amp; constant texting &amp; writing, I would just pick up how it worked. Instead I came to rely on dictation, which sure is great for casual conversation but dictation is too much if you're worldbuilding or getting emotional over your own scenes. I didn't fiddle with the settings as much as I suppose I could've, and a tech ed colleague of mine indicated her iPhone wasn't as chaotic as my iPhone keyboard was, so perhaps I still just didn't customize it properly. But...
 
