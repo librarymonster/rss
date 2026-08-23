@@ -1,4 +1,30 @@
 
+[](https://glammr.us/@librarymonster/117139982593814773)
+---
+
+Library Monster - 8/22/2026
+
+Communities have to get to know *you* too & it can be a record scratch. You think you've shared a beige flag w/a chill tone? Think again 😂 It could be fan community baggage OR just weird one-off miscommunication, but being resilient & persistent usually pays off (unless you start feeling the whole vibe is toxic, which has happened to me before too, so at that point I've noped out of that community to find other ones) 🧵 2/2
+
+
+[](https://glammr.us/@librarymonster/117139980153415182)
+---
+
+Library Monster - 8/22/2026
+
+I think the best advice I've gotten (& given) is to encourage & embrace the lurk. To lurk is to learn! But also, ime, lurking might not help as much when you want to start interacting. 🧵 1/2
+
+
+[](https://glammr.us/@librarymonster/117139788136680018)
+---
+
+Library Monster - 8/22/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat advice in your fandom (or fandoms in general) have you received about participating in them that have really helped you?
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ)
+
+
 [](https://glammr.us/@librarymonster/117100658667354907)
 ---
 
@@ -173,34 +199,6 @@ Library Monster - 8/1/2026
 In every ship I enjoy, there's a character I love to whump & their comforter. For me whump is married to comfort & healing. When the whumpee's person plausibly softly nourishes whumpee in a well-written story, the endorphins are just  But a big part of justifying rly intimate & emotional scenes of comfort is making the whump brutal af, lol, so. That's the work. Currently loving [#Crowley](https://glammr.us/tags/Crowley) in [#GoodOmens](https://glammr.us/tags/GoodOmens) - he's so clever & competent & yet looks for/to Aziraphale at every turn 😭🥰
 
 Tags: [#crowley](https://glammr.us/tags/crowley) [#goodomens](https://glammr.us/tags/goodomens)
-
-
-[](https://glammr.us/@librarymonster/117020877944126154)
----
-
-Library Monster - 8/1/2026
-
-[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PHow much do you like canon- or production-level "treats" for fans (4th wall breaks, Easter eggs, BTS vids & photos on SM from the cast/crew/authors/etc.), or would you rather fans make their own treats for each other? Where are you on that spectrum?#Fandom
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ) [#fandom](https://glammr.us/tags/fandom)
-
-
-[](https://glammr.us/@librarymonster/117020237373729515)
----
-
-Library Monster - 8/1/2026
-
-Content warning:Spoilers [#DoNotEnterI](https://glammr.us/tags/DoNotEnterI) love how this movie fully set up Diane's main character energy & then benched her with an ankle twist 😂 [#DoNotEnter](https://glammr.us/tags/DoNotEnter)
-
-Tags: [#donotenter](https://glammr.us/tags/donotenter)
-
-
-[](https://glammr.us/@librarymonster/117017580069272109)
----
-
-Library Monster - 8/1/2026
-
-Content warning:Spoilers [#DoNotEnterWtf](https://glammr.us/tags/DoNotEnterWtf) Rick was thrown several stories down. He was for sure dead
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
