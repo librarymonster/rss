@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/117180602138132062)
+---
+
+Library Monster - 8/29/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat's been one of the most transcendent or euphoric experienceS you've had as a fan & how/why was it so amazing?
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ)
+
+
+[](https://glammr.us/@librarymonster/117180257367887770)
+---
+
+Library Monster - 8/29/2026
+
+[#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) today's air dry [#clay](https://glammr.us/tags/clay) projects. [#Art](https://glammr.us/tags/Art)
+
+Tags: [#clay](https://glammr.us/tags/clay) [#art](https://glammr.us/tags/art) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes)
+
+
 [](https://glammr.us/@librarymonster/117161798567469154)
 ---
 
@@ -179,26 +199,6 @@ Library Monster - 8/2/2026
 [#Reading](https://glammr.us/tags/Reading) [#Jaws](https://glammr.us/tags/Jaws) by Peter Benchley. 20 pages in and boy was it sure written in 1973. The worst gay slur casually spoken by a Vietnam vet turned deputy, the inability to refrain from describing women's bodies, and detached prose on character that feel like sketch notes provided to actors for the movie adaptation (Michael Crichton did that a ton in his books too) ¯\_(ツ)_/¯
 
 Tags: [#reading](https://glammr.us/tags/reading) [#jaws](https://glammr.us/tags/jaws)
-
-
-[](https://glammr.us/@librarymonster/117022541906134809)
----
-
-Library Monster - 8/1/2026
-
-[#TheEntityProject](https://glammr.us/tags/TheEntityProject) had too many characters! Couldn't keep track of who was who. They slept on Caro - most fun & charismatic character - benched immediately for a fun finale, but I would've loved to have her throughout.Other notes: if a group of women are going to take their clothes off & dance together, it's gonna be bc they're physically overheating & witchy, not bc they miss the club 😂 Also, moments of absolute horror followed by "we'll just hang in there another day" was A+#HorrorMovies
-
-Tags: [#TheEntityProject](https://glammr.us/tags/TheEntityProject) [#horrormovies](https://glammr.us/tags/horrormovies)
-
-
-[](https://glammr.us/@librarymonster/117021777681156260)
----
-
-Library Monster - 8/1/2026
-
-[#Watching](https://glammr.us/tags/Watching) [#TheDevilsMouth](https://glammr.us/tags/TheDevilsMouth) now and the dialogue of these scared kids wanting to call their mom, or reflecting on how they're refusing to grow up & wanting to make their parents proud, is really messing me up 😭 [#HorrorMovies](https://glammr.us/tags/HorrorMovies)
-
-Tags: [#thedevilsmouth](https://glammr.us/tags/thedevilsmouth) [#horrormovies](https://glammr.us/tags/horrormovies) [#watching](https://glammr.us/tags/watching)
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
