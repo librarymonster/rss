@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/117184915729518589)
+---
+
+Library Monster - 8/30/2026
+
+I will never not love the lighthouse and kraken metaphor [#ofmd](https://glammr.us/tags/ofmd) 💛🕯️🐙
+
+Tags: [#ofmd](https://glammr.us/tags/ofmd)
+
+
+[](https://glammr.us/@librarymonster/117184908354879970)
+---
+
+Library Monster - 8/30/2026
+
+More [#clay](https://glammr.us/tags/clay) designs (works in progress)! [#art](https://glammr.us/tags/art) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes)
+
+Tags: [#clay](https://glammr.us/tags/clay) [#art](https://glammr.us/tags/art) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes)
+
+
 [](https://glammr.us/@librarymonster/117180602138132062)
 ---
 
@@ -179,26 +199,6 @@ Library Monster - 8/2/2026
 Art studio time! ... just fixing yard stuff nvmd [#LibraryMonsterMends](https://glammr.us/tags/LibraryMonsterMends)
 
 Tags: [#LibraryMonsterMends](https://glammr.us/tags/LibraryMonsterMends)
-
-
-[](https://glammr.us/@librarymonster/117026307268265781)
----
-
-Library Monster - 8/2/2026
-
-Ah no, Greg Newkirk's father passed away last week. I know he's not on masto but honestly, sending all my love to him and his family.  [#Paramuseum](https://glammr.us/tags/Paramuseum)  https://www.patreon.com/c/paramuseum
-
-Tags: [#Paramuseum](https://glammr.us/tags/Paramuseum)
-
-
-[](https://glammr.us/@librarymonster/117025914130778432)
----
-
-Library Monster - 8/2/2026
-
-[#Reading](https://glammr.us/tags/Reading) [#Jaws](https://glammr.us/tags/Jaws) by Peter Benchley. 20 pages in and boy was it sure written in 1973. The worst gay slur casually spoken by a Vietnam vet turned deputy, the inability to refrain from describing women's bodies, and detached prose on character that feel like sketch notes provided to actors for the movie adaptation (Michael Crichton did that a ton in his books too) ¯\_(ツ)_/¯
-
-Tags: [#reading](https://glammr.us/tags/reading) [#jaws](https://glammr.us/tags/jaws)
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
