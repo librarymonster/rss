@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/117199342641602103)
+---
+
+Library Monster - 9/2/2026
+
+Since I lost Perplexity, I've been using MS [#Copilot](https://glammr.us/tags/Copilot) (via my school's MS365 subscription) and it's so clunky. I've scrolled and copied and pasted a ton until I finally got what I wanted:  [#Ollama](https://glammr.us/tags/Ollama) installed > pulling Mistral & DeepSeek > installing AnythingLLM as a GUI via browser port (not the desktop app). Plans to install [#SillyTavern](https://glammr.us/tags/SillyTavern) soon too to see how fun & useful that might be re: catching consistency errors in my works... 2/2 🧵
+
+Tags: [#copilot](https://glammr.us/tags/copilot) [#ollama](https://glammr.us/tags/ollama) [#SillyTavern](https://glammr.us/tags/SillyTavern)
+
+
+[](https://glammr.us/@librarymonster/117199337759611505)
+---
+
+Library Monster - 9/2/2026
+
+So I used my student discount to get [#Perplexity](https://glammr.us/tags/Perplexity) Pro for a year. Didn't realize that the 2000 computer credits were a one-time thing for the whole year :/BUT Perplexity was an A+ learning tool. With it, I learned more advanced stuff on Github, began my home networking journey: Jellyfin, all my old laptops via samba, Tailscale;  backup & drive failure configurations, solar power questions, etc. 1/2 🧵
+
+Tags: [#perplexity](https://glammr.us/tags/perplexity)
+
+
 [](https://glammr.us/@librarymonster/117184915729518589)
 ---
 
@@ -179,26 +199,6 @@ Tags: [#spidermanbrandnewday](https://glammr.us/tags/spidermanbrandnewday)
 Library Monster - 8/2/2026
 
 I'm turning 40 very soon, and one of the funnier things that's happened as I age is how strongly I feel about how people die, either IRL or in movies. I'm very fast to rate how cool or uncool people's deaths are
-
-
-[](https://glammr.us/@librarymonster/117027254504891551)
----
-
-Library Monster - 8/2/2026
-
-Woohoo!!! [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) my [#kawaii](https://glammr.us/tags/kawaii) [#decoden](https://glammr.us/tags/decoden) phone cases for [#iPhone](https://glammr.us/tags/iPhone) models 12, 13-15, and 16 are up on [#Etsy](https://glammr.us/tags/Etsy) now. Made these ages ago & only got past the anxiety to post for selling by doing it on my phone 😅 https://www.etsy.com/shop/LibraryMonsterStudio?section_id=59675593
-
-Tags: [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) [#kawaii](https://glammr.us/tags/kawaii) [#decoden](https://glammr.us/tags/decoden) [#iphone](https://glammr.us/tags/iphone) [#etsy](https://glammr.us/tags/etsy)
-
-
-[](https://glammr.us/@librarymonster/117026587082292406)
----
-
-Library Monster - 8/2/2026
-
-Art studio time! ... just fixing yard stuff nvmd [#LibraryMonsterMends](https://glammr.us/tags/LibraryMonsterMends)
-
-Tags: [#LibraryMonsterMends](https://glammr.us/tags/LibraryMonsterMends)
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
