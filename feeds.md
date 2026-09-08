@@ -1,4 +1,38 @@
 
+[](https://glammr.us/@librarymonster/117232435115227246)
+---
+
+Library Monster - 9/7/2026
+
+I wanna call it "Saved By the Cell" 😂
+
+
+[](https://glammr.us/@librarymonster/117232430885689484)
+---
+
+Library Monster - 9/7/2026
+
+Close-up of the clay phone 😎📳((don't ask me what it's for. I'm not sure tbh I just love it)) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) [#90s](https://glammr.us/tags/90s) [#80s90s](https://glammr.us/tags/80s90s)
+
+Tags: [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) [#90s](https://glammr.us/tags/90s) [#80s90s](https://glammr.us/tags/80s90s)
+
+
+[](https://glammr.us/@librarymonster/117232403793428847)
+---
+
+Library Monster - 9/7/2026
+
+Labor Day evening relaxing haha
+
+
+[](https://glammr.us/@librarymonster/117230541409578743)
+---
+
+Library Monster - 9/7/2026
+
+No Labor Day sales for a 16 gig graphics card
+
+
 [](https://glammr.us/@librarymonster/117226618089257841)
 ---
 
@@ -155,16 +189,6 @@ Update! I had a 1TB SSD that booted [#windows](https://glammr.us/tags/windows) a
 Tags: [#linux](https://glammr.us/tags/linux) [#windows](https://glammr.us/tags/windows)
 
 
-[](https://glammr.us/@librarymonster/117083528648065164)
----
-
-Library Monster - 8/12/2026
-
-I watched a couple tiktoks mocking Replay by [#Zendaya](https://glammr.us/tags/Zendaya) and now I'm unironically into it. This song is great, no notes.
-
-Tags: [#zendaya](https://glammr.us/tags/zendaya)
-
-
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
 ---
 
@@ -173,36 +197,6 @@ LM.io Collection - 8/12/2026
 From the creators of GoodSearch.com! Aw I remember goodsearch 🫶 I'm using ecosia right now but this might be an excellent alternative search engine to Google (looking for search engines that don't conflate an Internet search with an AI prompt).
 
 Tags: [#Access: website & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%20%26%20mobile%20app%22) [#Internet Navigation](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Internet%20Navigation%22) [#Search Engine](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Search%20Engine%22)
-
-
-[](https://glammr.us/@librarymonster/117061235967850850)
----
-
-Library Monster - 8/8/2026
-
-[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat's a trivia [#DeepCut](https://glammr.us/tags/DeepCut) you have re: your fandom's canon or your fandom's history?#fandom
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ) [#deepcut](https://glammr.us/tags/deepcut) [#fandom](https://glammr.us/tags/fandom)
-
-
-[](https://glammr.us/@librarymonster/117054428710251251)
----
-
-Library Monster - 8/7/2026
-
-I'm really torn about what my next [#homelab](https://glammr.us/tags/homelab) project will be: self-hosting my website, setting up [#HA](https://glammr.us/tags/HA) before [#Google](https://glammr.us/tags/Google) [#Gemini](https://glammr.us/tags/Gemini) invades my devices, a [#masto](https://glammr.us/tags/masto) instance, a [#meshtastic](https://glammr.us/tags/meshtastic) node, or a forum site.I'm stalling out bc idk whether to use Cloudflare or open my own ports & torn about whether to turn my entire homelab system [#Linux](https://glammr.us/tags/Linux). After I did so much work to do the Windows Pooling storage thing 🥲If [#selfHosting](https://glammr.us/tags/selfHosting) is the next big thing for all my projects, going Linux seems like the way to go...
-
-Tags: [#homelab](https://glammr.us/tags/homelab) [#masto](https://glammr.us/tags/masto) [#meshtastic](https://glammr.us/tags/meshtastic) [#linux](https://glammr.us/tags/linux) [#selfhosting](https://glammr.us/tags/selfhosting) [#ha](https://glammr.us/tags/ha) [#google](https://glammr.us/tags/google) [#gemini](https://glammr.us/tags/gemini)
-
-
-[](https://glammr.us/@librarymonster/117042949568348750)
----
-
-Library Monster - 8/5/2026
-
-Every month I look to see if [#MaxBrooks](https://glammr.us/tags/MaxBrooks) has released his alien invasion book, The First Hundred Hours, as an ARC 🤞🤞🤞Last we heard from him was 6 months ago, February, when he gave us an excerpt on his news feed on his website:https://www.maxbrooks.com/news#Books [#aliens](https://glammr.us/tags/aliens)
-
-Tags: [#MaxBrooks](https://glammr.us/tags/MaxBrooks) [#books](https://glammr.us/tags/books) [#aliens](https://glammr.us/tags/aliens)
 
 
 [Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
