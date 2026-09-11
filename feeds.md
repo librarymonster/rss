@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/117248211282596460)
+---
+
+Library Monster - 9/10/2026
+
+[#Neotropolis](https://glammr.us/tags/Neotropolis) and [#C2E2](https://glammr.us/tags/C2E2) are happening the same week
+
+Tags: [#neotropolis](https://glammr.us/tags/neotropolis) [#c2e2](https://glammr.us/tags/c2e2)
+
+
 [](https://glammr.us/@librarymonster/117232435115227246)
 ---
 
@@ -177,16 +187,6 @@ Library Monster - 8/15/2026
 [#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat's your "More Cake!" trope in fanfiction? You just cannot get enough of this trope 🍰🎂🧁👀Edit: https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes for reference
 
 Tags: [#FDQ](https://glammr.us/tags/FDQ)
-
-
-[](https://glammr.us/@librarymonster/117083573045917161)
----
-
-Library Monster - 8/12/2026
-
-Update! I had a 1TB SSD that booted [#windows](https://glammr.us/tags/windows) and I was kind of overwhelmed by how much cleanup I'd need to do on that drive to switch it to [#Linux](https://glammr.us/tags/Linux) bc I only had like 300 gigs free. Soooo I've purchased another 1 TB SSD that'll be my Linux boot drive and I'll be able to boot up in either! Woohoo! \o/ I love this solution!
-
-Tags: [#linux](https://glammr.us/tags/linux) [#windows](https://glammr.us/tags/windows)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
