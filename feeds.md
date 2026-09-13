@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/117258752076322371)
+---
+
+Library Monster - 9/12/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PDo you have a song that's aggressively attached to your fandom in your head that's NOT part of the official soundtrack (if it has one)? 🎶 What is it, and why does it match your fandom so perfectly?
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ)
+
+
 [](https://glammr.us/@librarymonster/117248211282596460)
 ---
 
@@ -177,16 +187,6 @@ Library Monster - 8/15/2026
 [#Supernatural](https://glammr.us/tags/Supernatural) had at least 2 legend writers from [#XFiles](https://glammr.us/tags/XFiles) in its first season, Ben Edlund and John Shiban, as well as the prolific XFiles director, Kim Manners, who went on get super attached to the [#SPN](https://glammr.us/tags/SPN) production in Vancouver and became known as the "Show Bible" re: universe consistency.SPN's been likened to Buffy and other CW shows like Vampire Diaries, but its baseline XFiles DNA gets overlooked imo 🫶
 
 Tags: [#supernatural](https://glammr.us/tags/supernatural) [#xfiles](https://glammr.us/tags/xfiles) [#spn](https://glammr.us/tags/spn)
-
-
-[](https://glammr.us/@librarymonster/117100611460142167)
----
-
-Library Monster - 8/15/2026
-
-[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat's your "More Cake!" trope in fanfiction? You just cannot get enough of this trope 🍰🎂🧁👀Edit: https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes for reference
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
