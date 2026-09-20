@@ -1,4 +1,34 @@
 
+[](https://glammr.us/@librarymonster/117300643770719341)
+---
+
+Library Monster - 9/20/2026
+
+Figuring out air times when you live in the same timezone you grew up in: remember back to when you were a kid and there were TV episode promos, and they'd end with a guy telling you when it'd air and he'd go "Coming up this Thursday, 9 - 8 central" or "8 - 7 central" and so whenever I see something's on at # ET, I have that guy in my head doing the math going "#-1 central" lol [#Midwest](https://glammr.us/tags/Midwest) [#Millennials](https://glammr.us/tags/Millennials) [#GenXers](https://glammr.us/tags/GenXers)
+
+Tags: [#midwest](https://glammr.us/tags/midwest) [#millennials](https://glammr.us/tags/millennials) [#GenXers](https://glammr.us/tags/GenXers)
+
+
+[](https://glammr.us/@librarymonster/117298407606025884)
+---
+
+Library Monster - 9/19/2026
+
+Just found a stray PureWriter backup file from 2023 on my laptop, back when my Galaxy Z Flip phone died just outside its warranty, and during recovery attempts, I lost about 26k words of [#CreativeWriting](https://glammr.us/tags/CreativeWriting). Original and [#fanfic](https://glammr.us/tags/fanfic), all gone. Guess what? I GOT IT ALL BACK TODAY OMGGGGI'd written the ending of my longest, most popular/beloved fic too, and having to rewrite it from scratch was such a daunting task I'd lowk given up on ever finishing it. Can't BELIEVE this!!! I'M SO HAPPY!!! WOOOOO
+
+Tags: [#creativewriting](https://glammr.us/tags/creativewriting) [#fanfic](https://glammr.us/tags/fanfic)
+
+
+[](https://glammr.us/@librarymonster/117298213064946411)
+---
+
+Library Monster - 9/19/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PHow do you read and/or organize your fanfiction? What digital - or analog! - tools have you tried and what are your favorites?
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ)
+
+
 [](https://glammr.us/@librarymonster/117258752076322371)
 ---
 
@@ -159,34 +189,6 @@ Tags: [#mslis](https://glammr.us/tags/mslis) [#libraryschool](https://glammr.us/
 Library Monster - 8/22/2026
 
 Communities have to get to know *you* too & it can be a record scratch. You think you've shared a beige flag w/a chill tone? Think again 😂 It could be fan community baggage OR just weird one-off miscommunication, but being resilient & persistent usually pays off (unless you start feeling the whole vibe is toxic, which has happened to me before too, so at that point I've noped out of that community to find other ones) 🧵 2/2
-
-
-[](https://glammr.us/@librarymonster/117139980153415182)
----
-
-Library Monster - 8/22/2026
-
-I think the best advice I've gotten (& given) is to encourage & embrace the lurk. To lurk is to learn! But also, ime, lurking might not help as much when you want to start interacting. 🧵 1/2
-
-
-[](https://glammr.us/@librarymonster/117139788136680018)
----
-
-Library Monster - 8/22/2026
-
-[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat advice in your fandom (or fandoms in general) have you received about participating in them that have really helped you?
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ)
-
-
-[](https://glammr.us/@librarymonster/117100658667354907)
----
-
-Library Monster - 8/15/2026
-
-[#Supernatural](https://glammr.us/tags/Supernatural) had at least 2 legend writers from [#XFiles](https://glammr.us/tags/XFiles) in its first season, Ben Edlund and John Shiban, as well as the prolific XFiles director, Kim Manners, who went on get super attached to the [#SPN](https://glammr.us/tags/SPN) production in Vancouver and became known as the "Show Bible" re: universe consistency.SPN's been likened to Buffy and other CW shows like Vampire Diaries, but its baseline XFiles DNA gets overlooked imo 🫶
-
-Tags: [#supernatural](https://glammr.us/tags/supernatural) [#xfiles](https://glammr.us/tags/xfiles) [#spn](https://glammr.us/tags/spn)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
