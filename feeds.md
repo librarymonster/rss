@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/117309650567570788)
+---
+
+Library Monster - 9/21/2026
+
+like half an hour later, upon reflection, idk why it mattered so much that obsidian's logo appear upon launch on my linux desktop taskbar. that was a waste of timeit's a nice logo tho
+
+
 [](https://glammr.us/@librarymonster/117300643770719341)
 ---
 
@@ -181,14 +189,6 @@ Library Monster - 8/26/2026
 I'm so happy to be dropping a class this semester (this is the first week). Now I'm only taking a single 4 credit class & won't be overwhelmed \o/ It's called Crises in Libraries. Very exciting topic with a professor I love, Jeanne Holba Puacz 💕#MSLIS [#LibrarySchool](https://glammr.us/tags/LibrarySchool) [#libraries](https://glammr.us/tags/libraries)
 
 Tags: [#mslis](https://glammr.us/tags/mslis) [#libraryschool](https://glammr.us/tags/libraryschool) [#libraries](https://glammr.us/tags/libraries)
-
-
-[](https://glammr.us/@librarymonster/117139982593814773)
----
-
-Library Monster - 8/22/2026
-
-Communities have to get to know *you* too & it can be a record scratch. You think you've shared a beige flag w/a chill tone? Think again 😂 It could be fan community baggage OR just weird one-off miscommunication, but being resilient & persistent usually pays off (unless you start feeling the whole vibe is toxic, which has happened to me before too, so at that point I've noped out of that community to find other ones) 🧵 2/2
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
