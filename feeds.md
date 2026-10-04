@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/117380601520789829)
+---
+
+Library Monster - 10/4/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PFandom *assignment* this weekend: print out at least one of your favorite pieces of fanart & glue it into your diary/journal/calendar/etc. Take a picture of it & share! OR just share the image you'd print out if you had a printer/had the time to print something at the library (I gotcha - there really isn't enough time in the day!)
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ)
+
+
 [](https://glammr.us/@librarymonster/117309650567570788)
 ---
 
@@ -181,16 +191,6 @@ Library Monster - 8/29/2026
 Tags: [#clay](https://glammr.us/tags/clay) [#art](https://glammr.us/tags/art) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes)
 
 
-[](https://glammr.us/@librarymonster/117161798567469154)
----
-
-Library Monster - 8/26/2026
-
-I'm so happy to be dropping a class this semester (this is the first week). Now I'm only taking a single 4 credit class & won't be overwhelmed \o/ It's called Crises in Libraries. Very exciting topic with a professor I love, Jeanne Holba Puacz 💕#MSLIS [#LibrarySchool](https://glammr.us/tags/LibrarySchool) [#libraries](https://glammr.us/tags/libraries)
-
-Tags: [#mslis](https://glammr.us/tags/mslis) [#libraryschool](https://glammr.us/tags/libraryschool) [#libraries](https://glammr.us/tags/libraries)
-
-
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
 ---
 
@@ -231,10 +231,12 @@ Just installed Jellyfin to access my *stuff*! Which includes an extensive home &
 Tags: [#Homelab](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Homelab) [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Sailing%20the%20Seas%22)
 
 
-[Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
+[The Night Feeling](https://www.reddit.com/r/TheNightFeeling/)
 ---
 
-LibraryMonster.io - 6/8/2026
+LM.io Collection - 5/25/2026
 
-After over 6 months trying to adopt #Apple phones with an iPhone 17 (and please be aware this is about my experience with Apple phones - I have an Apple iPad &amp; I love it), I've moved back to #Android. P will get it for Father's Day!!! I'll take his old iPhone 12 so I can still have an iPhone for reference and tech help interactions at work though. Here's the good for me on iPhones: The iPhone 17 has an incredible automatic camera + filters to make every picture gorgeous. This feature makes such a huge difference in one's experience with their phone. iPhone widgets are awesome - Pressreader's top stories were great (their widget is there in Android but not working for me). Wikipedia had an iPhone widget of the most popular articles that doesn't exist on Android 😭 And weirdly, the whole Hoopla app isn't working on my Nothing3 Android (login page just doesn't appear). The iPhone bad: I write creatively on my phone (long story short I quit smoking &amp; the only way to write without triggering cravings was in bed on my phone, and I came to really enjoy the process!), and I basically stopped when I got the iPhone. I thought perhaps I would learn to love the keyboard; through osmosis &amp; constant texting &amp; writing, I would just pick up how it worked. Instead I came to rely on dictation, which sure is great for casual conversation but dictation is too much if you're worldbuilding or getting emotional over your own scenes. I didn't fiddle with the settings as much as I suppose I could've, and a tech ed colleague of mine indicated her iPhone wasn't as chaotic as my iPhone keyboard was, so perhaps I still just didn't customize it properly. But...
+Similar to r/LiminalSpaces, this subreddit is full of atmosphere and nostalgia.
+
+Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#Photography](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Photography) [#Nostalgia](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Nostalgia) [#Online Community](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Online%20Community%22) [#Treasure Trove](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Treasure%20Trove%22)
 
