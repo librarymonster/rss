@@ -1,4 +1,12 @@
 
+[](https://glammr.us/@librarymonster/117400017571254105)
+---
+
+Library Monster - 10/7/2026
+
+I don't like inflatable lawn decorations. They're so sad deflated in the mornings when I walk my dogs :(
+
+
 [](https://glammr.us/@librarymonster/117380601520789829)
 ---
 
@@ -179,16 +187,6 @@ Library Monster - 8/29/2026
 [#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat's been one of the most transcendent or euphoric experienceS you've had as a fan & how/why was it so amazing?
 
 Tags: [#FDQ](https://glammr.us/tags/FDQ)
-
-
-[](https://glammr.us/@librarymonster/117180257367887770)
----
-
-Library Monster - 8/29/2026
-
-[#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) today's air dry [#clay](https://glammr.us/tags/clay) projects. [#Art](https://glammr.us/tags/Art)
-
-Tags: [#clay](https://glammr.us/tags/clay) [#art](https://glammr.us/tags/art) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
