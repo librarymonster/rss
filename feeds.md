@@ -1,4 +1,20 @@
 
+[](https://glammr.us/@librarymonster/117479498529151846)
+---
+
+Library Monster - 10/21/2026
+
+I'd find about 20 songs - both new and old because I was young & didn't rly know a ton of older music; also I was attached to Supernatural which got me into classic rock. I'd burn them to a blank CD (laptops had CD/DVD drives in them). I'd name the mix  a dramatic phrase or quote. I'd write really tiny to get all the track numbers & songs on the CD too. I still have all of those CDs. Fediverse we should take a look at them together and laugh 😂 🧵 2/2
+
+
+[](https://glammr.us/@librarymonster/117479418385611651)
+---
+
+Library Monster - 10/21/2026
+
+I'm going to reminisce. In college in late 00s, I would go to my favorite coffee place called Hidden Grounds Coffee - smelling of fresh bread & coffee beans, cozy warm yellow lights, worn couches & old wooden chairs & tables - on a day I didn't have any responsibilities that couldn't be put off. I'd plug my laptop in, get a muffin, coffee, settle with headphones on. The whole day, I'd be there researching & sampling new music using Wikipedia, Bandcamp, iTunes, Torrenting, YouTube, etc.🧵1/2
+
+
 [](https://glammr.us/@librarymonster/117400017571254105)
 ---
 
@@ -169,24 +185,44 @@ I will never not love the lighthouse and kraken metaphor [#ofmd](https://glammr.
 Tags: [#ofmd](https://glammr.us/tags/ofmd)
 
 
-[](https://glammr.us/@librarymonster/117184908354879970)
+[DogDog - feed dogs with every search](https://www.dogdog.org/)
 ---
 
-Library Monster - 8/30/2026
+LM.io Collection - 8/12/2026
 
-More [#clay](https://glammr.us/tags/clay) designs (works in progress)! [#art](https://glammr.us/tags/art) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes)
+From the creators of GoodSearch.com! Aw I remember goodsearch 🫶 I'm using ecosia right now but this might be an excellent alternative search engine to Google (looking for search engines that don't conflate an Internet search with an AI prompt).
 
-Tags: [#clay](https://glammr.us/tags/clay) [#art](https://glammr.us/tags/art) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes)
+Tags: [#Access: website & mobile app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%20%26%20mobile%20app%22) [#Internet Navigation](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Internet%20Navigation%22) [#Search Engine](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Search%20Engine%22)
 
 
-[](https://glammr.us/@librarymonster/117180602138132062)
+[Space Weather Prediction Center National Oceanic and Atmospheric Administration](https://www.spaceweather.gov/)
 ---
 
-Library Monster - 8/29/2026
+LM.io Collection - 7/22/2026
 
-[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PWhat's been one of the most transcendent or euphoric experienceS you've had as a fan & how/why was it so amazing?
+Space Weather sounds silly but it's real and NOAA is running it and everyone should know about this. This is the site that everyone will realize they should've been consulting when the internet apocalypse hits.
 
-Tags: [#FDQ](https://glammr.us/tags/FDQ)
+Tags: [#Weather](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Weather) [#Access: website](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%22) [#US Government Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22US%20Government%20Source%22) [#News](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23News) [#Public Domain/CC](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Public%20Domain%2FCC%22) [#SolarPunk](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23SolarPunk)
+
+
+[National Weather Service (NWS) Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTg3LjcyMSw0Mi4wNzZdLCJsb2NhdGlvbiI6Wy04Ny43MjEsNDIuMDc2XSwiem9vbSI6NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOnRydWUsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6ZmFsc2UsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19)
+---
+
+LM.io Collection - 7/8/2026
+
+We recently had some summer stormy weather and we binged Twister and Twisters and Widows Bay and now I want a radar weather view in my homelab refreshing every 15 minutes. A spare monitor, this page, and the Firefox add-on 'Auto refresh page' c'mon now this is awesome...
+
+Tags: [#Weather](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Weather) [#US Government Source](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22US%20Government%20Source%22) [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22)
+
+
+[Vallaquenta/jellyfin-arr-stack: A complete guide to setting up a Jellyfin server with automated requests via a full *arr stack](https://github.com/Vallaquenta/jellyfin-arr-stack)
+---
+
+LM.io Collection - 6/16/2026
+
+Just installed Jellyfin to access my *stuff*! Which includes an extensive home & family library of photography & videos
+
+Tags: [#Homelab](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Homelab) [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Sailing%20the%20Seas%22)
 
 
 [Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
@@ -195,64 +231,4 @@ Tags: [#FDQ](https://glammr.us/tags/FDQ)
 LibraryMonster.io - 6/8/2026
 
 After over 6 months trying to adopt #Apple phones with an iPhone 17 (and please be aware this is about my experience with Apple phones - I have an Apple iPad &amp; I love it), I've moved back to #Android. P will get it for Father's Day!!! I'll take his old iPhone 12 so I can still have an iPhone for reference and tech help interactions at work though. Here's the good for me on iPhones: The iPhone 17 has an incredible automatic camera + filters to make every picture gorgeous. This feature makes such a huge difference in one's experience with their phone. iPhone widgets are awesome - Pressreader's top stories were great (their widget is there in Android but not working for me). Wikipedia had an iPhone widget of the most popular articles that doesn't exist on Android 😭 And weirdly, the whole Hoopla app isn't working on my Nothing3 Android (login page just doesn't appear). The iPhone bad: I write creatively on my phone (long story short I quit smoking &amp; the only way to write without triggering cravings was in bed on my phone, and I came to really enjoy the process!), and I basically stopped when I got the iPhone. I thought perhaps I would learn to love the keyboard; through osmosis &amp; constant texting &amp; writing, I would just pick up how it worked. Instead I came to rely on dictation, which sure is great for casual conversation but dictation is too much if you're worldbuilding or getting emotional over your own scenes. I didn't fiddle with the settings as much as I suppose I could've, and a tech ed colleague of mine indicated her iPhone wasn't as chaotic as my iPhone keyboard was, so perhaps I still just didn't customize it properly. But...
-
-
-[Tavish crossed the Rainbow Bridge today](https://librarymonster.dreamwidth.org/1896.html)
----
-
-LibraryMonster.io - 5/17/2026
-
-My darling babe Tavish crossed the rainbow bridge today. He had heart disease but this was sudden heart failure. He was a rescue, estimated 3-4 years old when we adopted him in 2016.&nbsp;When we adopted him, he was pretty traumatized &amp; scared at first. He&rsquo;d been rescued from a puppy mill in Oklahoma; kept in a cage outside &amp; obviously mistreated by humans.&nbsp;He was never aggressive with us (or anyone), just easily spooked. I called him my mouse pup. He had the sweetest light brown eyes. The cutest little kitten licks.&nbsp;As he got older, we built some amazing trustful habits:&nbsp;Tavvy would bark for me in the morning and night for cuddles and kisses.&nbsp;&nbsp;He would get so excited for bed, our little twirling dervish, &ldquo;Tavishnikov&rdquo; doing pirouettes when it was time for naps &amp; night-nights.&nbsp;Every time I got home for work he&rsquo;d go up on his hind legs and I&rsquo;d &ldquo;catch&rdquo; him &amp; pick him up, put him in my lap.Hugs, kisses, staring into each other&rsquo;s eyes for a while. Those endorphin boosts were the best after a long day.&nbsp;He loved my nails scritching his little head.I&rsquo;m sure there&rsquo;s more. I&rsquo;ll probably edit this post further as I think of them.
-
-Edit: he had the best Christmas Day this year; we wrapped a ton of small squeaky toys for him and every time we indicated a gift was for him, and helped him unwrap it, he got so excited. When it was finally free of wrapping, he'd hoard it and chew on it (until the next gift came along)!
-
-It was controlled and peaceful, with Tavvy only a little uncomfortable, not distressed or scared. I&rsquo;m really grateful to BluePearl Emergency Animal Hospital.
-
-I miss him so much already. Gotta remember he&rsquo;s in doggy heaven chasing the hot dog (toy) with his...
-
-
-[New York City](https://librarymonster.dreamwidth.org/1684.html)
----
-
-LibraryMonster.io - 5/10/2026
-
-Dear Reader,
-
-I recently visited New York City and I loooved it (as always). I was there for a medley of Mother's Day and my mums' birthday celebrations with my sisters, C and O, and my mom, E.
-
-We stayed at The Conrad in Battery Park City. The suites were roomy and clean, Leonessa was the rooftop bar and it was super charming but our heater was broken so we had to peace out a little earlier than planned. 
-
-We did a lot of walking on this trip, first stopping at Brookfield Place for coffee and brekkies and memory lane (right after my sister had her kiddo, my mom and I tripped over to help and we'd take him in his stroller, spend hours in Brookfield Place talking &amp; looking at stuff). Then we'd walk along the water either down to the Financial district where O lives or, one morning we headed up to the West Village for a stationary crawl.
-
-The Stationary Crawl
-
-- [Pink Olive West Village](https://pinkolive.com/): super cute but small corner shop of stationary, stickers, well-curated gifts for people of all ages.
-
-- We visited my sister's old apartment building when she lived in the West Village in the 2000s/aughts (and I would come stay the weekends while I was in college&nbsp;:p
-
-- [Greenwich Letterpress](https://greenwichletterpress.com/): what an absolute gem! The feminist energy was amazing in here. The cashier glowed when she overheard me tell my sister that I buy tarot decks when I'm experiencing a lot of joy, haha.&nbsp;
-
-- [Goods for the Study West Village](https://goodsforthestudy.com/): had a ton of fountain pen options, which was a very impressive collection and yet, since I'm left-handed, one in which I cannot indulge. Although that fact does save me a lot of money. I was impressed with how this [to-die-for...
-
-
-[Intro Post 👻](https://librarymonster.dreamwidth.org/1372.html)
----
-
-LibraryMonster.io - 4/20/2026
-
-Dear Reader,
-
-My name is Linn&eacute;a, aka Library Monster, and I'm so happy to finally have a blog platform. I know Dreamwidth has been here since LJ, but I was shopping around for a long time. I kept coming back to DW, so here I am! Finally! Can't wait to have a blogging home, and also join and contribute to this space as an online community.
-
-To introduce myself, I'm going to go through the [eight dimensions of wellness](https://pmc.ncbi.nlm.nih.gov/articles/PMC5508938/table/t1-cvj_08_861/) because I think that could be interesting.
-
-Physical health - I attribute entirely to my dogs, two of whom I rescued on a chilly Saturday morning this past February. From left (foreground) to right, that is Tiberius (nicknamed Tank), Persephone (nicknamed Phe), and Tavish. Tank &amp; Phe are our most recent additions; Tavish is a bit older and shy, but the babes are all adjusting.
-
-Intellectual health has a few points to mention!
-
-I suppose this is where I share my love for indie tech (probably doesn't come as a surprise since I've chosen DW) and art in all its forms. My website, [LibraryMonster.io](https://librarymonster.io/), features my designs and works with 3D printing, digital art, traditional &amp; mixed media art, videography, stationary/papercraft, photography, etc. I refuse to be locked down to a medium as an artist!
-
-And then my indie web &amp; tech brain is all about finding cyberpunk dystopias cool, but really solarpunk's the goal. I just installed Linux on 3 different aging laptops of mine &amp; it's going awesome. Next step is to make one of them a media server...
-
-Of course I'm a fandom person. Horror, fantasy, and scifi are my jam. I am picky about what actually hijacks my brain and has me creating fanworks though. In something like chronological order, my fannish mind has fixated on X-Files,...
 
