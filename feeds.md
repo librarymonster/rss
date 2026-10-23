@@ -1,4 +1,22 @@
 
+[](https://glammr.us/@librarymonster/117485107960271157)
+---
+
+Library Monster - 10/22/2026
+
+Yesterday I saw something somewhere that was like "the psychology of people who don't post images of themselves online" and I was like IS THIS MY TIME!??? 😂 Let me do a manifesto about the entire friggin paradigm of non-anonymous platforms destroying privacy AND THE FUN OF THE INTERNET ENTIRELY That kids are "Growing Up in Public" (book title abt this) is so shitty. Hugs to my poor Gen Z & Alphas. My advice - find smaller, weirder text-only anonymous places to explore! They do still exist 💛
+
+
+[](https://glammr.us/@librarymonster/117484976393743894)
+---
+
+Library Monster - 10/22/2026
+
+I just let go of a book - returned it early and relinquished it to my DNR pile - after getting 31% through it, and I think that's my new threshold. If I'm not feeling it by 30% in, I *need* to fight against the urge to complete, bc 60% more of the slog to read it is not worth it.What're your DNR thresholds? ((Now that I think about it, it could be fun to track how many [#books](https://glammr.us/tags/books) I can read 30% of and frame that like an accomplishment. I mean, it's a great reader's advisory goal tbh))
+
+Tags: [#books](https://glammr.us/tags/books)
+
+
 [](https://glammr.us/@librarymonster/117479498529151846)
 ---
 
@@ -163,26 +181,6 @@ Library Monster - 9/2/2026
 Since I lost Perplexity, I've been using MS [#Copilot](https://glammr.us/tags/Copilot) (via my school's MS365 subscription) and it's so clunky. I've scrolled and copied and pasted a ton until I finally got what I wanted:  [#Ollama](https://glammr.us/tags/Ollama) installed > pulling Mistral & DeepSeek > installing AnythingLLM as a GUI via browser port (not the desktop app). Plans to install [#SillyTavern](https://glammr.us/tags/SillyTavern) soon too to see how fun & useful that might be re: catching consistency errors in my works... 2/2 🧵
 
 Tags: [#copilot](https://glammr.us/tags/copilot) [#ollama](https://glammr.us/tags/ollama) [#SillyTavern](https://glammr.us/tags/SillyTavern)
-
-
-[](https://glammr.us/@librarymonster/117199337759611505)
----
-
-Library Monster - 9/2/2026
-
-So I used my student discount to get [#Perplexity](https://glammr.us/tags/Perplexity) Pro for a year. Didn't realize that the 2000 computer credits were a one-time thing for the whole year :/BUT Perplexity was an A+ learning tool. With it, I learned more advanced stuff on Github, began my home networking journey: Jellyfin, all my old laptops via samba, Tailscale;  backup & drive failure configurations, solar power questions, etc. 1/2 🧵
-
-Tags: [#perplexity](https://glammr.us/tags/perplexity)
-
-
-[](https://glammr.us/@librarymonster/117184915729518589)
----
-
-Library Monster - 8/30/2026
-
-I will never not love the lighthouse and kraken metaphor [#ofmd](https://glammr.us/tags/ofmd) 💛🕯️🐙
-
-Tags: [#ofmd](https://glammr.us/tags/ofmd)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
