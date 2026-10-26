@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/117504225858342365)
+---
+
+Library Monster - 10/25/2026
+
+Tonight I'm watching [#Colony](https://glammr.us/tags/Colony) the 2026 [#zombie](https://glammr.us/tags/zombie) movie from South Korea. 8 minutes in and the acting and production value is top notch. So excited for the zombies to appear 🧟
+
+Tags: [#colony](https://glammr.us/tags/colony) [#zombie](https://glammr.us/tags/zombie)
+
+
+[BookDrop](https://bookdrop.cc/)
+---
+
+LM.io Collection - 10/25/2026
+
+After my Kobo's latest firmware update, something went wrong with djazz.se and I couldn't sideload my fanfics anymore 😱 Then I got redirected to this site yesterday. New look! New name! And it works! ✨✨✨
+
+Tags: [#Access: website/web app](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Access%3A%20website%2Fweb%20app%22) [#DRM-free](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23DRM-free) [#eBooks](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23eBooks) [#Reading](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Reading) [#Fandom](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Fandom)
+
+
 [](https://glammr.us/@librarymonster/117496556954242953)
 ---
 
@@ -173,16 +193,6 @@ Rewatching [#XFiles](https://glammr.us/tags/XFiles) and wow I love this show so 
 Tags: [#xfiles](https://glammr.us/tags/xfiles) [#artificialintelligence](https://glammr.us/tags/artificialintelligence)
 
 
-[](https://glammr.us/@librarymonster/117219197685436343)
----
-
-Library Monster - 9/5/2026
-
-[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PShare one of your favorite gifs or excerpts from your fandom of choice! Bonus points if you make your own 🧰🪚🔨 (https://ezgif.com/✨)
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ)
-
-
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
 ---
 
@@ -221,12 +231,4 @@ LM.io Collection - 6/16/2026
 Just installed Jellyfin to access my *stuff*! Which includes an extensive home & family library of photography & videos
 
 Tags: [#Homelab](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23Homelab) [#Sailing the Seas](https://librarymonster.raindrop.page/lm-io-collection-69723429/view/sort=-created&search=%23%22Sailing%20the%20Seas%22)
-
-
-[Android, Apple, and Learning to Love the Password Manager](https://librarymonster.dreamwidth.org/2255.html)
----
-
-LibraryMonster.io - 6/8/2026
-
-After over 6 months trying to adopt #Apple phones with an iPhone 17 (and please be aware this is about my experience with Apple phones - I have an Apple iPad &amp; I love it), I've moved back to #Android. P will get it for Father's Day!!! I'll take his old iPhone 12 so I can still have an iPhone for reference and tech help interactions at work though. Here's the good for me on iPhones: The iPhone 17 has an incredible automatic camera + filters to make every picture gorgeous. This feature makes such a huge difference in one's experience with their phone. iPhone widgets are awesome - Pressreader's top stories were great (their widget is there in Android but not working for me). Wikipedia had an iPhone widget of the most popular articles that doesn't exist on Android 😭 And weirdly, the whole Hoopla app isn't working on my Nothing3 Android (login page just doesn't appear). The iPhone bad: I write creatively on my phone (long story short I quit smoking &amp; the only way to write without triggering cravings was in bed on my phone, and I came to really enjoy the process!), and I basically stopped when I got the iPhone. I thought perhaps I would learn to love the keyboard; through osmosis &amp; constant texting &amp; writing, I would just pick up how it worked. Instead I came to rely on dictation, which sure is great for casual conversation but dictation is too much if you're worldbuilding or getting emotional over your own scenes. I didn't fiddle with the settings as much as I suppose I could've, and a tech ed colleague of mine indicated her iPhone wasn't as chaotic as my iPhone keyboard was, so perhaps I still just didn't customize it properly. But...
 
