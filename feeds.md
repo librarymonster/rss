@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/117527363846031443)
+---
+
+Library Monster - 10/30/2026
+
+Trying to figure out what I can do to help regarding my *massive* collection of fandom-specific fics now that [#AO3](https://glammr.us/tags/AO3) is down... This is and was always the problem with having a single centralized archive...Are ppl using the wayback machine? Archive.org can be your new best friend
+
+Tags: [#ao3](https://glammr.us/tags/ao3)
+
+
 [](https://glammr.us/@librarymonster/117504225858342365)
 ---
 
@@ -181,16 +191,6 @@ Library Monster - 9/6/2026
 Also, S01E02 'Deep Throat' where they go to a military base to see UFOs (and Seth Green guest stars lol), there's a couple striking moments where Scully = Dean Winchester and it's the best [#SPN](https://glammr.us/tags/SPN) [#XFiles](https://glammr.us/tags/XFiles)
 
 Tags: [#spn](https://glammr.us/tags/spn) [#xfiles](https://glammr.us/tags/xfiles)
-
-
-[](https://glammr.us/@librarymonster/117226591338690355)
----
-
-Library Monster - 9/6/2026
-
-Rewatching [#XFiles](https://glammr.us/tags/XFiles) and wow I love this show so much. 'Ghost in the Machine' S1E7 featured a tech genius who created his own [#ArtificialIntelligence](https://glammr.us/tags/ArtificialIntelligence) AND applied it to a smart home network holy shit lol
-
-Tags: [#xfiles](https://glammr.us/tags/xfiles) [#artificialintelligence](https://glammr.us/tags/artificialintelligence)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
