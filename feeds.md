@@ -1,4 +1,30 @@
 
+[](https://glammr.us/@librarymonster/117587339421288273)
+---
+
+Library Monster - 11/9/2026
+
+Even after AO3 comes back up, this will be a useful alternate and complementary filtering and searching tool for fics. (Also, I'm not interested in serving these fics; maybe I'll let ppl request and I'll see what I can do to email specific fics, but if my site got a lot of traffic, I'd drown under the requests. Rather, I'd offer the AO3 URL as a metadata field to capture so you could find it on wayback machine or something (or on AO3 when it's back up)) 🧵 3/3
+
+
+[](https://glammr.us/@librarymonster/117587336744684985)
+---
+
+Library Monster - 11/9/2026
+
+So, thanks to an amazing user in r/DHExchange I've got the 2025-2026 scrape of AO3. I'll import into calibre, generate a catalog .json file, and get started with JavaScript to make it possible to search AO3 works by their catalog metadata to search using ANDs and ORs like that. 🧵 2/3
+
+
+[](https://glammr.us/@librarymonster/117587314715855186)
+---
+
+Library Monster - 11/9/2026
+
+Okay my thoughts on how to help with [#AO3](https://glammr.us/tags/AO3) down. My gripe with AO3 was always that I could never use the search page to find my favorite tropes across fandoms or ships. You couldn't say "please give me 'Android AU' or 'Hurt/Comfort' in either Supernatural OR X-Files" and get matches. 🧵 1/2
+
+Tags: [#ao3](https://glammr.us/tags/ao3)
+
+
 [](https://glammr.us/@librarymonster/117527363846031443)
 ---
 
@@ -165,32 +191,6 @@ Library Monster - 9/7/2026
 Close-up of the clay phone 😎📳((don't ask me what it's for. I'm not sure tbh I just love it)) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) [#90s](https://glammr.us/tags/90s) [#80s90s](https://glammr.us/tags/80s90s)
 
 Tags: [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) [#90s](https://glammr.us/tags/90s) [#80s90s](https://glammr.us/tags/80s90s)
-
-
-[](https://glammr.us/@librarymonster/117232403793428847)
----
-
-Library Monster - 9/7/2026
-
-Labor Day evening relaxing haha
-
-
-[](https://glammr.us/@librarymonster/117230541409578743)
----
-
-Library Monster - 9/7/2026
-
-No Labor Day sales for a 16 gig graphics card
-
-
-[](https://glammr.us/@librarymonster/117226618089257841)
----
-
-Library Monster - 9/6/2026
-
-Also, S01E02 'Deep Throat' where they go to a military base to see UFOs (and Seth Green guest stars lol), there's a couple striking moments where Scully = Dean Winchester and it's the best [#SPN](https://glammr.us/tags/SPN) [#XFiles](https://glammr.us/tags/XFiles)
-
-Tags: [#spn](https://glammr.us/tags/spn) [#xfiles](https://glammr.us/tags/xfiles)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
