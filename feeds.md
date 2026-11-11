@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/117592433632167107)
+---
+
+Library Monster - 11/10/2026
+
+Progress update on my [#AO3](https://glammr.us/tags/AO3) project [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders) (see https://glammr.us/@librarymonster/117587314715855186) Imported 77k fics (1,723,000 to go 😂) (it took about 6-7 hours) into [#calibre](https://glammr.us/tags/calibre). Accidentally duplicated 4% of the import, then deleted all fics that were duped, le sigh (will re-import the whole 77k later). Got the .json catalog file though.Began on [#Codeberg](https://glammr.us/tags/Codeberg) (yay!) Got stuck uploading the json file: its upload file maximum is 100 mb & mine was approx 126. Next steps will be to split it up 👌
+
+Tags: [#ao3](https://glammr.us/tags/ao3) [#calibre](https://glammr.us/tags/calibre) [#codeberg](https://glammr.us/tags/codeberg) [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders)
+
+
+[](https://glammr.us/@librarymonster/117592394983560809)
+---
+
+Library Monster - 11/10/2026
+
+We're gonna call it [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders) I'm gonna use this tag to track my progress on this 😅
+
+Tags: [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders)
+
+
 [](https://glammr.us/@librarymonster/117587339421288273)
 ---
 
@@ -173,24 +193,6 @@ Library Monster - 9/10/2026
 [#Neotropolis](https://glammr.us/tags/Neotropolis) and [#C2E2](https://glammr.us/tags/C2E2) are happening the same week
 
 Tags: [#neotropolis](https://glammr.us/tags/neotropolis) [#c2e2](https://glammr.us/tags/c2e2)
-
-
-[](https://glammr.us/@librarymonster/117232435115227246)
----
-
-Library Monster - 9/7/2026
-
-I wanna call it "Saved By the Cell" 😂
-
-
-[](https://glammr.us/@librarymonster/117232430885689484)
----
-
-Library Monster - 9/7/2026
-
-Close-up of the clay phone 😎📳((don't ask me what it's for. I'm not sure tbh I just love it)) [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) [#90s](https://glammr.us/tags/90s) [#80s90s](https://glammr.us/tags/80s90s)
-
-Tags: [#LibraryMonsterMakes](https://glammr.us/tags/LibraryMonsterMakes) [#90s](https://glammr.us/tags/90s) [#80s90s](https://glammr.us/tags/80s90s)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
