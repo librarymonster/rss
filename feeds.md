@@ -1,4 +1,14 @@
 
+[](https://glammr.us/@librarymonster/117598769914300993)
+---
+
+Library Monster - 11/11/2026
+
+Split was easy enough to do with an online json splitter tool. Created a manifest that'll have eleventy billion chunked jsons... sheesh. Bought IA2.lol and internetapocalypsearchive.lol domains. Created the initial webpage for [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders) - seems to work? It's dicey though. But actually it's SO EXCITING to see it come to life as a webpage though.
+
+Tags: [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders)
+
+
 [](https://glammr.us/@librarymonster/117592433632167107)
 ---
 
@@ -183,16 +193,6 @@ Library Monster - 9/12/2026
 [#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PDo you have a song that's aggressively attached to your fandom in your head that's NOT part of the official soundtrack (if it has one)? 🎶 What is it, and why does it match your fandom so perfectly?
 
 Tags: [#FDQ](https://glammr.us/tags/FDQ)
-
-
-[](https://glammr.us/@librarymonster/117248211282596460)
----
-
-Library Monster - 9/10/2026
-
-[#Neotropolis](https://glammr.us/tags/Neotropolis) and [#C2E2](https://glammr.us/tags/C2E2) are happening the same week
-
-Tags: [#neotropolis](https://glammr.us/tags/neotropolis) [#c2e2](https://glammr.us/tags/c2e2)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
