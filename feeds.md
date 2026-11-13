@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/117606942780322549)
+---
+
+Library Monster - 11/13/2026
+
+[#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders) project continued today: moved my calibre library into my 8TB HDD but then the process to import epubs into that calibre library tanked. Drastic slowdown. Impossible.So okay. New plan: move all my movies & TV into the 8TB HDD. Test it with Jellyfin. If even that's slow, return the 8TB HDD (or keep it as a physical backup, I guess :(
+
+Tags: [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders)
+
+
+[](https://glammr.us/@librarymonster/117601998536935002)
+---
+
+Library Monster - 11/12/2026
+
+My [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders) project is coming along really well!!- Added the [#AO3](https://glammr.us/tags/AO3) links to every search result. - Bold styling on terms that match the Boolean searches- You can "shuffle" the search results (it only shows 100 of all matching results; shuffling will shuffle ALL results & display the new 100)- On principle there'll be no sorting to increase odds of discovering unknown gems & playing more with Boolean operators- Implemented a "saved search" feature & it's ugly & awkward...
+
+Tags: [#TropesWithoutBorders](https://glammr.us/tags/TropesWithoutBorders) [#ao3](https://glammr.us/tags/ao3)
+
+
 [](https://glammr.us/@librarymonster/117598769914300993)
 ---
 
@@ -173,26 +193,6 @@ Library Monster - 9/19/2026
 Just found a stray PureWriter backup file from 2023 on my laptop, back when my Galaxy Z Flip phone died just outside its warranty, and during recovery attempts, I lost about 26k words of [#CreativeWriting](https://glammr.us/tags/CreativeWriting). Original and [#fanfic](https://glammr.us/tags/fanfic), all gone. Guess what? I GOT IT ALL BACK TODAY OMGGGGI'd written the ending of my longest, most popular/beloved fic too, and having to rewrite it from scratch was such a daunting task I'd lowk given up on ever finishing it. Can't BELIEVE this!!! I'M SO HAPPY!!! WOOOOO
 
 Tags: [#creativewriting](https://glammr.us/tags/creativewriting) [#fanfic](https://glammr.us/tags/fanfic)
-
-
-[](https://glammr.us/@librarymonster/117298213064946411)
----
-
-Library Monster - 9/19/2026
-
-[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PHow do you read and/or organize your fanfiction? What digital - or analog! - tools have you tried and what are your favorites?
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ)
-
-
-[](https://glammr.us/@librarymonster/117258752076322371)
----
-
-Library Monster - 9/12/2026
-
-[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PDo you have a song that's aggressively attached to your fandom in your head that's NOT part of the official soundtrack (if it has one)? 🎶 What is it, and why does it match your fandom so perfectly?
-
-Tags: [#FDQ](https://glammr.us/tags/FDQ)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
