@@ -1,4 +1,24 @@
 
+[](https://glammr.us/@librarymonster/117617444644501919)
+---
+
+Library Monster - 11/14/2026
+
+Just watched some fan edits on tiktok of [#HungerGames](https://glammr.us/tags/HungerGames) Katniss/Peeta & now I'm gonna watch the movies with them in mind hoping for a whole new ship to sail once AO3's back up
+
+Tags: [#hungergames](https://glammr.us/tags/hungergames)
+
+
+[](https://glammr.us/@librarymonster/117616132952003174)
+---
+
+Library Monster - 11/14/2026
+
+[#FDQ](https://glammr.us/tags/FDQ) Fandom Discussion Question of the week https://glammr.us/@librarymonster/116997836792003968 :PHOW ARE YOU COPING [#AO3](https://glammr.us/tags/AO3)
+
+Tags: [#FDQ](https://glammr.us/tags/FDQ) [#ao3](https://glammr.us/tags/ao3)
+
+
 [](https://glammr.us/@librarymonster/117606942780322549)
 ---
 
@@ -173,26 +193,6 @@ Tags: [#FDQ](https://glammr.us/tags/FDQ)
 Library Monster - 9/21/2026
 
 like half an hour later, upon reflection, idk why it mattered so much that obsidian's logo appear upon launch on my linux desktop taskbar. that was a waste of timeit's a nice logo tho
-
-
-[](https://glammr.us/@librarymonster/117300643770719341)
----
-
-Library Monster - 9/20/2026
-
-Figuring out air times when you live in the same timezone you grew up in: remember back to when you were a kid and there were TV episode promos, and they'd end with a guy telling you when it'd air and he'd go "Coming up this Thursday, 9 - 8 central" or "8 - 7 central" and so whenever I see something's on at # ET, I have that guy in my head doing the math going "#-1 central" lol [#Midwest](https://glammr.us/tags/Midwest) [#Millennials](https://glammr.us/tags/Millennials) [#GenXers](https://glammr.us/tags/GenXers)
-
-Tags: [#midwest](https://glammr.us/tags/midwest) [#millennials](https://glammr.us/tags/millennials) [#GenXers](https://glammr.us/tags/GenXers)
-
-
-[](https://glammr.us/@librarymonster/117298407606025884)
----
-
-Library Monster - 9/19/2026
-
-Just found a stray PureWriter backup file from 2023 on my laptop, back when my Galaxy Z Flip phone died just outside its warranty, and during recovery attempts, I lost about 26k words of [#CreativeWriting](https://glammr.us/tags/CreativeWriting). Original and [#fanfic](https://glammr.us/tags/fanfic), all gone. Guess what? I GOT IT ALL BACK TODAY OMGGGGI'd written the ending of my longest, most popular/beloved fic too, and having to rewrite it from scratch was such a daunting task I'd lowk given up on ever finishing it. Can't BELIEVE this!!! I'M SO HAPPY!!! WOOOOO
-
-Tags: [#creativewriting](https://glammr.us/tags/creativewriting) [#fanfic](https://glammr.us/tags/fanfic)
 
 
 [DogDog - feed dogs with every search](https://www.dogdog.org/)
